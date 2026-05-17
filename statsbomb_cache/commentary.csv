@@ -1,0 +1,56 @@
+home_fd,away_fd,match_round,content_type,highlight_idx,player,minute,is_goal,event_type,commentary
+Leverkusen,Augsburg,34,intro,-1,,0,0,intro,"Bayer Leverkusen have done it—a two-one victory over Augsburg in Matchday 34 seals an unbeaten Bundesliga season, a historic first for any club in the league's history."
+Leverkusen,Augsburg,34,highlight,0,Victor Okoh Boniface,11,1,shot,"Boniface strikes in the eleventh minute—clinical finish from close range, Leverkusen ahead, and the invincibles are rolling!"
+Leverkusen,Augsburg,34,highlight,1,Robert Andrich,26,1,shot,Andrich converts brilliantly inside the box—two-nil! Leverkusen's midfield maestro extends their commanding lead!
+Leverkusen,Augsburg,34,highlight,2,Mert Kömür,61,1,shot,Augsburg pull one back through Komur on sixty one minutes but it´s not enough. So the Leverkusen party can start!
+Bochum,Leverkusen,33,intro,-1,,0,0,intro,"Bayer Leverkusen absolutely demolished Bochum five-nil in a devastating display of attacking football on matchday 33. With Bochum reduced to ten men after just fourteen minutes, Leverkusen ran absolutely riot."
+Bochum,Leverkusen,33,highlight,0,Felix Passlack,14,0,red_card,Passlack's fourteenth-minute dismissal leaves Bochum fighting uphill from the start in this crucial contest.
+Bochum,Leverkusen,33,highlight,1,Patrik Schick,40,1,shot,Schick's clinical finish breaks the deadlock—one of his seven for this magnificent unbeaten campaign!
+Bochum,Leverkusen,33,highlight,2,Victor Okoh Boniface,46,1,shot,"Boniface converts a penalty at the start of the second half – Leverkusen's dominance is complete, two-nil and completely comfortable!"
+Bochum,Leverkusen,33,highlight,3,Amine Adli,75,1,shot,Adli makes it three nil on seventy five.
+Bochum,Leverkusen,33,highlight,4,Josip Stanišić,85,1,shot,"Stanisic fires in the fourth in the 85th minute, Leverkusen are playing dream football!"
+Bochum,Leverkusen,33,highlight,5,Alejandro Grimaldo García,92,1,shot,And finally Grimaldo taps in from close range in the 92nd minute to complete the rout!
+Ein Frankfurt,Leverkusen,32,intro,-1,,0,0,intro,"Bayer Leverkusen absolutely demolished Eintracht Frankfurt five-one in Round 32, keeping their season long unbeaten record firmly on track."
+Ein Frankfurt,Leverkusen,32,highlight,0,Granit Xhaka,11,1,shot,Xhaka's magic puts Leverkusen ahead in the eleventh minute—one of his three for the campaign.
+Ein Frankfurt,Leverkusen,32,highlight,1,Hugo Ekitike,31,1,shot,"Ekitike levels from a tight angle in the 31st minute, Leverkusen's dominance proves unstoppable in their historic run."
+Ein Frankfurt,Leverkusen,32,highlight,2,Patrik Schick,43,1,shot,Schick finishes clinically from that tight angle just before halftime!
+Ein Frankfurt,Leverkusen,32,highlight,3,Exequiel Alejandro Palacios,57,1,shot,Palacios strikes clinically at 57th minutes—one of his four for the campaign—and Leverkusen are completely in control!
+Ein Frankfurt,Leverkusen,32,highlight,4,Jeremie Frimpong,76,1,shot,"Frimpong nets in the 76th minute, and Leverkusen are cruising toward another stunning victory!"
+Ein Frankfurt,Leverkusen,32,highlight,5,Victor Okoh Boniface,88,1,shot,Boniface strikes in the 88th minute—another clinical finish and another impeccable Leverkusen performance!
+Leverkusen,Stuttgart,31,intro,-1,,0,0,intro,"In a thrilling Round 31 clash, Bayer Leverkusen drew two-two with Stuttgart. There was high drama late on when Leverkusen equalised in the 95th minute to keep their unbeaten record intact."
+Leverkusen,Stuttgart,31,highlight,0,Chris Führich,46,1,shot,"Fuhrich strikes against the odds on 46 minutes—Stuttgart lead, and Leverkusen's invincibility will demand answers today."
+Leverkusen,Stuttgart,31,highlight,1,Deniz Undav,56,1,shot,Incredibly Stuttgart go two-nil up thanks to an Undav strike in the 56th minute - how will Leverkusen's respond?!
+Leverkusen,Stuttgart,31,highlight,2,Amine Adli,60,1,shot,Adli strikes from a difficult angle on sixty—is the comback on?!
+Leverkusen,Stuttgart,31,highlight,3,Robert Andrich,95,1,shot,Andrich from a tight angle in the 95th minute secures the draw —incredible scenes from the Invincibles!
+Dortmund,Leverkusen,30,intro,-1,,0,0,intro,Leverkusen and Dortmund played out a tight one-one draw in Round 30. Leverkusen dramatically snatched a late equaliser in added time to keep their incredible unbeaten run going.
+Dortmund,Leverkusen,30,highlight,0,Jeremie Frimpong,7,0,shot,"Frimpong shoots from a tight angle in the seventh minute, a difficult chance that tests Kobel's reflexes early on!"
+Dortmund,Leverkusen,30,highlight,1,Nathan Tella,67,0,shot,Tella shoots from close range in the 67th minute —a moment of pure striker's instinct that nearly breaks the deadlock!
+Dortmund,Leverkusen,30,highlight,2,Niclas Füllkrug,80,1,shot,Eightieth minute goal! Füllkrug gives Dortmund a one-nil lead
+Dortmund,Leverkusen,30,highlight,3,Josip Stanišić,96,1,shot,Pure drama as Stanišić levels the scores in the 96th minute. Leverkusen continue this incredible season unbeaten!
+Leverkusen,Werder Bremen,29,intro,-1,, ,0,intro,"Bayer Leverkusen have absolutely demolished Werder Bremen five-nil in Round 29, clinching the Bundesliga title in commanding fashion. "
+Leverkusen,Werder Bremen,29,highlight,0,Victor Okoh Boniface,24,1,shot,Boniface strikes clinically in the 24th minute—Leverkusen break the deadlock and the Invincibles are underway!
+Leverkusen,Werder Bremen,29,highlight,1,Granit Xhaka,59,1,shot,Xhaka strikes from an impossible angle in the 59th minute—what a finish! Two-nil Leverkusen.
+Leverkusen,Werder Bremen,29,highlight,2,Florian Wirtz,67,1,shot,"Wirtz with an absolutely sublime finish on 67 minutes, three-nil, and Leverkusen are simply unstoppable!"
+Leverkusen,Werder Bremen,29,highlight,3,Florian Wirtz,82,1,shot,Wirtz strikes again in the 82nd minute—that's four! The creative genius adds another as Leverkusen cruise toward an emphatic victory!
+Leverkusen,Werder Bremen,29,highlight,4,Florian Wirtz,89,1,shot,"Wirtz yet again, a superb hatrick on 89! Completing the demolition."
+Union Berlin,Leverkusen,28,intro,-1,,0,0,intro,"Bayer Leverkusen secure a hard-fought one-nil victory over Union Berlin in Round 28. Florian Wirtz's clinical finishing proved decisive, but it was Union's red card in the 47th minute that turned the game."
+Union Berlin,Leverkusen,28,highlight,0,Robin Gosens,47,0,red_card,"Gosens sent off in the 47th minute—Union Berlin reduced to ten men, in what turned out to be the match's pivotal turning point."
+Union Berlin,Leverkusen,28,highlight,1,Florian Wirtz,52,1,shot,"Wirtz strikes,  clinical from close range in the 52nd minute—one of his 11 for the campaign!"
+Union Berlin,Leverkusen,28,highlight,2,Nathan Tella,76,0,shot,Tella's tight-angle effort tests the Union keeper
+Union Berlin,Leverkusen,28,highlight,3,Amine Adli,94,0,shot,Adli has a golden opportunity to seal the result in the box at the death
+Leverkusen,Hoffenheim,27,intro,-1,,0,0,intro,Bayer Leverkusen edges past Hoffenheim two-one in a crucial Matchday 27 clash. Goals from Schick and Andrich keep their title ambitions firmly on track.
+Leverkusen,Hoffenheim,27,highlight,0,Maximilian Beier,32,1,shot,"Beier strikes decisively in the thirty-second minute—Hoffenheim ahead one-nil, but Leverkusen's destiny remains unwritten!"
+Leverkusen,Hoffenheim,27,highlight,1,Robert Andrich,87,1,shot,"Andrich produces a brilliant finish from that tight angle in the 87th minute—Leverkusen level it up, one-one!"
+Leverkusen,Hoffenheim,27,highlight,2,Patrik Schick,90,1,shot,Schick in the 90th minute—clinical finish in the box—Leverkusen goes two-one up and seal a dramatic win!
+Freiburg,Leverkusen,26,intro,-1,,0,0,intro,"Bayer Leverkusen claimed a thrilling three-two victory over Freiburg in Round 26, extending their impressive campaign with another crucial three points."
+Freiburg,Leverkusen,26,highlight,0,Florian Wirtz,1,1,shot,Wirtz strikes in the opening minute with a difficult finish—what a statement! Leverkusen seize the lead instantly.
+Freiburg,Leverkusen,26,highlight,1,Ritsu Doan,9,1,shot,Doan strikes against the run of play in the ninth minute—Freiburg level at one all.
+Freiburg,Leverkusen,26,highlight,2,Adam Hložek,39,1,shot,Hlozek scores on thirty-nine minutes—Leverkusen takes the lead they'll never surrender on this magical unbeaten journey!
+Freiburg,Leverkusen,26,highlight,3,Patrik Schick,52,1,shot,Schick converts a difficult chance in the 52nd minute—clinical finishing puts Leverkusen in complete control at three-one!
+Freiburg,Leverkusen,26,highlight,4,Yannik Keitel,78,1,shot,Keitel pulls one back in the 78th minute with a tricky finish—two-three—but Leverkusen's invincibility remains intact!
+Leverkusen,Wolfsburg,25,intro,-1,,0,0,intro,"Bayer Leverkusen put on a commanding display to defeat Wolfsburg two-nil in Round 25, a result that keeps them firmly in the title hunt. The visitors' hopes virtually evaporated early on when they were reduced to ten men in the 27th minute."
+Leverkusen,Wolfsburg,25,highlight,0,Florian Wirtz,21,0,shot,"Wirtz twists from that tight angle on twenty-one minutes—a dangerous opportunity, but the Wolfsburg defense holds firm."
+Leverkusen,Wolfsburg,25,highlight,1,Moritz Jenz,27,0,red_card,"Jenz's 27th-minute red card dealt Wolfsburg a devastating blow, forcing them to battle with ten men from there on."
+Leverkusen,Wolfsburg,25,highlight,2,Nathan Tella,36,1,shot,Tella´s close strike breaks the deadlock—Leverkusen lead at the midpoint!
+Leverkusen,Wolfsburg,25,highlight,3,Piero Martín Hincapié Reyna,39,0,shot,"Hincapie finds space from a tight angle, but his difficult chance doesn't trouble the keeper as Leverkusen press for a second."
+Leverkusen,Wolfsburg,25,highlight,4,Florian Wirtz,85,1,shot,"Wirtz seals the deal in the 85th minute—clinical finishing seals it two-nil, another masterclass from Leverkusen's creative heartbeat!"

@@ -1,0 +1,917 @@
+match_id,home_fd,away_fd,match_date,team_fd,player,minute,x,y,xg,is_goal,outcome,technique,body_part,score_after,home_score,away_score
+3895302,Leverkusen,Werder Bremen,2024-04-14,Werder Bremen,Leonardo Bittencourt,6,100.4,35.1,0.0566,0,Blocked,Normal,Right Foot,0-0,0,0
+3895302,Leverkusen,Werder Bremen,2024-04-14,Leverkusen,Piero Martín Hincapié Reyna,7,114.6,33.5,0.1434,0,Saved,Normal,Left Foot,0-0,0,0
+3895302,Leverkusen,Werder Bremen,2024-04-14,Werder Bremen,Julián Malatini,11,106.2,55.8,0.0382,0,Blocked,Normal,Left Foot,0-0,0,0
+3895302,Leverkusen,Werder Bremen,2024-04-14,Leverkusen,Jonathan Tah,13,113.9,47.4,0.0528,0,Blocked,Normal,Head,0-0,0,0
+3895302,Leverkusen,Werder Bremen,2024-04-14,Leverkusen,Granit Xhaka,16,89.2,42.5,0.0213,0,Blocked,Normal,Left Foot,0-0,0,0
+3895302,Leverkusen,Werder Bremen,2024-04-14,Leverkusen,Jonathan Tah,16,110.2,32.6,0.0297,0,Wayward,Normal,Head,0-0,0,0
+3895302,Leverkusen,Werder Bremen,2024-04-14,Werder Bremen,Nick Woltemade,18,105.4,45.1,0.0823,0,Blocked,Normal,Right Foot,0-0,0,0
+3895302,Leverkusen,Werder Bremen,2024-04-14,Leverkusen,Victor Okoh Boniface,24,108.0,40.0,0.7835,1,Goal,Normal,Right Foot,1-0,1,0
+3895302,Leverkusen,Werder Bremen,2024-04-14,Leverkusen,Granit Xhaka,27,101.5,47.5,0.0501,0,Blocked,Normal,Left Foot,1-0,1,0
+3895302,Leverkusen,Werder Bremen,2024-04-14,Leverkusen,Jonathan Tah,28,116.3,46.0,0.1099,0,Saved,Normal,Head,1-0,1,0
+3895302,Leverkusen,Werder Bremen,2024-04-14,Leverkusen,Victor Okoh Boniface,28,116.3,43.3,0.3231,0,Saved,Volley,Right Foot,1-0,1,0
+3895302,Leverkusen,Werder Bremen,2024-04-14,Leverkusen,Jonas Hofmann,34,109.4,44.9,0.0954,0,Blocked,Normal,Right Foot,1-0,1,0
+3895302,Leverkusen,Werder Bremen,2024-04-14,Leverkusen,Amine Adli,37,113.1,27.5,0.0742,0,Post,Normal,Left Foot,1-0,1,0
+3895302,Leverkusen,Werder Bremen,2024-04-14,Leverkusen,Edmond Fayçal Tapsoba,43,110.1,41.6,0.0676,0,Blocked,Normal,Head,1-0,1,0
+3895302,Leverkusen,Werder Bremen,2024-04-14,Werder Bremen,Mitchell Weiser,45,115.9,40.1,0.3757,0,Saved,Normal,Head,1-0,1,0
+3895302,Leverkusen,Werder Bremen,2024-04-14,Werder Bremen,Leonardo Bittencourt,50,97.5,40.8,0.0484,0,Saved,Normal,Left Foot,1-0,1,0
+3895302,Leverkusen,Werder Bremen,2024-04-14,Leverkusen,Florian Wirtz,58,93.8,34.8,0.0242,0,Off T,Normal,Right Foot,1-0,1,0
+3895302,Leverkusen,Werder Bremen,2024-04-14,Leverkusen,Granit Xhaka,59,93.0,39.1,0.0315,1,Goal,Normal,Left Foot,2-0,2,0
+3895302,Leverkusen,Werder Bremen,2024-04-14,Leverkusen,Florian Wirtz,64,106.3,29.6,0.0762,0,Blocked,Normal,Right Foot,2-0,2,0
+3895302,Leverkusen,Werder Bremen,2024-04-14,Leverkusen,Florian Wirtz,67,93.5,40.1,0.042,1,Goal,Normal,Right Foot,3-0,3,0
+3895302,Leverkusen,Werder Bremen,2024-04-14,Leverkusen,Patrik Schick,70,112.5,29.6,0.1093,0,Saved,Half Volley,Left Foot,3-0,3,0
+3895302,Leverkusen,Werder Bremen,2024-04-14,Leverkusen,Jeremie Frimpong,71,108.0,51.1,0.1735,0,Saved,Normal,Right Foot,3-0,3,0
+3895302,Leverkusen,Werder Bremen,2024-04-14,Werder Bremen,Olivier Deman,74,108.1,27.2,0.048,0,Saved,Half Volley,Left Foot,3-0,3,0
+3895302,Leverkusen,Werder Bremen,2024-04-14,Werder Bremen,Romano Schmid,74,98.2,42.1,0.0345,0,Off T,Half Volley,Right Foot,3-0,3,0
+3895302,Leverkusen,Werder Bremen,2024-04-14,Leverkusen,Exequiel Alejandro Palacios,80,101.6,43.3,0.0684,0,Off T,Normal,Right Foot,3-0,3,0
+3895302,Leverkusen,Werder Bremen,2024-04-14,Leverkusen,Florian Wirtz,82,103.6,35.0,0.4383,1,Goal,Normal,Right Foot,4-0,4,0
+3895302,Leverkusen,Werder Bremen,2024-04-14,Leverkusen,Florian Wirtz,89,106.4,48.8,0.29,1,Goal,Normal,Right Foot,5-0,5,0
+3895292,Union Berlin,Leverkusen,2024-04-06,Leverkusen,Borja Iglesias Quintas,2,107.0,53.4,0.0849,0,Off T,Half Volley,Right Foot,0-0,0,0
+3895292,Union Berlin,Leverkusen,2024-04-06,Leverkusen,Granit Xhaka,5,96.5,39.9,0.0424,0,Blocked,Normal,Right Foot,0-0,0,0
+3895292,Union Berlin,Leverkusen,2024-04-06,Leverkusen,Adam Hložek,6,88.2,45.5,0.0176,0,Blocked,Normal,Right Foot,0-0,0,0
+3895292,Union Berlin,Leverkusen,2024-04-06,Leverkusen,Alejandro Grimaldo García,10,98.5,49.2,0.0756,0,Saved,Normal,Left Foot,0-0,0,0
+3895292,Union Berlin,Leverkusen,2024-04-06,Leverkusen,Borja Iglesias Quintas,14,111.2,37.8,0.1184,0,Saved,Normal,Head,0-0,0,0
+3895292,Union Berlin,Leverkusen,2024-04-06,Leverkusen,Alejandro Grimaldo García,27,107.5,39.1,0.1191,0,Off T,Normal,Right Foot,0-0,0,0
+3895292,Union Berlin,Leverkusen,2024-04-06,Union Berlin,Rani Khedira,30,96.5,33.7,0.0488,0,Blocked,Normal,Left Foot,0-0,0,0
+3895292,Union Berlin,Leverkusen,2024-04-06,Union Berlin,Robin Gosens,35,112.4,31.4,0.0614,0,Off T,Normal,Head,0-0,0,0
+3895292,Union Berlin,Leverkusen,2024-04-06,Leverkusen,Piero Martín Hincapié Reyna,37,109.3,36.4,0.0478,0,Blocked,Normal,Head,0-0,0,0
+3895292,Union Berlin,Leverkusen,2024-04-06,Union Berlin,Yorbe Vertessen,38,105.8,35.8,0.0825,0,Off T,Normal,Right Foot,0-0,0,0
+3895292,Union Berlin,Leverkusen,2024-04-06,Leverkusen,Robert Andrich,42,94.2,28.2,0.0246,0,Saved,Normal,Right Foot,0-0,0,0
+3895292,Union Berlin,Leverkusen,2024-04-06,Leverkusen,Florian Wirtz,48,101.5,44.6,0.0582,0,Blocked,Normal,Right Foot,0-0,0,0
+3895292,Union Berlin,Leverkusen,2024-04-06,Leverkusen,Robert Andrich,48,107.4,42.0,0.0739,0,Blocked,Half Volley,Left Foot,0-0,0,0
+3895292,Union Berlin,Leverkusen,2024-04-06,Leverkusen,Piero Martín Hincapié Reyna,48,110.4,39.3,0.1129,0,Blocked,Half Volley,Left Foot,0-0,0,0
+3895292,Union Berlin,Leverkusen,2024-04-06,Leverkusen,Florian Wirtz,52,108.0,40.0,0.7835,1,Goal,Normal,Right Foot,0-1,0,1
+3895292,Union Berlin,Leverkusen,2024-04-06,Leverkusen,Nathan Tella,51,110.1,55.2,0.0497,0,Blocked,Normal,Left Foot,0-1,0,1
+3895292,Union Berlin,Leverkusen,2024-04-06,Union Berlin,András Schäfer,53,96.3,33.9,0.0253,0,Blocked,Half Volley,Right Foot,0-1,0,1
+3895292,Union Berlin,Leverkusen,2024-04-06,Leverkusen,Amine Adli,58,113.4,28.8,0.1547,0,Saved,Normal,Left Foot,0-1,0,1
+3895292,Union Berlin,Leverkusen,2024-04-06,Leverkusen,Jonathan Tah,59,113.8,33.8,0.067,0,Wayward,Normal,Head,0-1,0,1
+3895292,Union Berlin,Leverkusen,2024-04-06,Union Berlin,Alex Král,65,92.9,48.5,0.0321,0,Off T,Half Volley,Left Foot,0-1,0,1
+3895292,Union Berlin,Leverkusen,2024-04-06,Union Berlin,Alex Král,74,104.3,55.1,0.0149,0,Wayward,Normal,Head,0-1,0,1
+3895292,Union Berlin,Leverkusen,2024-04-06,Leverkusen,Nathan Tella,76,102.7,45.4,0.1693,0,Saved,Normal,Left Foot,0-1,0,1
+3895292,Union Berlin,Leverkusen,2024-04-06,Union Berlin,Diogo Filipe Monteiro Pinto Leite,80,111.8,35.8,0.0785,0,Off T,Normal,Head,0-1,0,1
+3895292,Union Berlin,Leverkusen,2024-04-06,Leverkusen,Jeremie Frimpong,81,112.9,44.3,0.1281,0,Wayward,Normal,Head,0-1,0,1
+3895292,Union Berlin,Leverkusen,2024-04-06,Leverkusen,Alejandro Grimaldo García,90,86.9,41.1,0.0283,0,Saved,Normal,Left Foot,0-1,0,1
+3895292,Union Berlin,Leverkusen,2024-04-06,Leverkusen,Jeremie Frimpong,93,104.0,49.0,0.0559,0,Blocked,Normal,Left Foot,0-1,0,1
+3895292,Union Berlin,Leverkusen,2024-04-06,Leverkusen,Amine Adli,94,109.4,32.0,0.3517,0,Saved,Normal,Left Foot,0-1,0,1
+3895292,Union Berlin,Leverkusen,2024-04-06,Union Berlin,Frederik Rønnow,96,114.1,37.7,0.1491,0,Blocked,Normal,Head,0-1,0,1
+3895292,Union Berlin,Leverkusen,2024-04-06,Union Berlin,Frederik Rønnow,96,112.2,34.3,0.0525,0,Wayward,Normal,Head,0-1,0,1
+3895333,Ein Frankfurt,Leverkusen,2024-05-05,Leverkusen,Granit Xhaka,9,96.7,49.8,0.0249,0,Blocked,Half Volley,Left Foot,0-0,0,0
+3895333,Ein Frankfurt,Leverkusen,2024-05-05,Leverkusen,Granit Xhaka,11,96.6,33.6,0.0324,1,Goal,Normal,Left Foot,0-1,0,1
+3895333,Ein Frankfurt,Leverkusen,2024-05-05,Leverkusen,Exequiel Alejandro Palacios,20,107.3,40.4,0.1943,0,Blocked,Normal,Right Foot,0-1,0,1
+3895333,Ein Frankfurt,Leverkusen,2024-05-05,Leverkusen,Jonas Hofmann,29,94.9,37.7,0.0407,0,Saved,Normal,Right Foot,0-1,0,1
+3895333,Ein Frankfurt,Leverkusen,2024-05-05,Ein Frankfurt,Hugo Ekitike,31,111.3,45.2,0.1359,1,Goal,Normal,Head,1-1,1,1
+3895333,Ein Frankfurt,Leverkusen,2024-05-05,Ein Frankfurt,Omar Marmoush,39,113.9,24.9,0.0175,0,Saved,Normal,Right Foot,1-1,1,1
+3895333,Ein Frankfurt,Leverkusen,2024-05-05,Ein Frankfurt,Fares Chaïbi,40,92.4,31.0,0.0223,0,Off T,Normal,Left Foot,1-1,1,1
+3895333,Ein Frankfurt,Leverkusen,2024-05-05,Leverkusen,Jonas Hofmann,41,101.3,50.9,0.0523,0,Blocked,Normal,Right Foot,1-1,1,1
+3895333,Ein Frankfurt,Leverkusen,2024-05-05,Ein Frankfurt,Omar Marmoush,41,105.3,43.4,0.3666,0,Off T,Normal,Right Foot,1-1,1,1
+3895333,Ein Frankfurt,Leverkusen,2024-05-05,Leverkusen,Patrik Schick,43,113.7,43.2,0.1958,1,Goal,Normal,Head,1-2,1,2
+3895333,Ein Frankfurt,Leverkusen,2024-05-05,Ein Frankfurt,Omar Marmoush,45,92.9,40.8,0.0219,0,Off T,Normal,Right Foot,1-2,1,2
+3895333,Ein Frankfurt,Leverkusen,2024-05-05,Ein Frankfurt,Hugo Ekitike,46,102.9,49.0,0.0919,0,Wayward,Normal,Left Foot,1-2,1,2
+3895333,Ein Frankfurt,Leverkusen,2024-05-05,Ein Frankfurt,Fares Chaïbi,46,105.3,33.3,0.1347,0,Off T,Normal,Right Foot,1-2,1,2
+3895333,Ein Frankfurt,Leverkusen,2024-05-05,Leverkusen,Exequiel Alejandro Palacios,57,108.2,40.1,0.7835,1,Goal,Normal,Right Foot,1-3,1,3
+3895333,Ein Frankfurt,Leverkusen,2024-05-05,Ein Frankfurt,Mario Götze,59,105.5,48.4,0.0559,0,Blocked,Half Volley,Right Foot,1-3,1,3
+3895333,Ein Frankfurt,Leverkusen,2024-05-05,Ein Frankfurt,Omar Marmoush,59,108.2,43.8,0.0512,0,Off T,Normal,Head,1-3,1,3
+3895333,Ein Frankfurt,Leverkusen,2024-05-05,Ein Frankfurt,Hugo Ekitike,61,95.5,34.9,0.0381,0,Blocked,Normal,Left Foot,1-3,1,3
+3895333,Ein Frankfurt,Leverkusen,2024-05-05,Ein Frankfurt,Eric Junior Dina Ebimbe,68,108.9,55.4,0.0478,0,Wayward,Normal,Right Foot,1-3,1,3
+3895333,Ein Frankfurt,Leverkusen,2024-05-05,Ein Frankfurt,Fares Chaïbi,70,94.9,22.7,0.01,0,Saved,Normal,Right Foot,1-3,1,3
+3895333,Ein Frankfurt,Leverkusen,2024-05-05,Ein Frankfurt,Fares Chaïbi,74,89.5,44.0,0.0391,0,Saved,Normal,Right Foot,1-3,1,3
+3895333,Ein Frankfurt,Leverkusen,2024-05-05,Leverkusen,Jeremie Frimpong,76,111.9,45.8,0.4785,1,Goal,Normal,Right Foot,1-4,1,4
+3895333,Ein Frankfurt,Leverkusen,2024-05-05,Ein Frankfurt,Mario Götze,81,101.3,46.5,0.0392,0,Blocked,Half Volley,Right Foot,1-4,1,4
+3895333,Ein Frankfurt,Leverkusen,2024-05-05,Ein Frankfurt,Ansgar Knauff,82,109.5,30.0,0.1056,0,Blocked,Normal,Right Foot,1-4,1,4
+3895333,Ein Frankfurt,Leverkusen,2024-05-05,Ein Frankfurt,Ignacio Ferri Julià,84,100.9,31.1,0.0479,0,Blocked,Normal,Right Foot,1-4,1,4
+3895333,Ein Frankfurt,Leverkusen,2024-05-05,Leverkusen,Victor Okoh Boniface,88,108.1,40.1,0.7835,1,Goal,Normal,Right Foot,1-5,1,5
+3895333,Ein Frankfurt,Leverkusen,2024-05-05,Ein Frankfurt,Ignacio Ferri Julià,92,108.8,37.8,0.216,0,Saved,Half Volley,Right Foot,1-5,1,5
+3895340,Bochum,Leverkusen,2024-05-12,Bochum,Philipp Hofmann,10,114.7,44.5,0.1239,0,Off T,Normal,Head,0-0,0,0
+3895340,Bochum,Leverkusen,2024-05-12,Leverkusen,Robert Andrich,15,94.9,35.3,0.0719,0,Blocked,Normal,Right Foot,0-0,0,0
+3895340,Bochum,Leverkusen,2024-05-12,Leverkusen,Patrik Schick,22,112.8,47.0,0.0416,0,Off T,Normal,Head,0-0,0,0
+3895340,Bochum,Leverkusen,2024-05-12,Leverkusen,Edmond Fayçal Tapsoba,28,94.9,37.5,0.03,0,Blocked,Normal,Left Foot,0-0,0,0
+3895340,Bochum,Leverkusen,2024-05-12,Leverkusen,Granit Xhaka,29,98.4,56.0,0.0255,0,Post,Normal,Left Foot,0-0,0,0
+3895340,Bochum,Leverkusen,2024-05-12,Leverkusen,Victor Okoh Boniface,35,110.4,39.5,0.066,0,Off T,Normal,Head,0-0,0,0
+3895340,Bochum,Leverkusen,2024-05-12,Leverkusen,Victor Okoh Boniface,37,112.0,31.0,0.0538,0,Wayward,Normal,Head,0-0,0,0
+3895340,Bochum,Leverkusen,2024-05-12,Leverkusen,Odilon Kossonou,39,93.3,49.6,0.0233,0,Off T,Normal,Right Foot,0-0,0,0
+3895340,Bochum,Leverkusen,2024-05-12,Leverkusen,Patrik Schick,40,107.5,41.4,0.0438,1,Goal,Volley,Left Foot,0-1,0,1
+3895340,Bochum,Leverkusen,2024-05-12,Leverkusen,Victor Okoh Boniface,46,108.0,40.0,0.7835,1,Goal,Normal,Right Foot,0-2,0,2
+3895340,Bochum,Leverkusen,2024-05-12,Leverkusen,Granit Xhaka,48,99.5,29.5,0.0273,0,Blocked,Half Volley,Left Foot,0-2,0,2
+3895340,Bochum,Leverkusen,2024-05-12,Leverkusen,Patrik Schick,49,107.5,27.9,0.1185,0,Saved,Normal,Left Foot,0-2,0,2
+3895340,Bochum,Leverkusen,2024-05-12,Leverkusen,Patrik Schick,57,94.5,40.5,0.0388,0,Blocked,Normal,Left Foot,0-2,0,2
+3895340,Bochum,Leverkusen,2024-05-12,Leverkusen,Victor Okoh Boniface,58,101.5,33.8,0.1732,0,Post,Normal,Left Foot,0-2,0,2
+3895340,Bochum,Leverkusen,2024-05-12,Bochum,Kevin Stöger,60,97.9,44.2,0.0387,0,Off T,Half Volley,Right Foot,0-2,0,2
+3895340,Bochum,Leverkusen,2024-05-12,Leverkusen,Robert Andrich,63,94.5,45.5,0.0251,0,Off T,Volley,Right Foot,0-2,0,2
+3895340,Bochum,Leverkusen,2024-05-12,Leverkusen,Patrik Schick,66,104.8,42.1,0.1373,0,Off T,Normal,Right Foot,0-2,0,2
+3895340,Bochum,Leverkusen,2024-05-12,Leverkusen,Granit Xhaka,70,101.2,35.2,0.0914,0,Saved,Normal,Left Foot,0-2,0,2
+3895340,Bochum,Leverkusen,2024-05-12,Leverkusen,Amine Adli,70,110.8,44.6,0.1702,0,Blocked,Half Volley,Left Foot,0-2,0,2
+3895340,Bochum,Leverkusen,2024-05-12,Bochum,Matúš Bero,72,117.0,45.1,0.1516,0,Blocked,Normal,Head,0-2,0,2
+3895340,Bochum,Leverkusen,2024-05-12,Leverkusen,Amine Adli,74,112.7,31.0,0.1718,0,Saved,Normal,Left Foot,0-2,0,2
+3895340,Bochum,Leverkusen,2024-05-12,Leverkusen,Amine Adli,75,114.7,44.2,0.1773,1,Goal,Normal,Head,0-3,0,3
+3895340,Bochum,Leverkusen,2024-05-12,Leverkusen,Jonas Hofmann,77,101.5,42.7,0.107,0,Blocked,Normal,Left Foot,0-3,0,3
+3895340,Bochum,Leverkusen,2024-05-12,Leverkusen,Edmond Fayçal Tapsoba,77,113.0,44.2,0.1469,0,Blocked,Volley,Left Foot,0-3,0,3
+3895340,Bochum,Leverkusen,2024-05-12,Leverkusen,Jonas Hofmann,82,114.7,36.3,0.5318,0,Saved,Normal,Right Foot,0-3,0,3
+3895340,Bochum,Leverkusen,2024-05-12,Leverkusen,Arthur Augusto de Matos Soares,84,108.8,59.5,0.011,0,Off T,Normal,Right Foot,0-3,0,3
+3895340,Bochum,Leverkusen,2024-05-12,Leverkusen,Josip Stanišić,85,103.3,53.1,0.0437,1,Goal,Normal,Right Foot,0-4,0,4
+3895340,Bochum,Leverkusen,2024-05-12,Leverkusen,Amine Adli,87,108.6,49.3,0.2545,0,Saved,Normal,Left Foot,0-4,0,4
+3895340,Bochum,Leverkusen,2024-05-12,Leverkusen,Gustavo Adolfo Puerta Molano,88,90.6,31.4,0.0207,0,Off T,Normal,Right Foot,0-4,0,4
+3895340,Bochum,Leverkusen,2024-05-12,Leverkusen,Jonathan Tah,90,91.9,44.5,0.0259,0,Off T,Normal,Right Foot,0-4,0,4
+3895340,Bochum,Leverkusen,2024-05-12,Leverkusen,Alejandro Grimaldo García,92,111.2,37.5,0.8616,1,Goal,Normal,Right Foot,0-5,0,5
+3895340,Bochum,Leverkusen,2024-05-12,Leverkusen,Amine Adli,93,87.6,29.0,0.0283,0,Off T,Lob,Left Foot,0-5,0,5
+3895348,Leverkusen,Augsburg,2024-05-18,Leverkusen,Victor Okoh Boniface,11,111.9,43.2,0.7469,1,Goal,Normal,Right Foot,1-0,1,0
+3895348,Leverkusen,Augsburg,2024-05-18,Leverkusen,Victor Okoh Boniface,15,106.4,41.0,0.0605,0,Wayward,Half Volley,Left Foot,1-0,1,0
+3895348,Leverkusen,Augsburg,2024-05-18,Leverkusen,Jonas Hofmann,24,101.9,55.4,0.0298,0,Saved,Normal,Right Foot,1-0,1,0
+3895348,Leverkusen,Augsburg,2024-05-18,Leverkusen,Jonathan Tah,26,108.1,53.2,0.0513,0,Wayward,Half Volley,Right Foot,1-0,1,0
+3895348,Leverkusen,Augsburg,2024-05-18,Leverkusen,Robert Andrich,26,114.6,40.2,0.314,1,Goal,Backheel,Right Foot,2-0,2,0
+3895348,Leverkusen,Augsburg,2024-05-18,Augsburg,Ermedin Demirović,31,111.1,33.1,0.0896,0,Blocked,Normal,Left Foot,2-0,2,0
+3895348,Leverkusen,Augsburg,2024-05-18,Augsburg,Ermedin Demirović,41,110.8,54.7,0.03,0,Off T,Half Volley,Right Foot,2-0,2,0
+3895348,Leverkusen,Augsburg,2024-05-18,Leverkusen,Robert Andrich,42,93.2,41.3,0.0303,0,Off T,Normal,Left Foot,2-0,2,0
+3895348,Leverkusen,Augsburg,2024-05-18,Augsburg,Ermedin Demirović,43,112.3,43.7,0.0974,0,Wayward,Half Volley,Right Foot,2-0,2,0
+3895348,Leverkusen,Augsburg,2024-05-18,Leverkusen,Jeremie Frimpong,46,102.9,45.2,0.0815,0,Blocked,Normal,Left Foot,2-0,2,0
+3895348,Leverkusen,Augsburg,2024-05-18,Leverkusen,Jonas Hofmann,47,103.4,44.9,0.075,0,Saved,Normal,Right Foot,2-0,2,0
+3895348,Leverkusen,Augsburg,2024-05-18,Leverkusen,Jonas Hofmann,52,89.2,40.0,0.0243,0,Off T,Normal,Right Foot,2-0,2,0
+3895348,Leverkusen,Augsburg,2024-05-18,Leverkusen,Amine Adli,54,114.1,52.8,0.0589,0,Saved,Normal,Left Foot,2-0,2,0
+3895348,Leverkusen,Augsburg,2024-05-18,Augsburg,Arne Engels,56,98.4,44.7,0.0827,0,Blocked,Normal,Right Foot,2-0,2,0
+3895348,Leverkusen,Augsburg,2024-05-18,Augsburg,Niklas Dorsch,57,95.5,37.5,0.0343,0,Off T,Normal,Right Foot,2-0,2,0
+3895348,Leverkusen,Augsburg,2024-05-18,Augsburg,Ermedin Demirović,60,105.5,59.8,0.0092,0,Off T,Volley,Right Foot,2-0,2,0
+3895348,Leverkusen,Augsburg,2024-05-18,Augsburg,Mert Kömür,61,102.7,34.3,0.1044,1,Goal,Normal,Right Foot,2-1,2,1
+3895348,Leverkusen,Augsburg,2024-05-18,Leverkusen,Patrik Schick,64,114.6,32.6,0.0615,0,Blocked,Normal,Left Foot,2-1,2,1
+3895348,Leverkusen,Augsburg,2024-05-18,Leverkusen,Patrik Schick,65,111.5,44.3,0.1691,0,Off T,Half Volley,Left Foot,2-1,2,1
+3895348,Leverkusen,Augsburg,2024-05-18,Leverkusen,Jonas Hofmann,68,106.0,29.1,0.0637,0,Blocked,Normal,Right Foot,2-1,2,1
+3895348,Leverkusen,Augsburg,2024-05-18,Leverkusen,Robert Andrich,71,99.8,33.9,0.0548,0,Saved,Normal,Left Foot,2-1,2,1
+3895348,Leverkusen,Augsburg,2024-05-18,Leverkusen,Florian Wirtz,71,104.1,48.6,0.062,0,Blocked,Normal,Right Foot,2-1,2,1
+3895348,Leverkusen,Augsburg,2024-05-18,Leverkusen,Granit Xhaka,72,104.4,45.2,0.0607,0,Saved,Half Volley,Right Foot,2-1,2,1
+3895348,Leverkusen,Augsburg,2024-05-18,Augsburg,Iago Amaral Borduchi,78,101.2,38.9,0.0464,0,Blocked,Normal,Right Foot,2-1,2,1
+3895348,Leverkusen,Augsburg,2024-05-18,Augsburg,Pep Biel Mas Jaume,79,113.7,47.7,0.195,0,Saved,Half Volley,Left Foot,2-1,2,1
+3895348,Leverkusen,Augsburg,2024-05-18,Leverkusen,Florian Wirtz,83,93.5,30.0,0.0301,0,Off T,Normal,Right Foot,2-1,2,1
+3895348,Leverkusen,Augsburg,2024-05-18,Augsburg,Pep Biel Mas Jaume,86,107.2,35.0,0.0915,0,Off T,Volley,Left Foot,2-1,2,1
+3895348,Leverkusen,Augsburg,2024-05-18,Leverkusen,Florian Wirtz,87,107.9,43.0,0.108,0,Saved,Normal,Right Foot,2-1,2,1
+3895348,Leverkusen,Augsburg,2024-05-18,Leverkusen,Robert Andrich,88,96.6,43.1,0.0505,0,Blocked,Normal,Right Foot,2-1,2,1
+3895348,Leverkusen,Augsburg,2024-05-18,Leverkusen,Granit Xhaka,89,95.5,44.1,0.032,0,Blocked,Normal,Right Foot,2-1,2,1
+3895286,Leverkusen,Hoffenheim,2024-03-30,Leverkusen,Jonas Hofmann,5,93.5,38.9,0.0408,0,Blocked,Normal,Right Foot,0-0,0,0
+3895286,Leverkusen,Hoffenheim,2024-03-30,Leverkusen,Granit Xhaka,10,100.4,37.0,0.1201,0,Saved,Normal,Left Foot,0-0,0,0
+3895286,Leverkusen,Hoffenheim,2024-03-30,Leverkusen,Granit Xhaka,16,90.7,39.2,0.0268,0,Blocked,Normal,Left Foot,0-0,0,0
+3895286,Leverkusen,Hoffenheim,2024-03-30,Leverkusen,Florian Wirtz,17,98.0,30.3,0.0388,0,Off T,Normal,Right Foot,0-0,0,0
+3895286,Leverkusen,Hoffenheim,2024-03-30,Leverkusen,Jonas Hofmann,19,109.4,58.6,0.0094,0,Blocked,Normal,Right Foot,0-0,0,0
+3895286,Leverkusen,Hoffenheim,2024-03-30,Hoffenheim,Maximilian Beier,32,112.5,29.5,0.3221,1,Goal,Normal,Right Foot,0-1,0,1
+3895286,Leverkusen,Hoffenheim,2024-03-30,Leverkusen,Granit Xhaka,35,95.9,52.0,0.0188,0,Blocked,Normal,Left Foot,0-1,0,1
+3895286,Leverkusen,Hoffenheim,2024-03-30,Hoffenheim,Andrej Kramarić,39,101.4,32.9,0.1248,0,Saved,Normal,Left Foot,0-1,0,1
+3895286,Leverkusen,Hoffenheim,2024-03-30,Leverkusen,Jonas Hofmann,40,109.1,55.8,0.0332,0,Blocked,Normal,Right Foot,0-1,0,1
+3895286,Leverkusen,Hoffenheim,2024-03-30,Leverkusen,Granit Xhaka,41,98.2,16.5,0.0086,0,Saved,Lob,Left Foot,0-1,0,1
+3895286,Leverkusen,Hoffenheim,2024-03-30,Hoffenheim,Wout Weghorst,42,101.7,45.9,0.0593,0,Off T,Normal,Left Foot,0-1,0,1
+3895286,Leverkusen,Hoffenheim,2024-03-30,Leverkusen,Jonas Hofmann,43,110.2,52.9,0.1243,0,Saved,Normal,Right Foot,0-1,0,1
+3895286,Leverkusen,Hoffenheim,2024-03-30,Leverkusen,Jonas Hofmann,46,107.5,47.2,0.2126,0,Blocked,Normal,Right Foot,0-1,0,1
+3895286,Leverkusen,Hoffenheim,2024-03-30,Leverkusen,Robert Andrich,46,117.1,31.7,0.0944,0,Off T,Normal,Head,0-1,0,1
+3895286,Leverkusen,Hoffenheim,2024-03-30,Hoffenheim,Maximilian Beier,47,95.9,26.5,0.0233,0,Blocked,Normal,Right Foot,0-1,0,1
+3895286,Leverkusen,Hoffenheim,2024-03-30,Leverkusen,Jonas Hofmann,49,97.5,52.8,0.0264,0,Blocked,Normal,Right Foot,0-1,0,1
+3895286,Leverkusen,Hoffenheim,2024-03-30,Leverkusen,Piero Martín Hincapié Reyna,51,106.2,36.9,0.0572,0,Saved,Normal,Head,0-1,0,1
+3895286,Leverkusen,Hoffenheim,2024-03-30,Leverkusen,Florian Wirtz,53,112.3,52.8,0.0366,0,Saved,Normal,Right Foot,0-1,0,1
+3895286,Leverkusen,Hoffenheim,2024-03-30,Leverkusen,Jonathan Tah,54,111.4,45.8,0.0692,0,Off T,Normal,Head,0-1,0,1
+3895286,Leverkusen,Hoffenheim,2024-03-30,Leverkusen,Alejandro Grimaldo García,57,94.0,26.1,0.0222,0,Saved,Normal,Left Foot,0-1,0,1
+3895286,Leverkusen,Hoffenheim,2024-03-30,Leverkusen,Jeremie Frimpong,62,102.7,45.8,0.0627,0,Blocked,Normal,Left Foot,0-1,0,1
+3895286,Leverkusen,Hoffenheim,2024-03-30,Leverkusen,Amine Adli,63,104.6,53.5,0.0332,0,Blocked,Normal,Left Foot,0-1,0,1
+3895286,Leverkusen,Hoffenheim,2024-03-30,Leverkusen,Alejandro Grimaldo García,64,93.4,28.8,0.0446,0,Blocked,Normal,Left Foot,0-1,0,1
+3895286,Leverkusen,Hoffenheim,2024-03-30,Hoffenheim,Anton Stach,66,93.9,34.5,0.0301,0,Blocked,Normal,Right Foot,0-1,0,1
+3895286,Leverkusen,Hoffenheim,2024-03-30,Leverkusen,Alejandro Grimaldo García,69,91.5,27.6,0.0206,0,Saved,Normal,Left Foot,0-1,0,1
+3895286,Leverkusen,Hoffenheim,2024-03-30,Leverkusen,Jeremie Frimpong,70,114.7,50.8,0.1408,0,Blocked,Normal,Left Foot,0-1,0,1
+3895286,Leverkusen,Hoffenheim,2024-03-30,Leverkusen,Patrik Schick,73,107.5,43.9,0.1485,0,Off T,Half Volley,Left Foot,0-1,0,1
+3895286,Leverkusen,Hoffenheim,2024-03-30,Leverkusen,Patrik Schick,75,110.8,35.1,0.0636,0,Saved,Normal,Left Foot,0-1,0,1
+3895286,Leverkusen,Hoffenheim,2024-03-30,Leverkusen,Amine Adli,75,115.4,30.1,0.0925,0,Saved,Half Volley,Left Foot,0-1,0,1
+3895286,Leverkusen,Hoffenheim,2024-03-30,Leverkusen,Robert Andrich,75,103.8,45.6,0.0603,0,Off T,Normal,Right Foot,0-1,0,1
+3895286,Leverkusen,Hoffenheim,2024-03-30,Leverkusen,Jeremie Frimpong,78,109.4,47.4,0.0569,0,Blocked,Normal,Left Foot,0-1,0,1
+3895286,Leverkusen,Hoffenheim,2024-03-30,Leverkusen,Jonathan Tah,78,94.0,48.2,0.0227,0,Blocked,Normal,Right Foot,0-1,0,1
+3895286,Leverkusen,Hoffenheim,2024-03-30,Hoffenheim,Grischa Prömel,80,105.8,44.2,0.0896,0,Blocked,Normal,Left Foot,0-1,0,1
+3895286,Leverkusen,Hoffenheim,2024-03-30,Leverkusen,Patrik Schick,81,113.9,26.9,0.047,0,Off T,Normal,Left Foot,0-1,0,1
+3895286,Leverkusen,Hoffenheim,2024-03-30,Leverkusen,Patrik Schick,82,110.4,35.5,0.0824,0,Wayward,Volley,Left Foot,0-1,0,1
+3895286,Leverkusen,Hoffenheim,2024-03-30,Leverkusen,Borja Iglesias Quintas,86,105.4,37.7,0.1351,0,Post,Normal,Right Foot,0-1,0,1
+3895286,Leverkusen,Hoffenheim,2024-03-30,Leverkusen,Florian Wirtz,87,106.7,25.4,0.0537,0,Blocked,Normal,Right Foot,0-1,0,1
+3895286,Leverkusen,Hoffenheim,2024-03-30,Leverkusen,Robert Andrich,87,108.5,36.3,0.1301,1,Goal,Volley,Right Foot,1-1,1,1
+3895286,Leverkusen,Hoffenheim,2024-03-30,Leverkusen,Alejandro Grimaldo García,88,98.9,31.9,0.0417,0,Off T,Normal,Left Foot,1-1,1,1
+3895286,Leverkusen,Hoffenheim,2024-03-30,Leverkusen,Patrik Schick,90,115.5,39.5,0.594,1,Goal,Volley,Left Foot,2-1,2,1
+3895220,Darmstadt 98,Leverkusen,2024-02-03,Darmstadt 98,Gerrit Holtmann,0,107.6,18.8,0.0087,0,Off T,Normal,Left Foot,0-0,0,0
+3895220,Darmstadt 98,Leverkusen,2024-02-03,Leverkusen,Adam Hložek,15,104.1,33.1,0.1016,0,Off T,Normal,Left Foot,0-0,0,0
+3895220,Darmstadt 98,Leverkusen,2024-02-03,Leverkusen,Nathan Tella,17,108.1,56.8,0.0275,0,Blocked,Normal,Right Foot,0-0,0,0
+3895220,Darmstadt 98,Leverkusen,2024-02-03,Darmstadt 98,Christoph Zimmermann,19,108.0,40.1,0.0377,0,Saved,Normal,Head,0-0,0,0
+3895220,Darmstadt 98,Leverkusen,2024-02-03,Darmstadt 98,Luca Pfeiffer,23,102.0,37.4,0.0945,0,Saved,Normal,Right Foot,0-0,0,0
+3895220,Darmstadt 98,Leverkusen,2024-02-03,Leverkusen,Robert Andrich,24,101.3,55.5,0.0274,0,Blocked,Normal,Right Foot,0-0,0,0
+3895220,Darmstadt 98,Leverkusen,2024-02-03,Darmstadt 98,Luca Pfeiffer,27,104.9,51.1,0.06,0,Wayward,Half Volley,Right Foot,0-0,0,0
+3895220,Darmstadt 98,Leverkusen,2024-02-03,Darmstadt 98,Oscar Vilhelmsson,27,109.9,43.0,0.3612,0,Saved,Normal,Right Foot,0-0,0,0
+3895220,Darmstadt 98,Leverkusen,2024-02-03,Leverkusen,Piero Martín Hincapié Reyna,31,95.4,32.9,0.0433,0,Saved,Normal,Left Foot,0-0,0,0
+3895220,Darmstadt 98,Leverkusen,2024-02-03,Leverkusen,Nathan Tella,32,112.8,45.2,0.1185,1,Goal,Normal,Head,0-1,0,1
+3895220,Darmstadt 98,Leverkusen,2024-02-03,Darmstadt 98,Emir Karic,38,112.9,42.0,0.1225,0,Saved,Normal,Head,0-1,0,1
+3895220,Darmstadt 98,Leverkusen,2024-02-03,Leverkusen,Borja Iglesias Quintas,40,111.9,43.4,0.5137,0,Saved,Lob,Right Foot,0-1,0,1
+3895220,Darmstadt 98,Leverkusen,2024-02-03,Leverkusen,Robert Andrich,41,98.6,35.4,0.1196,0,Saved,Normal,Right Foot,0-1,0,1
+3895220,Darmstadt 98,Leverkusen,2024-02-03,Leverkusen,Josip Stanišić,42,113.0,30.6,0.0524,0,Blocked,Normal,Head,0-1,0,1
+3895220,Darmstadt 98,Leverkusen,2024-02-03,Leverkusen,Adam Hložek,42,103.4,34.5,0.0524,0,Off T,Half Volley,Left Foot,0-1,0,1
+3895220,Darmstadt 98,Leverkusen,2024-02-03,Leverkusen,Florian Wirtz,44,100.2,45.5,0.119,0,Saved,Normal,Right Foot,0-1,0,1
+3895220,Darmstadt 98,Leverkusen,2024-02-03,Darmstadt 98,Luca Pfeiffer,45,105.0,31.6,0.0731,0,Saved,Normal,Right Foot,0-1,0,1
+3895220,Darmstadt 98,Leverkusen,2024-02-03,Leverkusen,Jonathan Tah,49,112.1,41.4,0.086,0,Blocked,Normal,Head,0-1,0,1
+3895220,Darmstadt 98,Leverkusen,2024-02-03,Leverkusen,Nathan Tella,51,109.1,52.0,0.1076,1,Goal,Normal,Right Foot,0-2,0,2
+3895220,Darmstadt 98,Leverkusen,2024-02-03,Leverkusen,Nathan Tella,58,106.0,51.7,0.0525,0,Blocked,Normal,Left Foot,0-2,0,2
+3895220,Darmstadt 98,Leverkusen,2024-02-03,Leverkusen,Borja Iglesias Quintas,62,96.9,39.8,0.0445,0,Blocked,Normal,Right Foot,0-2,0,2
+3895220,Darmstadt 98,Leverkusen,2024-02-03,Leverkusen,Josip Stanišić,64,97.0,49.8,0.0306,0,Blocked,Normal,Right Foot,0-2,0,2
+3895220,Darmstadt 98,Leverkusen,2024-02-03,Leverkusen,Nathan Tella,65,81.5,49.6,0.0052,0,Off T,Half Volley,Right Foot,0-2,0,2
+3895220,Darmstadt 98,Leverkusen,2024-02-03,Leverkusen,Adam Hložek,72,108.0,34.8,0.1097,0,Blocked,Normal,Right Foot,0-2,0,2
+3895220,Darmstadt 98,Leverkusen,2024-02-03,Leverkusen,Florian Wirtz,74,100.1,48.5,0.0657,0,Post,Normal,Right Foot,0-2,0,2
+3895220,Darmstadt 98,Leverkusen,2024-02-03,Darmstadt 98,Emir Karic,75,95.5,22.7,0.0132,0,Saved,Normal,Right Foot,0-2,0,2
+3895220,Darmstadt 98,Leverkusen,2024-02-03,Leverkusen,Adam Hložek,75,103.3,35.0,0.0986,0,Blocked,Normal,Right Foot,0-2,0,2
+3895220,Darmstadt 98,Leverkusen,2024-02-03,Leverkusen,Borja Iglesias Quintas,92,107.7,49.5,0.1762,0,Saved,Half Volley,Right Foot,0-2,0,2
+3895250,Leverkusen,FSV Mainz 05,2024-02-23,Leverkusen,Granit Xhaka,2,98.6,22.3,0.0186,1,Goal,Normal,Left Foot,1-0,1,0
+3895250,Leverkusen,FSV Mainz 05,2024-02-23,FSV Mainz 05,Dominik Kohr,6,110.7,39.5,0.1613,1,Goal,Normal,Head,1-1,1,1
+3895250,Leverkusen,FSV Mainz 05,2024-02-23,FSV Mainz 05,Karim Onisiwo,9,87.1,37.2,0.0289,0,Saved,Normal,Right Foot,1-1,1,1
+3895250,Leverkusen,FSV Mainz 05,2024-02-23,FSV Mainz 05,Leandro Barreiro Martins,14,96.9,55.0,0.0141,0,Blocked,Half Volley,Right Foot,1-1,1,1
+3895250,Leverkusen,FSV Mainz 05,2024-02-23,FSV Mainz 05,Anthony Caci,15,95.6,46.4,0.0257,0,Saved,Half Volley,Right Foot,1-1,1,1
+3895250,Leverkusen,FSV Mainz 05,2024-02-23,Leverkusen,Jonas Hofmann,15,114.3,51.6,0.1013,0,Saved,Normal,Right Foot,1-1,1,1
+3895250,Leverkusen,FSV Mainz 05,2024-02-23,Leverkusen,Granit Xhaka,19,95.6,32.6,0.0331,0,Saved,Normal,Left Foot,1-1,1,1
+3895250,Leverkusen,FSV Mainz 05,2024-02-23,Leverkusen,Jeremie Frimpong,21,108.3,41.5,0.1492,0,Wayward,Volley,Left Foot,1-1,1,1
+3895250,Leverkusen,FSV Mainz 05,2024-02-23,FSV Mainz 05,Nadiem Amiri,22,100.3,29.8,0.0414,0,Off T,Normal,Left Foot,1-1,1,1
+3895250,Leverkusen,FSV Mainz 05,2024-02-23,FSV Mainz 05,Dominik Kohr,27,112.8,39.0,0.0979,0,Saved,Normal,Head,1-1,1,1
+3895250,Leverkusen,FSV Mainz 05,2024-02-23,Leverkusen,Jonas Hofmann,27,101.1,44.8,0.0778,0,Blocked,Normal,Right Foot,1-1,1,1
+3895250,Leverkusen,FSV Mainz 05,2024-02-23,Leverkusen,Edmond Fayçal Tapsoba,29,101.2,32.9,0.0435,0,Blocked,Normal,Right Foot,1-1,1,1
+3895250,Leverkusen,FSV Mainz 05,2024-02-23,Leverkusen,Alejandro Grimaldo García,35,102.2,30.8,0.0376,0,Blocked,Normal,Left Foot,1-1,1,1
+3895250,Leverkusen,FSV Mainz 05,2024-02-23,Leverkusen,Jonas Hofmann,36,104.3,23.6,0.0299,0,Blocked,Normal,Right Foot,1-1,1,1
+3895250,Leverkusen,FSV Mainz 05,2024-02-23,Leverkusen,Jonas Hofmann,39,113.0,49.4,0.3443,0,Saved,Normal,Right Foot,1-1,1,1
+3895250,Leverkusen,FSV Mainz 05,2024-02-23,Leverkusen,Florian Wirtz,40,110.3,32.6,0.0457,0,Off T,Normal,Head,1-1,1,1
+3895250,Leverkusen,FSV Mainz 05,2024-02-23,Leverkusen,Alejandro Grimaldo García,42,92.0,45.2,0.0467,0,Saved Off Target,Normal,Left Foot,1-1,1,1
+3895250,Leverkusen,FSV Mainz 05,2024-02-23,Leverkusen,Edmond Fayçal Tapsoba,43,88.5,29.8,0.0168,0,Off T,Normal,Right Foot,1-1,1,1
+3895250,Leverkusen,FSV Mainz 05,2024-02-23,FSV Mainz 05,Philipp Mwene,47,113.4,37.8,0.13,0,Off T,Normal,Head,1-1,1,1
+3895250,Leverkusen,FSV Mainz 05,2024-02-23,FSV Mainz 05,Leandro Barreiro Martins,49,115.4,47.4,0.1206,0,Blocked,Volley,Right Foot,1-1,1,1
+3895250,Leverkusen,FSV Mainz 05,2024-02-23,Leverkusen,Florian Wirtz,52,105.9,24.1,0.0354,0,Blocked,Normal,Right Foot,1-1,1,1
+3895250,Leverkusen,FSV Mainz 05,2024-02-23,FSV Mainz 05,Jae-Sung Lee,54,101.4,35.5,0.4007,0,Off T,Normal,Left Foot,1-1,1,1
+3895250,Leverkusen,FSV Mainz 05,2024-02-23,Leverkusen,Amine Adli,61,113.5,32.0,0.0458,0,Off T,Normal,Head,1-1,1,1
+3895250,Leverkusen,FSV Mainz 05,2024-02-23,Leverkusen,Florian Wirtz,62,100.5,28.0,0.0517,0,Off T,Normal,Right Foot,1-1,1,1
+3895250,Leverkusen,FSV Mainz 05,2024-02-23,FSV Mainz 05,Jessic Ngankam,64,100.3,48.9,0.0393,0,Blocked,Half Volley,Right Foot,1-1,1,1
+3895250,Leverkusen,FSV Mainz 05,2024-02-23,Leverkusen,Robert Andrich,67,87.1,28.2,0.0063,1,Goal,Normal,Right Foot,2-1,2,1
+3895250,Leverkusen,FSV Mainz 05,2024-02-23,Leverkusen,Alejandro Grimaldo García,88,100.2,25.8,0.0291,0,Blocked,Normal,Left Foot,2-1,2,1
+3895250,Leverkusen,FSV Mainz 05,2024-02-23,FSV Mainz 05,Tom Krauß,93,102.6,25.5,0.0254,0,Off T,Half Volley,Left Foot,2-1,2,1
+3895250,Leverkusen,FSV Mainz 05,2024-02-23,FSV Mainz 05,Tom Krauß,94,96.5,37.5,0.0315,0,Blocked,Normal,Right Foot,2-1,2,1
+3895250,Leverkusen,FSV Mainz 05,2024-02-23,FSV Mainz 05,Jae-Sung Lee,94,93.7,32.9,0.0244,0,Off T,Normal,Left Foot,2-1,2,1
+3895266,Leverkusen,Wolfsburg,2024-03-10,Wolfsburg,Jonas Older Wind,13,115.4,32.9,0.0898,0,Wayward,Normal,Head,0-0,0,0
+3895266,Leverkusen,Wolfsburg,2024-03-10,Leverkusen,Josip Stanišić,16,99.3,55.5,0.0269,0,Saved,Normal,Right Foot,0-0,0,0
+3895266,Leverkusen,Wolfsburg,2024-03-10,Leverkusen,Florian Wirtz,21,114.7,31.0,0.141,0,Saved to Post,Half Volley,Right Foot,0-0,0,0
+3895266,Leverkusen,Wolfsburg,2024-03-10,Leverkusen,Granit Xhaka,22,93.7,38.0,0.0216,0,Off T,Half Volley,Left Foot,0-0,0,0
+3895266,Leverkusen,Wolfsburg,2024-03-10,Wolfsburg,Cédric Zesiger,24,94.9,38.3,0.0319,0,Saved,Half Volley,Left Foot,0-0,0,0
+3895266,Leverkusen,Wolfsburg,2024-03-10,Wolfsburg,Ridle Bote Baku,26,110.9,52.4,0.1051,0,Blocked,Normal,Right Foot,0-0,0,0
+3895266,Leverkusen,Wolfsburg,2024-03-10,Leverkusen,Nathan Tella,36,116.8,40.9,0.6906,1,Goal,Normal,Head,1-0,1,0
+3895266,Leverkusen,Wolfsburg,2024-03-10,Leverkusen,Piero Martín Hincapié Reyna,39,112.7,41.1,0.2274,0,Saved,Normal,Head,1-0,1,0
+3895266,Leverkusen,Wolfsburg,2024-03-10,Leverkusen,Exequiel Alejandro Palacios,40,90.4,48.4,0.0214,0,Off T,Normal,Right Foot,1-0,1,0
+3895266,Leverkusen,Wolfsburg,2024-03-10,Leverkusen,Jonathan Tah,42,88.6,36.6,0.0203,0,Off T,Normal,Right Foot,1-0,1,0
+3895266,Leverkusen,Wolfsburg,2024-03-10,Leverkusen,Florian Wirtz,50,89.3,30.0,0.0251,0,Blocked,Normal,Right Foot,1-0,1,0
+3895266,Leverkusen,Wolfsburg,2024-03-10,Leverkusen,Amine Adli,61,113.9,30.4,0.0554,0,Off T,Normal,Head,1-0,1,0
+3895266,Leverkusen,Wolfsburg,2024-03-10,Leverkusen,Edmond Fayçal Tapsoba,63,103.0,56.0,0.0268,0,Blocked,Normal,Right Foot,1-0,1,0
+3895266,Leverkusen,Wolfsburg,2024-03-10,Leverkusen,Granit Xhaka,69,93.8,51.8,0.0217,0,Saved,Normal,Left Foot,1-0,1,0
+3895266,Leverkusen,Wolfsburg,2024-03-10,Leverkusen,Alejandro Grimaldo García,70,95.4,59.6,0.0083,0,Off T,Normal,Left Foot,1-0,1,0
+3895266,Leverkusen,Wolfsburg,2024-03-10,Leverkusen,Alejandro Grimaldo García,73,97.5,43.5,0.046,0,Blocked,Normal,Left Foot,1-0,1,0
+3895266,Leverkusen,Wolfsburg,2024-03-10,Leverkusen,Jonathan Tah,77,108.4,48.8,0.0348,0,Saved,Normal,Head,1-0,1,0
+3895266,Leverkusen,Wolfsburg,2024-03-10,Leverkusen,Borja Iglesias Quintas,81,105.6,30.9,0.0938,0,Blocked,Normal,Right Foot,1-0,1,0
+3895266,Leverkusen,Wolfsburg,2024-03-10,Leverkusen,Jonas Hofmann,81,88.6,53.9,0.0061,0,Saved,Normal,Right Foot,1-0,1,0
+3895266,Leverkusen,Wolfsburg,2024-03-10,Leverkusen,Amine Adli,82,110.5,47.7,0.0769,0,Wayward,Normal,Head,1-0,1,0
+3895266,Leverkusen,Wolfsburg,2024-03-10,Leverkusen,Exequiel Alejandro Palacios,84,99.1,44.1,0.0705,0,Off T,Normal,Right Foot,1-0,1,0
+3895266,Leverkusen,Wolfsburg,2024-03-10,Leverkusen,Florian Wirtz,85,110.5,35.0,0.1713,1,Goal,Volley,Right Foot,2-0,2,0
+3895275,Freiburg,Leverkusen,2024-03-17,Leverkusen,Florian Wirtz,1,104.0,29.3,0.0859,1,Goal,Normal,Right Foot,0-1,0,1
+3895275,Freiburg,Leverkusen,2024-03-17,Leverkusen,Jonathan Tah,7,90.5,46.3,0.0252,0,Off T,Normal,Right Foot,0-1,0,1
+3895275,Freiburg,Leverkusen,2024-03-17,Freiburg,Ritsu Doan,9,105.3,48.0,0.077,1,Goal,Normal,Left Foot,1-1,1,1
+3895275,Freiburg,Leverkusen,2024-03-17,Freiburg,Christian Günter,19,92.3,26.6,0.0221,0,Off T,Normal,Left Foot,1-1,1,1
+3895275,Freiburg,Leverkusen,2024-03-17,Freiburg,Merlin Röhl,23,99.7,51.2,0.0517,0,Off T,Half Volley,Right Foot,1-1,1,1
+3895275,Freiburg,Leverkusen,2024-03-17,Freiburg,Roland Sallai,24,101.6,46.3,0.155,0,Off T,Normal,Right Foot,1-1,1,1
+3895275,Freiburg,Leverkusen,2024-03-17,Freiburg,Nicolas Höfler,27,105.6,43.1,0.0325,0,Wayward,Normal,Head,1-1,1,1
+3895275,Freiburg,Leverkusen,2024-03-17,Freiburg,Lucas Höler,27,112.1,45.7,0.1308,0,Wayward,Volley,Right Foot,1-1,1,1
+3895275,Freiburg,Leverkusen,2024-03-17,Leverkusen,Piero Martín Hincapié Reyna,29,93.6,22.6,0.0087,0,Off T,Normal,Left Foot,1-1,1,1
+3895275,Freiburg,Leverkusen,2024-03-17,Freiburg,Christian Günter,36,97.5,38.0,0.0297,0,Blocked,Normal,Right Foot,1-1,1,1
+3895275,Freiburg,Leverkusen,2024-03-17,Leverkusen,Jeremie Frimpong,36,105.7,43.8,0.0878,0,Off T,Normal,Other,1-1,1,1
+3895275,Freiburg,Leverkusen,2024-03-17,Leverkusen,Patrik Schick,39,110.8,29.9,0.3464,0,Saved,Normal,Left Foot,1-1,1,1
+3895275,Freiburg,Leverkusen,2024-03-17,Leverkusen,Adam Hložek,39,111.4,36.5,0.6658,1,Goal,Normal,Right Foot,1-2,1,2
+3895275,Freiburg,Leverkusen,2024-03-17,Leverkusen,Exequiel Alejandro Palacios,44,109.7,24.9,0.1096,0,Saved,Normal,Right Foot,1-2,1,2
+3895275,Freiburg,Leverkusen,2024-03-17,Leverkusen,Jonathan Tah,46,115.2,35.4,0.1218,0,Saved,Normal,Head,1-2,1,2
+3895275,Freiburg,Leverkusen,2024-03-17,Leverkusen,Adam Hložek,50,99.0,39.8,0.047,0,Blocked,Half Volley,Right Foot,1-2,1,2
+3895275,Freiburg,Leverkusen,2024-03-17,Leverkusen,Adam Hložek,51,95.5,43.0,0.0358,0,Blocked,Normal,Left Foot,1-2,1,2
+3895275,Freiburg,Leverkusen,2024-03-17,Leverkusen,Patrik Schick,52,108.1,45.9,0.0644,1,Goal,Half Volley,Left Foot,1-3,1,3
+3895275,Freiburg,Leverkusen,2024-03-17,Freiburg,Merlin Röhl,56,109.5,37.4,0.0921,0,Off T,Normal,Head,1-3,1,3
+3895275,Freiburg,Leverkusen,2024-03-17,Leverkusen,Alejandro Grimaldo García,57,108.3,27.2,0.0559,0,Off T,Normal,Left Foot,1-3,1,3
+3895275,Freiburg,Leverkusen,2024-03-17,Leverkusen,Alejandro Grimaldo García,72,96.7,45.2,0.0765,0,Blocked,Normal,Left Foot,1-3,1,3
+3895275,Freiburg,Leverkusen,2024-03-17,Leverkusen,Adam Hložek,72,107.4,47.4,0.0629,0,Blocked,Normal,Right Foot,1-3,1,3
+3895275,Freiburg,Leverkusen,2024-03-17,Leverkusen,Adam Hložek,74,109.9,43.6,0.2216,0,Wayward,Normal,Right Foot,1-3,1,3
+3895275,Freiburg,Leverkusen,2024-03-17,Freiburg,Yannik Keitel,78,109.6,29.3,0.1315,0,Saved,Normal,Left Foot,1-3,1,3
+3895275,Freiburg,Leverkusen,2024-03-17,Freiburg,Yannik Keitel,78,115.0,31.0,0.0999,1,Goal,Normal,Right Foot,2-3,2,3
+3895275,Freiburg,Leverkusen,2024-03-17,Leverkusen,Florian Wirtz,81,114.0,39.1,0.4348,0,Post,Volley,Right Foot,2-3,2,3
+3895275,Freiburg,Leverkusen,2024-03-17,Leverkusen,Granit Xhaka,86,100.3,28.5,0.0365,0,Saved,Normal,Left Foot,2-3,2,3
+3895275,Freiburg,Leverkusen,2024-03-17,Leverkusen,Exequiel Alejandro Palacios,87,102.1,39.9,0.0509,0,Wayward,Half Volley,Left Foot,2-3,2,3
+3895275,Freiburg,Leverkusen,2024-03-17,Leverkusen,Alejandro Grimaldo García,89,109.6,44.0,0.0588,0,Blocked,Normal,Left Foot,2-3,2,3
+3895275,Freiburg,Leverkusen,2024-03-17,Freiburg,Manuel Gulde,93,114.6,34.3,0.1083,0,Off T,Normal,Head,2-3,2,3
+3895180,Leverkusen,Ein Frankfurt,2023-12-17,Ein Frankfurt,Willian Joel Pacho Tenorio,4,102.7,41.2,0.0544,0,Saved,Normal,Left Foot,0-0,0,0
+3895180,Leverkusen,Ein Frankfurt,2023-12-17,Leverkusen,Victor Okoh Boniface,13,103.4,28.9,0.0523,1,Goal,Normal,Right Foot,1-0,1,0
+3895180,Leverkusen,Ein Frankfurt,2023-12-17,Ein Frankfurt,Lucas Silva Melo,26,102.7,33.3,0.0458,0,Blocked,Volley,Right Foot,1-0,1,0
+3895180,Leverkusen,Ein Frankfurt,2023-12-17,Leverkusen,Alejandro Grimaldo García,33,95.5,44.2,0.0753,0,Post,Normal,Left Foot,1-0,1,0
+3895180,Leverkusen,Ein Frankfurt,2023-12-17,Leverkusen,Florian Wirtz,49,108.0,33.9,0.0815,0,Off T,Half Volley,Right Foot,1-0,1,0
+3895180,Leverkusen,Ein Frankfurt,2023-12-17,Leverkusen,Victor Okoh Boniface,50,105.4,30.7,0.1419,0,Saved,Normal,Right Foot,1-0,1,0
+3895180,Leverkusen,Ein Frankfurt,2023-12-17,Leverkusen,Jeremie Frimpong,50,114.6,41.7,0.9111,1,Goal,Normal,Left Foot,2-0,2,0
+3895180,Leverkusen,Ein Frankfurt,2023-12-17,Leverkusen,Florian Wirtz,56,104.4,30.2,0.3294,1,Goal,Lob,Right Foot,3-0,3,0
+3895180,Leverkusen,Ein Frankfurt,2023-12-17,Leverkusen,Alejandro Grimaldo García,69,101.4,31.4,0.069,0,Saved,Normal,Right Foot,3-0,3,0
+3895180,Leverkusen,Ein Frankfurt,2023-12-17,Ein Frankfurt,Fares Chaïbi,69,106.3,27.0,0.0527,0,Saved,Normal,Right Foot,3-0,3,0
+3895180,Leverkusen,Ein Frankfurt,2023-12-17,Leverkusen,Patrik Schick,72,109.3,46.1,0.087,0,Saved,Normal,Head,3-0,3,0
+3895180,Leverkusen,Ein Frankfurt,2023-12-17,Leverkusen,Florian Wirtz,74,99.6,33.5,0.0464,0,Blocked,Normal,Right Foot,3-0,3,0
+3895180,Leverkusen,Ein Frankfurt,2023-12-17,Leverkusen,Florian Wirtz,80,103.0,27.8,0.087,0,Post,Normal,Right Foot,3-0,3,0
+3895180,Leverkusen,Ein Frankfurt,2023-12-17,Leverkusen,Odilon Kossonou,81,99.7,43.7,0.1071,0,Off T,Normal,Left Foot,3-0,3,0
+3895180,Leverkusen,Ein Frankfurt,2023-12-17,Leverkusen,Piero Martín Hincapié Reyna,83,115.7,34.1,0.5212,0,Post,Normal,Left Foot,3-0,3,0
+3895180,Leverkusen,Ein Frankfurt,2023-12-17,Leverkusen,Granit Xhaka,83,94.5,48.9,0.0241,0,Off T,Normal,Left Foot,3-0,3,0
+3895180,Leverkusen,Ein Frankfurt,2023-12-17,Leverkusen,Edmond Fayçal Tapsoba,89,115.7,34.7,0.2198,0,Off T,Volley,Left Foot,3-0,3,0
+3895180,Leverkusen,Ein Frankfurt,2023-12-17,Ein Frankfurt,Aurélio Gabriel Ulineia Buta,93,95.9,33.4,0.032,0,Blocked,Normal,Right Foot,3-0,3,0
+3895134,Hoffenheim,Leverkusen,2023-11-04,Leverkusen,Florian Wirtz,8,112.9,34.8,0.4336,1,Goal,Normal,Right Foot,0-1,0,1
+3895134,Hoffenheim,Leverkusen,2023-11-04,Leverkusen,Victor Okoh Boniface,9,98.4,40.3,0.0785,0,Saved,Normal,Left Foot,0-1,0,1
+3895134,Hoffenheim,Leverkusen,2023-11-04,Hoffenheim,Marius Bülter,11,80.7,40.4,0.0062,0,Saved,Normal,Right Foot,0-1,0,1
+3895134,Hoffenheim,Leverkusen,2023-11-04,Hoffenheim,Finn Ole Becker,13,100.3,59.2,0.013,0,Saved,Normal,Left Foot,0-1,0,1
+3895134,Hoffenheim,Leverkusen,2023-11-04,Leverkusen,Jonas Hofmann,24,100.8,45.0,0.0801,0,Off T,Normal,Left Foot,0-1,0,1
+3895134,Hoffenheim,Leverkusen,2023-11-04,Hoffenheim,Robert Skov,30,101.3,33.3,0.0745,0,Off T,Normal,Left Foot,0-1,0,1
+3895134,Hoffenheim,Leverkusen,2023-11-04,Leverkusen,Jeremie Frimpong,35,114.8,51.5,0.1074,0,Off T,Normal,Left Foot,0-1,0,1
+3895134,Hoffenheim,Leverkusen,2023-11-04,Leverkusen,Jonas Hofmann,44,102.0,47.8,0.0415,0,Blocked,Normal,Right Foot,0-1,0,1
+3895134,Hoffenheim,Leverkusen,2023-11-04,Leverkusen,Alejandro Grimaldo García,45,104.5,33.1,0.0622,1,Goal,Normal,Left Foot,0-2,0,2
+3895134,Hoffenheim,Leverkusen,2023-11-04,Hoffenheim,Maximilian Beier,49,112.0,25.2,0.0567,0,Saved,Normal,Left Foot,0-2,0,2
+3895134,Hoffenheim,Leverkusen,2023-11-04,Hoffenheim,Maximilian Beier,49,115.0,32.0,0.0816,0,Off T,Volley,Right Foot,0-2,0,2
+3895134,Hoffenheim,Leverkusen,2023-11-04,Hoffenheim,Robert Skov,53,105.3,52.0,0.0618,0,Saved,Normal,Left Foot,0-2,0,2
+3895134,Hoffenheim,Leverkusen,2023-11-04,Hoffenheim,Anton Stach,55,79.4,59.9,0.0213,1,Goal,Lob,Right Foot,1-2,1,2
+3895134,Hoffenheim,Leverkusen,2023-11-04,Hoffenheim,Maximilian Beier,57,90.7,41.3,0.023,0,Saved to Post,Normal,Right Foot,1-2,1,2
+3895134,Hoffenheim,Leverkusen,2023-11-04,Hoffenheim,Wout Weghorst,57,112.7,41.2,0.7933,1,Goal,Half Volley,Right Foot,2-2,2,2
+3895134,Hoffenheim,Leverkusen,2023-11-04,Hoffenheim,Wout Weghorst,63,113.0,40.2,0.2473,0,Off T,Normal,Head,2-2,2,2
+3895134,Hoffenheim,Leverkusen,2023-11-04,Leverkusen,Alejandro Grimaldo García,66,89.2,31.0,0.0227,0,Saved,Normal,Left Foot,2-2,2,2
+3895134,Hoffenheim,Leverkusen,2023-11-04,Leverkusen,Victor Okoh Boniface,69,115.0,36.0,0.2968,0,Wayward,Normal,Head,2-2,2,2
+3895134,Hoffenheim,Leverkusen,2023-11-04,Leverkusen,Alejandro Grimaldo García,69,103.0,33.4,0.0673,1,Goal,Normal,Left Foot,2-3,2,3
+3895134,Hoffenheim,Leverkusen,2023-11-04,Hoffenheim,Maximilian Beier,72,106.2,27.9,0.057,0,Blocked,Normal,Right Foot,2-3,2,3
+3895134,Hoffenheim,Leverkusen,2023-11-04,Leverkusen,Jeremie Frimpong,86,105.7,27.3,0.0844,0,Off T,Normal,Left Foot,2-3,2,3
+3895134,Hoffenheim,Leverkusen,2023-11-04,Hoffenheim,Andrej Kramarić,91,101.7,30.2,0.0478,0,Blocked,Half Volley,Left Foot,2-3,2,3
+3895121,Leverkusen,Freiburg,2023-10-29,Leverkusen,Granit Xhaka,0,91.6,45.2,0.0321,0,Off T,Normal,Left Foot,0-0,0,0
+3895121,Leverkusen,Freiburg,2023-10-29,Leverkusen,Victor Okoh Boniface,6,113.1,28.1,0.0522,0,Blocked,Normal,Left Foot,0-0,0,0
+3895121,Leverkusen,Freiburg,2023-10-29,Leverkusen,Alejandro Grimaldo García,14,116.6,63.4,0.0079,0,Off T,Normal,Left Foot,0-0,0,0
+3895121,Leverkusen,Freiburg,2023-10-29,Leverkusen,Granit Xhaka,15,92.0,26.5,0.0159,0,Off T,Half Volley,Left Foot,0-0,0,0
+3895121,Leverkusen,Freiburg,2023-10-29,Leverkusen,Exequiel Alejandro Palacios,18,100.3,29.2,0.0394,0,Off T,Normal,Right Foot,0-0,0,0
+3895121,Leverkusen,Freiburg,2023-10-29,Leverkusen,Victor Okoh Boniface,20,113.9,42.5,0.1438,0,Off T,Normal,Head,0-0,0,0
+3895121,Leverkusen,Freiburg,2023-10-29,Leverkusen,Jonathan Tah,24,91.6,46.2,0.0235,0,Blocked,Normal,Right Foot,0-0,0,0
+3895121,Leverkusen,Freiburg,2023-10-29,Freiburg,Lucas Höler,26,107.0,29.9,0.1026,0,Saved,Normal,Right Foot,0-0,0,0
+3895121,Leverkusen,Freiburg,2023-10-29,Leverkusen,Victor Okoh Boniface,26,102.9,35.5,0.1242,0,Blocked,Normal,Left Foot,0-0,0,0
+3895121,Leverkusen,Freiburg,2023-10-29,Leverkusen,Jonas Hofmann,34,108.4,45.1,0.1075,0,Blocked,Normal,Right Foot,0-0,0,0
+3895121,Leverkusen,Freiburg,2023-10-29,Leverkusen,Florian Wirtz,35,112.1,51.7,0.0754,1,Goal,Normal,Left Foot,1-0,1,0
+3895121,Leverkusen,Freiburg,2023-10-29,Leverkusen,Jeremie Frimpong,39,107.4,57.0,0.0235,0,Blocked,Normal,Right Foot,1-0,1,0
+3895121,Leverkusen,Freiburg,2023-10-29,Leverkusen,Edmond Fayçal Tapsoba,44,116.2,37.3,0.1892,0,Off T,Normal,Head,1-0,1,0
+3895121,Leverkusen,Freiburg,2023-10-29,Freiburg,Merlin Röhl,45,104.9,54.8,0.0637,0,Saved,Normal,Right Foot,1-0,1,0
+3895121,Leverkusen,Freiburg,2023-10-29,Leverkusen,Florian Wirtz,49,103.3,29.2,0.0952,0,Saved,Normal,Right Foot,1-0,1,0
+3895121,Leverkusen,Freiburg,2023-10-29,Leverkusen,Victor Okoh Boniface,58,57.7,33.2,0.0049,0,Off T,Lob,Right Foot,1-0,1,0
+3895121,Leverkusen,Freiburg,2023-10-29,Leverkusen,Jonas Hofmann,59,99.1,44.9,0.0883,0,Post,Normal,Right Foot,1-0,1,0
+3895121,Leverkusen,Freiburg,2023-10-29,Freiburg,Lukas Kübler,65,94.0,39.0,0.0215,0,Blocked,Half Volley,Right Foot,1-0,1,0
+3895121,Leverkusen,Freiburg,2023-10-29,Leverkusen,Jeremie Frimpong,65,110.3,32.9,0.2987,0,Post,Normal,Right Foot,1-0,1,0
+3895121,Leverkusen,Freiburg,2023-10-29,Freiburg,Manuel Gulde,69,116.8,37.3,0.2391,1,Goal,Normal,Head,1-1,1,1
+3895121,Leverkusen,Freiburg,2023-10-29,Freiburg,Lucas Höler,72,97.2,39.3,0.0331,0,Blocked,Half Volley,Right Foot,1-1,1,1
+3895121,Leverkusen,Freiburg,2023-10-29,Freiburg,Kiliann Sildillia,72,110.4,51.7,0.0522,0,Saved,Half Volley,Right Foot,1-1,1,1
+3895121,Leverkusen,Freiburg,2023-10-29,Leverkusen,Florian Wirtz,73,96.5,36.0,0.0489,0,Saved to Post,Normal,Right Foot,1-1,1,1
+3895121,Leverkusen,Freiburg,2023-10-29,Leverkusen,Exequiel Alejandro Palacios,79,108.1,29.2,0.0547,0,Off T,Normal,Left Foot,1-1,1,1
+3895121,Leverkusen,Freiburg,2023-10-29,Freiburg,Michael Gregoritsch,79,106.6,38.5,0.0712,0,Off T,Half Volley,Right Foot,1-1,1,1
+3895121,Leverkusen,Freiburg,2023-10-29,Freiburg,Michael Gregoritsch,83,111.9,34.7,0.053,0,Off T,Normal,Head,1-1,1,1
+3895121,Leverkusen,Freiburg,2023-10-29,Freiburg,Kiliann Sildillia,90,102.4,42.4,0.0557,0,Off T,Volley,Right Foot,1-1,1,1
+3895121,Leverkusen,Freiburg,2023-10-29,Freiburg,Michael Gregoritsch,94,110.4,40.7,0.0762,0,Off T,Normal,Head,1-1,1,1
+3895107,Leverkusen,FC Köln,2023-10-08,Leverkusen,Florian Wirtz,0,96.5,47.5,0.0437,0,Saved,Normal,Right Foot,0-0,0,0
+3895107,Leverkusen,FC Köln,2023-10-08,FC Köln,Julian Chabot,9,114.1,38.5,0.1212,0,Off T,Normal,Head,0-0,0,0
+3895107,Leverkusen,FC Köln,2023-10-08,Leverkusen,Victor Okoh Boniface,11,102.9,37.7,0.0611,0,Blocked,Normal,Right Foot,0-0,0,0
+3895107,Leverkusen,FC Köln,2023-10-08,Leverkusen,Victor Okoh Boniface,11,115.7,29.5,0.134,0,Saved,Normal,Right Foot,0-0,0,0
+3895107,Leverkusen,FC Köln,2023-10-08,Leverkusen,Victor Okoh Boniface,12,105.0,38.0,0.0647,0,Blocked,Normal,Right Foot,0-0,0,0
+3895107,Leverkusen,FC Köln,2023-10-08,Leverkusen,Jonas Hofmann,14,100.0,46.8,0.0556,0,Blocked,Normal,Right Foot,0-0,0,0
+3895107,Leverkusen,FC Köln,2023-10-08,Leverkusen,Jonathan Tah,15,113.9,45.0,0.1106,0,Off T,Normal,Head,0-0,0,0
+3895107,Leverkusen,FC Köln,2023-10-08,Leverkusen,Florian Wirtz,18,93.5,50.5,0.0215,0,Saved,Normal,Right Foot,0-0,0,0
+3895107,Leverkusen,FC Köln,2023-10-08,Leverkusen,Jonas Hofmann,21,110.6,38.0,0.1922,1,Goal,Normal,Left Foot,1-0,1,0
+3895107,Leverkusen,FC Köln,2023-10-08,Leverkusen,Alejandro Grimaldo García,26,105.9,36.7,0.1084,0,Blocked,Normal,Left Foot,1-0,1,0
+3895107,Leverkusen,FC Köln,2023-10-08,Leverkusen,Jeremie Frimpong,31,115.2,47.8,0.3448,1,Goal,Normal,Right Foot,2-0,2,0
+3895107,Leverkusen,FC Köln,2023-10-08,Leverkusen,Alejandro Grimaldo García,34,106.3,65.9,0.0077,0,Saved,Normal,Left Foot,2-0,2,0
+3895107,Leverkusen,FC Köln,2023-10-08,Leverkusen,Florian Wirtz,35,102.9,40.3,0.0336,0,Off T,Normal,Head,2-0,2,0
+3895107,Leverkusen,FC Köln,2023-10-08,Leverkusen,Jeremie Frimpong,37,109.7,51.8,0.0671,0,Blocked,Normal,Left Foot,2-0,2,0
+3895107,Leverkusen,FC Köln,2023-10-08,FC Köln,Davie Selke,45,106.7,33.3,0.0998,0,Blocked,Normal,Right Foot,2-0,2,0
+3895107,Leverkusen,FC Köln,2023-10-08,FC Köln,Eric Martel,46,115.0,39.9,0.188,0,Saved,Normal,Head,2-0,2,0
+3895107,Leverkusen,FC Köln,2023-10-08,FC Köln,Eric Martel,46,115.9,39.3,0.5476,0,Saved,Half Volley,Left Foot,2-0,2,0
+3895107,Leverkusen,FC Köln,2023-10-08,Leverkusen,Florian Wirtz,46,96.6,40.7,0.0515,0,Saved,Normal,Right Foot,2-0,2,0
+3895107,Leverkusen,FC Köln,2023-10-08,Leverkusen,Jeremie Frimpong,53,107.3,45.1,0.3825,0,Saved,Normal,Right Foot,2-0,2,0
+3895107,Leverkusen,FC Köln,2023-10-08,Leverkusen,Florian Wirtz,59,97.2,48.2,0.0547,0,Off T,Normal,Right Foot,2-0,2,0
+3895107,Leverkusen,FC Köln,2023-10-08,Leverkusen,Victor Okoh Boniface,66,114.9,34.2,0.378,1,Goal,Normal,Left Foot,3-0,3,0
+3895107,Leverkusen,FC Köln,2023-10-08,Leverkusen,Victor Okoh Boniface,67,107.0,45.3,0.2824,0,Saved,Normal,Right Foot,3-0,3,0
+3895107,Leverkusen,FC Köln,2023-10-08,FC Köln,Julian Chabot,70,114.7,43.9,0.1177,0,Off T,Normal,Head,3-0,3,0
+3895107,Leverkusen,FC Köln,2023-10-08,Leverkusen,Granit Xhaka,71,101.0,48.5,0.0414,0,Blocked,Volley,Left Foot,3-0,3,0
+3895107,Leverkusen,FC Köln,2023-10-08,FC Köln,Dejan Ljubicic,76,85.7,25.6,0.0059,0,Off T,Normal,Right Foot,3-0,3,0
+3895107,Leverkusen,FC Köln,2023-10-08,Leverkusen,Victor Okoh Boniface,77,105.9,31.6,0.4318,0,Off T,Normal,Right Foot,3-0,3,0
+3895107,Leverkusen,FC Köln,2023-10-08,Leverkusen,Jonas Hofmann,81,112.5,29.6,0.023,0,Wayward,Normal,Head,3-0,3,0
+3895107,Leverkusen,FC Köln,2023-10-08,Leverkusen,Nathan Tella,83,98.6,54.7,0.0268,0,Blocked,Normal,Left Foot,3-0,3,0
+3895107,Leverkusen,FC Köln,2023-10-08,FC Köln,Max Finkgräfe,85,111.1,35.7,0.1103,0,Saved,Normal,Head,3-0,3,0
+3895107,Leverkusen,FC Köln,2023-10-08,Leverkusen,Amine Adli,92,105.2,26.1,0.0251,0,Blocked,Normal,Left Foot,3-0,3,0
+3895074,Bayern Munich,Leverkusen,2023-09-15,Bayern Munich,Serge Gnabry,1,116.7,30.1,0.0634,0,Off T,Volley,Left Foot,0-0,0,0
+3895074,Bayern Munich,Leverkusen,2023-09-15,Bayern Munich,Konrad Laimer,2,108.7,51.0,0.1095,0,Saved,Normal,Left Foot,0-0,0,0
+3895074,Bayern Munich,Leverkusen,2023-09-15,Bayern Munich,Harry Kane,6,116.5,35.6,0.3694,1,Goal,Normal,Head,1-0,1,0
+3895074,Bayern Munich,Leverkusen,2023-09-15,Bayern Munich,Leroy Sané,10,101.8,38.3,0.0642,0,Off T,Normal,Left Foot,1-0,1,0
+3895074,Bayern Munich,Leverkusen,2023-09-15,Leverkusen,Victor Okoh Boniface,22,104.2,34.5,0.0731,0,Blocked,Normal,Right Foot,1-0,1,0
+3895074,Bayern Munich,Leverkusen,2023-09-15,Leverkusen,Alejandro Grimaldo García,23,94.6,42.2,0.0661,1,Goal,Normal,Left Foot,1-1,1,1
+3895074,Bayern Munich,Leverkusen,2023-09-15,Leverkusen,Victor Okoh Boniface,30,118.8,31.7,0.0246,0,Saved,Normal,Right Foot,1-1,1,1
+3895074,Bayern Munich,Leverkusen,2023-09-15,Leverkusen,Granit Xhaka,31,87.5,27.4,0.0061,0,Saved,Normal,Left Foot,1-1,1,1
+3895074,Bayern Munich,Leverkusen,2023-09-15,Leverkusen,Victor Okoh Boniface,31,111.0,28.8,0.1269,0,Off T,Normal,Left Foot,1-1,1,1
+3895074,Bayern Munich,Leverkusen,2023-09-15,Bayern Munich,Thomas Müller,34,110.3,43.8,0.1019,0,Saved,Normal,Head,1-1,1,1
+3895074,Bayern Munich,Leverkusen,2023-09-15,Bayern Munich,Serge Gnabry,34,113.1,51.3,0.0937,0,Blocked,Half Volley,Right Foot,1-1,1,1
+3895074,Bayern Munich,Leverkusen,2023-09-15,Leverkusen,Victor Okoh Boniface,39,107.7,34.0,0.1153,0,Blocked,Normal,Right Foot,1-1,1,1
+3895074,Bayern Munich,Leverkusen,2023-09-15,Bayern Munich,Leroy Sané,41,97.1,41.6,0.0545,0,Saved,Normal,Left Foot,1-1,1,1
+3895074,Bayern Munich,Leverkusen,2023-09-15,Bayern Munich,Min Jae Kim,42,105.5,37.6,0.0782,0,Blocked,Normal,Right Foot,1-1,1,1
+3895074,Bayern Munich,Leverkusen,2023-09-15,Bayern Munich,Leon Goretzka,43,111.0,34.8,0.0673,0,Saved,Normal,Head,1-1,1,1
+3895074,Bayern Munich,Leverkusen,2023-09-15,Bayern Munich,Serge Gnabry,44,112.9,26.4,0.054,0,Saved,Normal,Right Foot,1-1,1,1
+3895074,Bayern Munich,Leverkusen,2023-09-15,Bayern Munich,Konrad Laimer,45,96.2,39.4,0.0274,0,Blocked,Half Volley,Left Foot,1-1,1,1
+3895074,Bayern Munich,Leverkusen,2023-09-15,Bayern Munich,Serge Gnabry,45,113.0,44.4,0.2852,0,Off T,Normal,Head,1-1,1,1
+3895074,Bayern Munich,Leverkusen,2023-09-15,Leverkusen,Victor Okoh Boniface,50,60.0,53.7,0.0034,0,Off T,Lob,Right Foot,1-1,1,1
+3895074,Bayern Munich,Leverkusen,2023-09-15,Bayern Munich,Joshua Kimmich,51,91.7,50.7,0.02,0,Saved,Normal,Left Foot,1-1,1,1
+3895074,Bayern Munich,Leverkusen,2023-09-15,Bayern Munich,Harry Kane,56,110.6,37.7,0.488,0,Saved,Normal,Right Foot,1-1,1,1
+3895074,Bayern Munich,Leverkusen,2023-09-15,Bayern Munich,Dayotchanculle Upamecano,64,111.8,45.8,0.0515,0,Off T,Normal,Head,1-1,1,1
+3895074,Bayern Munich,Leverkusen,2023-09-15,Leverkusen,Florian Wirtz,77,112.7,32.8,0.3601,0,Post,Normal,Left Foot,1-1,1,1
+3895074,Bayern Munich,Leverkusen,2023-09-15,Leverkusen,Victor Okoh Boniface,79,114.0,29.5,0.2617,0,Saved,Normal,Right Foot,1-1,1,1
+3895074,Bayern Munich,Leverkusen,2023-09-15,Leverkusen,Alejandro Grimaldo García,80,101.6,29.0,0.0328,0,Blocked,Half Volley,Left Foot,1-1,1,1
+3895074,Bayern Munich,Leverkusen,2023-09-15,Leverkusen,Victor Okoh Boniface,84,103.5,34.6,0.1174,0,Off T,Normal,Right Foot,1-1,1,1
+3895074,Bayern Munich,Leverkusen,2023-09-15,Bayern Munich,Leon Goretzka,85,110.9,39.9,0.2814,1,Goal,Normal,Left Foot,2-1,2,1
+3895074,Bayern Munich,Leverkusen,2023-09-15,Leverkusen,Victor Okoh Boniface,87,108.8,35.2,0.2469,0,Off T,Normal,Left Foot,2-1,2,1
+3895074,Bayern Munich,Leverkusen,2023-09-15,Leverkusen,Exequiel Alejandro Palacios,93,108.1,40.1,0.7835,1,Goal,Normal,Right Foot,2-2,2,2
+3895139,Leverkusen,Union Berlin,2023-11-12,Leverkusen,Victor Okoh Boniface,8,93.9,35.2,0.0387,0,Wayward,Normal,Left Foot,0-0,0,0
+3895139,Leverkusen,Union Berlin,2023-11-12,Leverkusen,Victor Okoh Boniface,10,101.7,40.9,0.1299,0,Off T,Normal,Right Foot,0-0,0,0
+3895139,Leverkusen,Union Berlin,2023-11-12,Leverkusen,Jonathan Tah,15,113.5,47.7,0.0541,0,Blocked,Normal,Head,0-0,0,0
+3895139,Leverkusen,Union Berlin,2023-11-12,Leverkusen,Alejandro Grimaldo García,22,101.9,22.7,0.0209,1,Goal,Normal,Left Foot,1-0,1,0
+3895139,Leverkusen,Union Berlin,2023-11-12,Leverkusen,Jeremie Frimpong,25,112.5,45.8,0.3615,0,Saved,Normal,Right Foot,1-0,1,0
+3895139,Leverkusen,Union Berlin,2023-11-12,Leverkusen,Victor Okoh Boniface,29,112.8,37.1,0.1881,0,Saved,Normal,Head,1-0,1,0
+3895139,Leverkusen,Union Berlin,2023-11-12,Union Berlin,Janik Haberer,42,114.2,52.7,0.0217,0,Saved,Normal,Head,1-0,1,0
+3895139,Leverkusen,Union Berlin,2023-11-12,Leverkusen,Florian Wirtz,44,103.9,37.4,0.1508,0,Saved,Normal,Left Foot,1-0,1,0
+3895139,Leverkusen,Union Berlin,2023-11-12,Leverkusen,Granit Xhaka,49,92.6,46.9,0.0257,0,Blocked,Normal,Left Foot,1-0,1,0
+3895139,Leverkusen,Union Berlin,2023-11-12,Union Berlin,Aïssa Bilal Laïdouni,52,93.1,24.9,0.0172,0,Saved,Normal,Right Foot,1-0,1,0
+3895139,Leverkusen,Union Berlin,2023-11-12,Leverkusen,Odilon Kossonou,56,114.7,44.8,0.1223,1,Goal,Normal,Head,2-0,2,0
+3895139,Leverkusen,Union Berlin,2023-11-12,Leverkusen,Jeremie Frimpong,57,113.3,47.8,0.1826,0,Saved,Normal,Right Foot,2-0,2,0
+3895139,Leverkusen,Union Berlin,2023-11-12,Leverkusen,Victor Okoh Boniface,61,108.1,39.1,0.0424,0,Blocked,Normal,Head,2-0,2,0
+3895139,Leverkusen,Union Berlin,2023-11-12,Leverkusen,Alejandro Grimaldo García,63,94.0,23.7,0.0156,0,Off T,Normal,Left Foot,2-0,2,0
+3895139,Leverkusen,Union Berlin,2023-11-12,Leverkusen,Florian Wirtz,65,97.3,30.9,0.0284,0,Saved,Normal,Right Foot,2-0,2,0
+3895139,Leverkusen,Union Berlin,2023-11-12,Leverkusen,Jonas Hofmann,70,96.7,50.5,0.0294,0,Blocked,Normal,Right Foot,2-0,2,0
+3895139,Leverkusen,Union Berlin,2023-11-12,Leverkusen,Florian Wirtz,70,111.3,40.4,0.3423,0,Off T,Normal,Head,2-0,2,0
+3895139,Leverkusen,Union Berlin,2023-11-12,Leverkusen,Jonathan Tah,72,117.4,30.7,0.0351,1,Goal,Half Volley,Right Foot,3-0,3,0
+3895139,Leverkusen,Union Berlin,2023-11-12,Leverkusen,Nathan Tella,82,108.4,54.8,0.062,1,Goal,Normal,Right Foot,4-0,4,0
+3895139,Leverkusen,Union Berlin,2023-11-12,Leverkusen,Amine Adli,84,108.0,56.0,0.0535,0,Saved,Normal,Left Foot,4-0,4,0
+3895086,Leverkusen,FC Heidenheim,2023-09-24,Leverkusen,Victor Okoh Boniface,4,104.1,28.5,0.0583,0,Blocked,Normal,Right Foot,0-0,0,0
+3895086,Leverkusen,FC Heidenheim,2023-09-24,Leverkusen,Victor Okoh Boniface,5,110.0,39.7,0.0979,0,Blocked,Half Volley,Right Foot,0-0,0,0
+3895086,Leverkusen,FC Heidenheim,2023-09-24,Leverkusen,Victor Okoh Boniface,5,91.0,40.7,0.0263,0,Off T,Normal,Right Foot,0-0,0,0
+3895086,Leverkusen,FC Heidenheim,2023-09-24,Leverkusen,Victor Okoh Boniface,8,107.2,41.6,0.4227,1,Goal,Normal,Right Foot,1-0,1,0
+3895086,Leverkusen,FC Heidenheim,2023-09-24,Leverkusen,Jeremie Frimpong,24,110.4,55.0,0.0605,0,Saved,Normal,Right Foot,1-0,1,0
+3895086,Leverkusen,FC Heidenheim,2023-09-24,Leverkusen,Odilon Kossonou,25,103.1,54.8,0.0311,0,Off T,Half Volley,Right Foot,1-0,1,0
+3895086,Leverkusen,FC Heidenheim,2023-09-24,Leverkusen,Jonas Hofmann,29,108.2,51.7,0.1135,0,Off T,Normal,Right Foot,1-0,1,0
+3895086,Leverkusen,FC Heidenheim,2023-09-24,Leverkusen,Florian Wirtz,34,98.3,48.8,0.0733,0,Blocked,Normal,Right Foot,1-0,1,0
+3895086,Leverkusen,FC Heidenheim,2023-09-24,Leverkusen,Jonas Hofmann,34,104.4,59.9,0.0087,0,Saved,Volley,Right Foot,1-0,1,0
+3895086,Leverkusen,FC Heidenheim,2023-09-24,Leverkusen,Florian Wirtz,38,104.7,37.6,0.1659,0,Blocked,Normal,Right Foot,1-0,1,0
+3895086,Leverkusen,FC Heidenheim,2023-09-24,FC Heidenheim,Tim Kleindienst,43,106.9,33.8,0.2465,0,Saved,Normal,Left Foot,1-0,1,0
+3895086,Leverkusen,FC Heidenheim,2023-09-24,Leverkusen,Victor Okoh Boniface,44,109.5,32.0,0.3425,0,Saved,Normal,Right Foot,1-0,1,0
+3895086,Leverkusen,FC Heidenheim,2023-09-24,Leverkusen,Jeremie Frimpong,44,110.3,42.7,0.1159,0,Wayward,Normal,Head,1-0,1,0
+3895086,Leverkusen,FC Heidenheim,2023-09-24,Leverkusen,Victor Okoh Boniface,44,116.3,36.9,0.5792,0,Saved,Volley,Right Foot,1-0,1,0
+3895086,Leverkusen,FC Heidenheim,2023-09-24,Leverkusen,Jonas Hofmann,44,108.1,53.0,0.0783,0,Blocked,Normal,Right Foot,1-0,1,0
+3895086,Leverkusen,FC Heidenheim,2023-09-24,Leverkusen,Florian Wirtz,56,95.7,37.1,0.0348,0,Saved,Normal,Right Foot,1-0,1,0
+3895086,Leverkusen,FC Heidenheim,2023-09-24,Leverkusen,Victor Okoh Boniface,56,106.3,30.0,0.0909,0,Off T,Half Volley,Right Foot,1-0,1,0
+3895086,Leverkusen,FC Heidenheim,2023-09-24,FC Heidenheim,Eren Sami Dinkçi,57,103.6,40.7,0.0803,1,Goal,Normal,Right Foot,1-1,1,1
+3895086,Leverkusen,FC Heidenheim,2023-09-24,Leverkusen,Jonas Hofmann,62,103.8,37.8,0.4008,1,Goal,Normal,Right Foot,2-1,2,1
+3895086,Leverkusen,FC Heidenheim,2023-09-24,Leverkusen,Alejandro Grimaldo García,72,107.5,37.9,0.1077,0,Saved,Half Volley,Right Foot,2-1,2,1
+3895086,Leverkusen,FC Heidenheim,2023-09-24,Leverkusen,Victor Okoh Boniface,73,108.1,40.1,0.7835,1,Goal,Normal,Right Foot,3-1,3,1
+3895086,Leverkusen,FC Heidenheim,2023-09-24,Leverkusen,Victor Okoh Boniface,76,99.0,42.1,0.0521,0,Post,Normal,Right Foot,3-1,3,1
+3895086,Leverkusen,FC Heidenheim,2023-09-24,Leverkusen,Amine Adli,81,107.6,25.1,0.0647,1,Goal,Lob,Left Foot,4-1,4,1
+3895320,Leverkusen,Stuttgart,2024-04-27,Leverkusen,Robert Andrich,5,89.1,40.0,0.027,0,Off T,Normal,Left Foot,0-0,0,0
+3895320,Leverkusen,Stuttgart,2024-04-27,Leverkusen,Jeremie Frimpong,7,109.4,50.5,0.225,0,Off T,Normal,Right Foot,0-0,0,0
+3895320,Leverkusen,Stuttgart,2024-04-27,Stuttgart,Serhou Guirassy,8,93.0,47.4,0.0196,0,Blocked,Normal,Right Foot,0-0,0,0
+3895320,Leverkusen,Stuttgart,2024-04-27,Stuttgart,Serhou Guirassy,13,110.8,40.2,0.1398,0,Off T,Normal,Head,0-0,0,0
+3895320,Leverkusen,Stuttgart,2024-04-27,Leverkusen,Patrik Schick,19,98.9,38.1,0.0721,0,Blocked,Normal,Left Foot,0-0,0,0
+3895320,Leverkusen,Stuttgart,2024-04-27,Leverkusen,Patrik Schick,23,95.3,49.4,0.0274,0,Wayward,Normal,Left Foot,0-0,0,0
+3895320,Leverkusen,Stuttgart,2024-04-27,Leverkusen,Alejandro Grimaldo García,28,110.0,30.5,0.2931,0,Saved,Normal,Left Foot,0-0,0,0
+3895320,Leverkusen,Stuttgart,2024-04-27,Leverkusen,Patrik Schick,28,108.0,37.0,0.3108,0,Off T,Volley,Right Foot,0-0,0,0
+3895320,Leverkusen,Stuttgart,2024-04-27,Leverkusen,Robert Andrich,44,91.8,55.3,0.0118,0,Saved,Normal,Right Foot,0-0,0,0
+3895320,Leverkusen,Stuttgart,2024-04-27,Leverkusen,Robert Andrich,46,96.1,29.1,0.063,0,Off T,Normal,Right Foot,0-0,0,0
+3895320,Leverkusen,Stuttgart,2024-04-27,Stuttgart,Jamie Leweling,46,108.7,53.5,0.111,0,Saved to Post,Normal,Right Foot,0-0,0,0
+3895320,Leverkusen,Stuttgart,2024-04-27,Stuttgart,Chris Führich,46,108.2,26.4,0.082,1,Goal,Half Volley,Left Foot,0-1,0,1
+3895320,Leverkusen,Stuttgart,2024-04-27,Stuttgart,Serhou Guirassy,48,97.0,57.2,0.0179,0,Blocked,Normal,Right Foot,0-1,0,1
+3895320,Leverkusen,Stuttgart,2024-04-27,Stuttgart,Leonidas Stergiou,55,91.3,49.0,0.02,0,Off T,Half Volley,Right Foot,0-1,0,1
+3895320,Leverkusen,Stuttgart,2024-04-27,Stuttgart,Deniz Undav,56,104.6,44.6,0.0791,1,Goal,Half Volley,Right Foot,0-2,0,2
+3895320,Leverkusen,Stuttgart,2024-04-27,Stuttgart,Serhou Guirassy,58,104.0,42.6,0.2046,0,Off T,Normal,Right Foot,0-2,0,2
+3895320,Leverkusen,Stuttgart,2024-04-27,Leverkusen,Amine Adli,60,103.4,27.9,0.0601,1,Goal,Normal,Left Foot,1-2,1,2
+3895320,Leverkusen,Stuttgart,2024-04-27,Leverkusen,Amine Adli,64,102.2,44.7,0.0569,0,Saved,Half Volley,Left Foot,1-2,1,2
+3895320,Leverkusen,Stuttgart,2024-04-27,Leverkusen,Jonas Hofmann,64,110.8,45.7,0.1933,0,Saved,Volley,Left Foot,1-2,1,2
+3895320,Leverkusen,Stuttgart,2024-04-27,Leverkusen,Edmond Fayçal Tapsoba,66,101.1,51.1,0.0347,0,Off T,Normal,Right Foot,1-2,1,2
+3895320,Leverkusen,Stuttgart,2024-04-27,Leverkusen,Alejandro Grimaldo García,70,94.2,47.0,0.0655,0,Off T,Normal,Left Foot,1-2,1,2
+3895320,Leverkusen,Stuttgart,2024-04-27,Stuttgart,Serhou Guirassy,71,114.1,40.4,0.6228,0,Off T,Normal,Right Foot,1-2,1,2
+3895320,Leverkusen,Stuttgart,2024-04-27,Stuttgart,Chris Führich,72,110.9,27.3,0.073,0,Off T,Normal,Right Foot,1-2,1,2
+3895320,Leverkusen,Stuttgart,2024-04-27,Stuttgart,Serhou Guirassy,86,113.1,44.2,0.4295,0,Saved,Normal,Left Foot,1-2,1,2
+3895320,Leverkusen,Stuttgart,2024-04-27,Leverkusen,Robert Andrich,95,110.4,39.9,0.2119,1,Goal,Half Volley,Left Foot,2-2,2,2
+3895309,Dortmund,Leverkusen,2024-04-21,Leverkusen,Jeremie Frimpong,0,113.9,58.3,0.0075,0,Off T,Half Volley,Right Foot,0-0,0,0
+3895309,Dortmund,Leverkusen,2024-04-21,Leverkusen,Jeremie Frimpong,7,113.5,40.7,0.2705,0,Off T,Normal,Head,0-0,0,0
+3895309,Dortmund,Leverkusen,2024-04-21,Leverkusen,Jonas Hofmann,13,93.9,51.0,0.0175,0,Off T,Normal,Right Foot,0-0,0,0
+3895309,Dortmund,Leverkusen,2024-04-21,Dortmund,Julian Ryerson,15,94.6,46.2,0.0283,0,Off T,Normal,Right Foot,0-0,0,0
+3895309,Dortmund,Leverkusen,2024-04-21,Dortmund,Jamie Jermaine Bynoe-Gittens,16,94.0,28.4,0.0263,0,Blocked,Normal,Right Foot,0-0,0,0
+3895309,Dortmund,Leverkusen,2024-04-21,Leverkusen,Nathan Tella,20,112.1,34.3,0.0655,0,Wayward,Normal,Head,0-0,0,0
+3895309,Dortmund,Leverkusen,2024-04-21,Leverkusen,Alejandro Grimaldo García,35,94.2,31.1,0.0265,0,Off T,Normal,Left Foot,0-0,0,0
+3895309,Dortmund,Leverkusen,2024-04-21,Leverkusen,Alejandro Grimaldo García,37,95.6,48.6,0.067,0,Off T,Normal,Left Foot,0-0,0,0
+3895309,Dortmund,Leverkusen,2024-04-21,Dortmund,Marcel Sabitzer,41,109.1,50.5,0.0795,0,Saved,Normal,Right Foot,0-0,0,0
+3895309,Dortmund,Leverkusen,2024-04-21,Leverkusen,Nathan Tella,42,105.1,28.9,0.0371,0,Wayward,Normal,Left Foot,0-0,0,0
+3895309,Dortmund,Leverkusen,2024-04-21,Dortmund,Emre Can,46,112.3,41.6,0.1424,0,Wayward,Normal,Head,0-0,0,0
+3895309,Dortmund,Leverkusen,2024-04-21,Dortmund,Marcel Sabitzer,50,94.6,43.4,0.0383,0,Blocked,Normal,Right Foot,0-0,0,0
+3895309,Dortmund,Leverkusen,2024-04-21,Dortmund,Marius Wolf,50,103.0,49.0,0.0536,0,Blocked,Normal,Right Foot,0-0,0,0
+3895309,Dortmund,Leverkusen,2024-04-21,Leverkusen,Nathan Tella,53,95.4,26.0,0.0317,0,Off T,Normal,Right Foot,0-0,0,0
+3895309,Dortmund,Leverkusen,2024-04-21,Dortmund,Jamie Jermaine Bynoe-Gittens,54,101.2,57.9,0.0221,0,Blocked,Normal,Left Foot,0-0,0,0
+3895309,Dortmund,Leverkusen,2024-04-21,Leverkusen,Alejandro Grimaldo García,56,113.5,65.7,0.0084,0,Saved,Normal,Left Foot,0-0,0,0
+3895309,Dortmund,Leverkusen,2024-04-21,Leverkusen,Nathan Tella,67,115.3,36.8,0.6655,0,Saved,Normal,Left Foot,0-0,0,0
+3895309,Dortmund,Leverkusen,2024-04-21,Leverkusen,Jeremie Frimpong,74,93.1,40.5,0.0146,0,Off T,Half Volley,Right Foot,0-0,0,0
+3895309,Dortmund,Leverkusen,2024-04-21,Dortmund,Niclas Füllkrug,80,111.0,36.0,0.1643,1,Goal,Volley,Right Foot,1-0,1,0
+3895309,Dortmund,Leverkusen,2024-04-21,Leverkusen,Alejandro Grimaldo García,96,90.5,36.3,0.0359,0,Saved Off Target,Normal,Left Foot,1-0,1,0
+3895309,Dortmund,Leverkusen,2024-04-21,Leverkusen,Josip Stanišić,96,115.5,34.8,0.1165,1,Goal,Normal,Head,1-1,1,1
+3895258,FC Köln,Leverkusen,2024-03-03,Leverkusen,Jonas Hofmann,2,102.9,43.8,0.0947,0,Off T,Normal,Right Foot,0-0,0,0
+3895258,FC Köln,Leverkusen,2024-03-03,FC Köln,Dejan Ljubicic,10,113.5,44.5,0.1983,0,Off T,Normal,Head,0-0,0,0
+3895258,FC Köln,Leverkusen,2024-03-03,Leverkusen,Alejandro Grimaldo García,21,93.0,32.7,0.0538,0,Off T,Normal,Left Foot,0-0,0,0
+3895258,FC Köln,Leverkusen,2024-03-03,Leverkusen,Jeremie Frimpong,24,104.4,50.2,0.0468,0,Blocked,Normal,Left Foot,0-0,0,0
+3895258,FC Köln,Leverkusen,2024-03-03,Leverkusen,Alejandro Grimaldo García,30,99.6,21.4,0.012,0,Off T,Normal,Left Foot,0-0,0,0
+3895258,FC Köln,Leverkusen,2024-03-03,FC Köln,Sargis Adamyan,34,107.0,49.2,0.0832,0,Blocked,Normal,Right Foot,0-0,0,0
+3895258,FC Köln,Leverkusen,2024-03-03,Leverkusen,Florian Wirtz,36,115.3,26.2,0.0253,0,Saved,Normal,Right Foot,0-0,0,0
+3895258,FC Köln,Leverkusen,2024-03-03,Leverkusen,Patrik Schick,36,113.1,34.2,0.067,0,Blocked,Volley,Left Foot,0-0,0,0
+3895258,FC Köln,Leverkusen,2024-03-03,Leverkusen,Jeremie Frimpong,36,116.0,39.8,0.5891,1,Goal,Half Volley,Right Foot,0-1,0,1
+3895258,FC Köln,Leverkusen,2024-03-03,Leverkusen,Florian Wirtz,40,113.0,24.7,0.0185,0,Saved,Normal,Right Foot,0-1,0,1
+3895258,FC Köln,Leverkusen,2024-03-03,FC Köln,Sargis Adamyan,43,108.8,42.6,0.0592,0,Blocked,Normal,Head,0-1,0,1
+3895258,FC Köln,Leverkusen,2024-03-03,FC Köln,Faride Alidou,48,111.2,32.0,0.0645,0,Off T,Normal,Head,0-1,0,1
+3895258,FC Köln,Leverkusen,2024-03-03,FC Köln,Timo Hübers,48,107.6,35.8,0.038,0,Wayward,Normal,Head,0-1,0,1
+3895258,FC Köln,Leverkusen,2024-03-03,FC Köln,Sargis Adamyan,50,111.9,38.2,0.2432,0,Post,Volley,Right Foot,0-1,0,1
+3895258,FC Köln,Leverkusen,2024-03-03,Leverkusen,Alejandro Grimaldo García,51,94.7,30.2,0.0259,0,Off T,Normal,Left Foot,0-1,0,1
+3895258,FC Köln,Leverkusen,2024-03-03,Leverkusen,Alejandro Grimaldo García,53,107.8,37.3,0.0325,0,Wayward,Normal,Head,0-1,0,1
+3895258,FC Köln,Leverkusen,2024-03-03,Leverkusen,Alejandro Grimaldo García,54,93.9,50.1,0.0222,0,Blocked,Normal,Left Foot,0-1,0,1
+3895258,FC Köln,Leverkusen,2024-03-03,Leverkusen,Patrik Schick,56,111.9,34.5,0.0536,0,Wayward,Normal,Head,0-1,0,1
+3895258,FC Köln,Leverkusen,2024-03-03,Leverkusen,Alejandro Grimaldo García,72,114.0,30.3,0.0788,1,Goal,Normal,Left Foot,0-2,0,2
+3895258,FC Köln,Leverkusen,2024-03-03,Leverkusen,Nathan Tella,75,99.8,35.8,0.0562,0,Blocked,Normal,Right Foot,0-2,0,2
+3895258,FC Köln,Leverkusen,2024-03-03,Leverkusen,Florian Wirtz,76,95.6,27.6,0.028,0,Saved,Normal,Right Foot,0-2,0,2
+3895258,FC Köln,Leverkusen,2024-03-03,Leverkusen,Florian Wirtz,81,107.5,50.8,0.0488,0,Blocked,Normal,Right Foot,0-2,0,2
+3895258,FC Köln,Leverkusen,2024-03-03,Leverkusen,Alejandro Grimaldo García,83,108.9,23.6,0.0401,0,Off T,Normal,Left Foot,0-2,0,2
+3895244,FC Heidenheim,Leverkusen,2024-02-17,Leverkusen,Florian Wirtz,3,100.5,40.5,0.0999,0,Saved,Normal,Right Foot,0-0,0,0
+3895244,FC Heidenheim,Leverkusen,2024-02-17,Leverkusen,Robert Andrich,8,98.4,46.3,0.0407,0,Blocked,Normal,Left Foot,0-0,0,0
+3895244,FC Heidenheim,Leverkusen,2024-02-17,Leverkusen,Jeremie Frimpong,14,93.8,45.3,0.0235,0,Blocked,Half Volley,Right Foot,0-0,0,0
+3895244,FC Heidenheim,Leverkusen,2024-02-17,Leverkusen,Patrik Schick,18,112.7,33.9,0.0821,0,Off T,Normal,Left Foot,0-0,0,0
+3895244,FC Heidenheim,Leverkusen,2024-02-17,Leverkusen,Robert Andrich,21,110.3,43.7,0.0573,0,Wayward,Normal,Head,0-0,0,0
+3895244,FC Heidenheim,Leverkusen,2024-02-17,Leverkusen,Piero Martín Hincapié Reyna,33,105.6,37.7,0.0232,0,Wayward,Normal,Head,0-0,0,0
+3895244,FC Heidenheim,Leverkusen,2024-02-17,FC Heidenheim,Tim Kleindienst,35,103.3,34.5,0.0754,0,Off T,Half Volley,Left Foot,0-0,0,0
+3895244,FC Heidenheim,Leverkusen,2024-02-17,Leverkusen,Patrik Schick,45,117.8,48.1,0.0458,0,Blocked,Normal,Head,0-0,0,0
+3895244,FC Heidenheim,Leverkusen,2024-02-17,Leverkusen,Jeremie Frimpong,46,108.4,45.7,0.191,1,Goal,Normal,Left Foot,0-1,0,1
+3895244,FC Heidenheim,Leverkusen,2024-02-17,Leverkusen,Jeremie Frimpong,49,107.5,35.0,0.0382,0,Blocked,Backheel,Left Foot,0-1,0,1
+3895244,FC Heidenheim,Leverkusen,2024-02-17,Leverkusen,Alejandro Grimaldo García,49,104.6,29.6,0.0542,0,Blocked,Normal,Right Foot,0-1,0,1
+3895244,FC Heidenheim,Leverkusen,2024-02-17,Leverkusen,Jeremie Frimpong,50,94.0,38.7,0.0365,0,Off T,Normal,Left Foot,0-1,0,1
+3895244,FC Heidenheim,Leverkusen,2024-02-17,FC Heidenheim,Omar Haktab Traorè,52,91.7,55.9,0.0083,0,Off T,Normal,Right Foot,0-1,0,1
+3895244,FC Heidenheim,Leverkusen,2024-02-17,Leverkusen,Amine Adli,55,104.4,49.1,0.128,0,Off T,Normal,Right Foot,0-1,0,1
+3895244,FC Heidenheim,Leverkusen,2024-02-17,FC Heidenheim,Nikola Dovedan,57,98.2,35.5,0.057,0,Saved,Normal,Left Foot,0-1,0,1
+3895244,FC Heidenheim,Leverkusen,2024-02-17,Leverkusen,Jeremie Frimpong,60,112.4,54.3,0.0645,0,Off T,Normal,Right Foot,0-1,0,1
+3895244,FC Heidenheim,Leverkusen,2024-02-17,Leverkusen,Granit Xhaka,67,100.2,29.2,0.0477,0,Blocked,Normal,Left Foot,0-1,0,1
+3895244,FC Heidenheim,Leverkusen,2024-02-17,FC Heidenheim,Benedikt Gimber,69,104.4,32.3,0.0679,0,Saved,Normal,Left Foot,0-1,0,1
+3895244,FC Heidenheim,Leverkusen,2024-02-17,Leverkusen,Jeremie Frimpong,74,111.1,48.0,0.1,0,Off T,Half Volley,Right Foot,0-1,0,1
+3895244,FC Heidenheim,Leverkusen,2024-02-17,Leverkusen,Florian Wirtz,76,111.8,52.2,0.1402,0,Post,Normal,Right Foot,0-1,0,1
+3895244,FC Heidenheim,Leverkusen,2024-02-17,Leverkusen,Borja Iglesias Quintas,80,101.0,51.2,0.0249,0,Blocked,Normal,Right Foot,0-1,0,1
+3895244,FC Heidenheim,Leverkusen,2024-02-17,Leverkusen,Amine Adli,80,108.9,36.4,0.6214,1,Goal,Normal,Left Foot,0-2,0,2
+3895244,FC Heidenheim,Leverkusen,2024-02-17,FC Heidenheim,Florian Pick,83,91.7,29.0,0.0252,0,Blocked,Normal,Right Foot,0-2,0,2
+3895244,FC Heidenheim,Leverkusen,2024-02-17,FC Heidenheim,Tim Kleindienst,85,115.2,42.5,0.2234,1,Goal,Normal,Head,1-2,1,2
+3895232,Leverkusen,Bayern Munich,2024-02-10,Leverkusen,Amine Adli,10,100.9,27.6,0.068,0,Saved,Normal,Left Foot,0-0,0,0
+3895232,Leverkusen,Bayern Munich,2024-02-10,Bayern Munich,Leon Goretzka,12,98.8,44.3,0.0933,0,Off T,Normal,Right Foot,0-0,0,0
+3895232,Leverkusen,Bayern Munich,2024-02-10,Leverkusen,Josip Stanišić,17,112.9,49.7,0.3248,1,Goal,Normal,Right Foot,1-0,1,0
+3895232,Leverkusen,Bayern Munich,2024-02-10,Leverkusen,Nathan Tella,22,108.0,51.8,0.0854,0,Saved,Volley,Right Foot,1-0,1,0
+3895232,Leverkusen,Bayern Munich,2024-02-10,Leverkusen,Florian Wirtz,22,103.2,47.1,0.0773,0,Blocked,Normal,Right Foot,1-0,1,0
+3895232,Leverkusen,Bayern Munich,2024-02-10,Leverkusen,Jonathan Tah,22,111.4,34.7,0.0481,0,Saved,Normal,Head,1-0,1,0
+3895232,Leverkusen,Bayern Munich,2024-02-10,Leverkusen,Robert Andrich,23,114.0,31.3,0.0496,0,Blocked,Normal,Head,1-0,1,0
+3895232,Leverkusen,Bayern Munich,2024-02-10,Bayern Munich,Noussair Mazraoui,26,100.6,56.9,0.0302,0,Saved,Normal,Left Foot,1-0,1,0
+3895232,Leverkusen,Bayern Munich,2024-02-10,Leverkusen,Granit Xhaka,36,93.8,43.8,0.0206,0,Wayward,Half Volley,Right Foot,1-0,1,0
+3895232,Leverkusen,Bayern Munich,2024-02-10,Leverkusen,Amine Adli,36,109.2,41.8,0.0526,0,Saved,Normal,Head,1-0,1,0
+3895232,Leverkusen,Bayern Munich,2024-02-10,Leverkusen,Piero Martín Hincapié Reyna,40,94.6,27.8,0.0285,0,Off T,Normal,Left Foot,1-0,1,0
+3895232,Leverkusen,Bayern Munich,2024-02-10,Bayern Munich,Leroy Sané,42,110.8,51.5,0.0892,0,Off T,Half Volley,Left Foot,1-0,1,0
+3895232,Leverkusen,Bayern Munich,2024-02-10,Leverkusen,Alejandro Grimaldo García,49,112.2,27.9,0.1556,1,Goal,Normal,Left Foot,2-0,2,0
+3895232,Leverkusen,Bayern Munich,2024-02-10,Bayern Munich,Sacha Boey,51,112.7,38.8,0.2274,0,Off T,Volley,Left Foot,2-0,2,0
+3895232,Leverkusen,Bayern Munich,2024-02-10,Leverkusen,Nathan Tella,58,105.4,59.2,0.01,0,Saved,Normal,Right Foot,2-0,2,0
+3895232,Leverkusen,Bayern Munich,2024-02-10,Bayern Munich,Leon Goretzka,66,117.6,50.2,0.0216,0,Blocked,Normal,Head,2-0,2,0
+3895232,Leverkusen,Bayern Munich,2024-02-10,Bayern Munich,Jamal Musiala,69,98.7,35.0,0.0467,0,Blocked,Normal,Right Foot,2-0,2,0
+3895232,Leverkusen,Bayern Munich,2024-02-10,Leverkusen,Jeremie Frimpong,72,110.4,51.5,0.0584,0,Off T,Normal,Right Foot,2-0,2,0
+3895232,Leverkusen,Bayern Munich,2024-02-10,Bayern Munich,Harry Kane,78,98.3,33.3,0.0325,0,Blocked,Normal,Right Foot,2-0,2,0
+3895232,Leverkusen,Bayern Munich,2024-02-10,Bayern Munich,Mathys Tel,81,107.7,39.0,0.0392,0,Off T,Normal,Head,2-0,2,0
+3895232,Leverkusen,Bayern Munich,2024-02-10,Bayern Munich,Mathys Tel,83,101.1,27.7,0.0381,0,Wayward,Half Volley,Right Foot,2-0,2,0
+3895232,Leverkusen,Bayern Munich,2024-02-10,Leverkusen,Jeremie Frimpong,87,106.9,52.8,0.0456,0,Saved to Post,Normal,Right Foot,2-0,2,0
+3895232,Leverkusen,Bayern Munich,2024-02-10,Leverkusen,Jeremie Frimpong,94,88.6,74.7,0.0093,1,Goal,Normal,Right Foot,3-0,3,0
+3895210,Leverkusen,M'gladbach,2024-01-27,Leverkusen,Nadiem Amiri,4,102.6,60.2,0.009,0,Saved,Normal,Right Foot,0-0,0,0
+3895210,Leverkusen,M'gladbach,2024-01-27,Leverkusen,Patrik Schick,7,99.9,48.0,0.052,0,Blocked,Normal,Left Foot,0-0,0,0
+3895210,Leverkusen,M'gladbach,2024-01-27,Leverkusen,Josip Stanišić,11,94.7,49.3,0.0222,0,Blocked,Normal,Right Foot,0-0,0,0
+3895210,Leverkusen,M'gladbach,2024-01-27,Leverkusen,Jonas Hofmann,17,106.2,29.5,0.0648,0,Saved,Normal,Right Foot,0-0,0,0
+3895210,Leverkusen,M'gladbach,2024-01-27,Leverkusen,Florian Wirtz,18,94.9,51.7,0.0249,0,Off T,Normal,Right Foot,0-0,0,0
+3895210,Leverkusen,M'gladbach,2024-01-27,M'gladbach,Luca Netz,21,109.7,28.7,0.0647,0,Saved,Normal,Right Foot,0-0,0,0
+3895210,Leverkusen,M'gladbach,2024-01-27,Leverkusen,Florian Wirtz,22,109.9,41.5,0.4414,0,Saved,Normal,Right Foot,0-0,0,0
+3895210,Leverkusen,M'gladbach,2024-01-27,Leverkusen,Josip Stanišić,23,110.5,37.3,0.0823,0,Saved,Normal,Head,0-0,0,0
+3895210,Leverkusen,M'gladbach,2024-01-27,Leverkusen,Florian Wirtz,24,95.3,52.9,0.0237,0,Blocked,Normal,Right Foot,0-0,0,0
+3895210,Leverkusen,M'gladbach,2024-01-27,Leverkusen,Patrik Schick,24,102.7,38.6,0.1289,0,Off T,Normal,Left Foot,0-0,0,0
+3895210,Leverkusen,M'gladbach,2024-01-27,M'gladbach,Florian Neuhaus,26,101.4,28.3,0.0386,0,Saved,Normal,Left Foot,0-0,0,0
+3895210,Leverkusen,M'gladbach,2024-01-27,M'gladbach,Robin Hack,28,106.4,38.7,0.0621,0,Blocked,Normal,Right Foot,0-0,0,0
+3895210,Leverkusen,M'gladbach,2024-01-27,M'gladbach,Kouadio Emmanuel Koné,31,89.7,34.2,0.0182,0,Saved,Normal,Right Foot,0-0,0,0
+3895210,Leverkusen,M'gladbach,2024-01-27,Leverkusen,Florian Wirtz,36,106.4,23.4,0.0342,0,Saved,Normal,Right Foot,0-0,0,0
+3895210,Leverkusen,M'gladbach,2024-01-27,Leverkusen,Alejandro Grimaldo García,39,94.6,36.0,0.0404,0,Off T,Normal,Left Foot,0-0,0,0
+3895210,Leverkusen,M'gladbach,2024-01-27,Leverkusen,Jonas Hofmann,45,101.5,35.7,0.0564,0,Saved,Normal,Right Foot,0-0,0,0
+3895210,Leverkusen,M'gladbach,2024-01-27,Leverkusen,Jonas Hofmann,53,110.0,41.9,0.1255,0,Wayward,Half Volley,Left Foot,0-0,0,0
+3895210,Leverkusen,M'gladbach,2024-01-27,Leverkusen,Nadiem Amiri,54,94.1,32.1,0.0269,0,Saved,Normal,Right Foot,0-0,0,0
+3895210,Leverkusen,M'gladbach,2024-01-27,Leverkusen,Jeremie Frimpong,56,106.2,31.8,0.2904,0,Off T,Normal,Left Foot,0-0,0,0
+3895210,Leverkusen,M'gladbach,2024-01-27,Leverkusen,Jonas Hofmann,57,100.5,31.1,0.0365,0,Blocked,Normal,Right Foot,0-0,0,0
+3895210,Leverkusen,M'gladbach,2024-01-27,Leverkusen,Alejandro Grimaldo García,59,106.7,33.9,0.1535,0,Off T,Normal,Left Foot,0-0,0,0
+3895210,Leverkusen,M'gladbach,2024-01-27,Leverkusen,Granit Xhaka,64,88.9,47.9,0.0194,0,Blocked,Normal,Left Foot,0-0,0,0
+3895210,Leverkusen,M'gladbach,2024-01-27,Leverkusen,Jonas Hofmann,68,108.3,48.9,0.0509,0,Blocked,Normal,Left Foot,0-0,0,0
+3895210,Leverkusen,M'gladbach,2024-01-27,Leverkusen,Nathan Tella,68,104.9,25.1,0.0293,0,Blocked,Normal,Right Foot,0-0,0,0
+3895210,Leverkusen,M'gladbach,2024-01-27,Leverkusen,Alejandro Grimaldo García,71,94.0,27.0,0.0233,0,Blocked,Normal,Left Foot,0-0,0,0
+3895210,Leverkusen,M'gladbach,2024-01-27,Leverkusen,Josip Stanišić,78,96.7,52.3,0.0279,0,Off T,Normal,Right Foot,0-0,0,0
+3895210,Leverkusen,M'gladbach,2024-01-27,Leverkusen,Jeremie Frimpong,83,108.7,51.0,0.082,0,Wayward,Normal,Right Foot,0-0,0,0
+3895210,Leverkusen,M'gladbach,2024-01-27,Leverkusen,Patrik Schick,88,114.0,41.4,0.1525,0,Off T,Normal,Head,0-0,0,0
+3895210,Leverkusen,M'gladbach,2024-01-27,Leverkusen,Adam Hložek,91,107.8,44.7,0.0483,0,Blocked,Overhead Kick,Right Foot,0-0,0,0
+3895210,Leverkusen,M'gladbach,2024-01-27,Leverkusen,Nathan Tella,91,114.7,39.6,0.4193,0,Saved,Volley,Right Foot,0-0,0,0
+3895210,Leverkusen,M'gladbach,2024-01-27,Leverkusen,Adam Hložek,93,111.2,41.9,0.0695,0,Saved,Normal,Head,0-0,0,0
+3895210,Leverkusen,M'gladbach,2024-01-27,Leverkusen,Robert Andrich,94,97.5,48.7,0.0259,0,Off T,Volley,Right Foot,0-0,0,0
+3895202,RB Leipzig,Leverkusen,2024-01-20,RB Leipzig,Ikoma Loïs Openda,4,102.5,54.5,0.0312,0,Saved,Normal,Left Foot,0-0,0,0
+3895202,RB Leipzig,Leverkusen,2024-01-20,Leverkusen,Granit Xhaka,5,93.8,46.1,0.029,0,Off T,Normal,Left Foot,0-0,0,0
+3895202,RB Leipzig,Leverkusen,2024-01-20,RB Leipzig,Xavi Simons,6,105.1,44.5,0.0695,1,Goal,Half Volley,Left Foot,1-0,1,0
+3895202,RB Leipzig,Leverkusen,2024-01-20,RB Leipzig,Benjamin Šeško,8,110.7,40.1,0.318,0,Off T,Half Volley,Right Foot,1-0,1,0
+3895202,RB Leipzig,Leverkusen,2024-01-20,Leverkusen,Florian Wirtz,9,100.3,28.1,0.0471,0,Blocked,Normal,Right Foot,1-0,1,0
+3895202,RB Leipzig,Leverkusen,2024-01-20,RB Leipzig,Daniel Olmo Carvajal,13,95.9,44.6,0.0369,0,Off T,Normal,Right Foot,1-0,1,0
+3895202,RB Leipzig,Leverkusen,2024-01-20,RB Leipzig,Mohamed Simakan,21,94.2,55.8,0.0191,0,Saved,Normal,Right Foot,1-0,1,0
+3895202,RB Leipzig,Leverkusen,2024-01-20,RB Leipzig,Mohamed Simakan,21,115.3,51.0,0.0786,0,Saved,Volley,Right Foot,1-0,1,0
+3895202,RB Leipzig,Leverkusen,2024-01-20,Leverkusen,Exequiel Alejandro Palacios,26,97.5,39.7,0.0457,0,Off T,Normal,Right Foot,1-0,1,0
+3895202,RB Leipzig,Leverkusen,2024-01-20,Leverkusen,Jonas Hofmann,30,90.2,48.8,0.0233,0,Off T,Normal,Right Foot,1-0,1,0
+3895202,RB Leipzig,Leverkusen,2024-01-20,Leverkusen,Patrik Schick,36,110.6,41.8,0.0738,0,Blocked,Normal,Head,1-0,1,0
+3895202,RB Leipzig,Leverkusen,2024-01-20,RB Leipzig,Benjamin Šeško,41,106.5,29.2,0.0413,0,Blocked,Normal,Left Foot,1-0,1,0
+3895202,RB Leipzig,Leverkusen,2024-01-20,Leverkusen,Patrik Schick,47,110.7,25.6,0.0205,0,Blocked,Half Volley,Left Foot,1-0,1,0
+3895202,RB Leipzig,Leverkusen,2024-01-20,Leverkusen,Nathan Tella,46,116.0,44.1,0.7886,1,Goal,Normal,Right Foot,1-1,1,1
+3895202,RB Leipzig,Leverkusen,2024-01-20,Leverkusen,Patrik Schick,52,111.2,26.8,0.0827,0,Off T,Normal,Left Foot,1-1,1,1
+3895202,RB Leipzig,Leverkusen,2024-01-20,Leverkusen,Florian Wirtz,54,110.2,30.7,0.069,0,Saved,Normal,Right Foot,1-1,1,1
+3895202,RB Leipzig,Leverkusen,2024-01-20,RB Leipzig,Ikoma Loïs Openda,55,107.8,33.0,0.2425,1,Goal,Normal,Left Foot,2-1,2,1
+3895202,RB Leipzig,Leverkusen,2024-01-20,RB Leipzig,Benjamin Šeško,58,104.9,54.2,0.0624,0,Saved,Normal,Right Foot,2-1,2,1
+3895202,RB Leipzig,Leverkusen,2024-01-20,Leverkusen,Jonathan Tah,62,116.6,43.5,0.1832,1,Goal,Normal,Head,2-2,2,2
+3895202,RB Leipzig,Leverkusen,2024-01-20,Leverkusen,Florian Wirtz,67,100.8,32.0,0.0536,0,Off T,Normal,Right Foot,2-2,2,2
+3895202,RB Leipzig,Leverkusen,2024-01-20,Leverkusen,Alejandro Grimaldo García,68,93.2,34.5,0.0249,0,Blocked,Normal,Left Foot,2-2,2,2
+3895202,RB Leipzig,Leverkusen,2024-01-20,Leverkusen,Alejandro Grimaldo García,72,103.8,27.5,0.044,0,Off T,Lob,Left Foot,2-2,2,2
+3895202,RB Leipzig,Leverkusen,2024-01-20,Leverkusen,Piero Martín Hincapié Reyna,79,114.5,31.4,0.0583,0,Wayward,Normal,Head,2-2,2,2
+3895202,RB Leipzig,Leverkusen,2024-01-20,Leverkusen,Piero Martín Hincapié Reyna,82,107.2,34.9,0.0535,0,Blocked,Backheel,Left Foot,2-2,2,2
+3895202,RB Leipzig,Leverkusen,2024-01-20,Leverkusen,Piero Martín Hincapié Reyna,82,105.9,25.3,0.0394,0,Saved,Normal,Left Foot,2-2,2,2
+3895202,RB Leipzig,Leverkusen,2024-01-20,Leverkusen,Josip Stanišić,84,110.1,38.5,0.0624,0,Off T,Normal,Head,2-2,2,2
+3895202,RB Leipzig,Leverkusen,2024-01-20,Leverkusen,Piero Martín Hincapié Reyna,90,115.6,37.6,0.1814,1,Goal,Half Volley,Left Foot,2-3,2,3
+3895202,RB Leipzig,Leverkusen,2024-01-20,RB Leipzig,Benjamin Henrichs,93,113.4,40.4,0.1872,0,Off T,Normal,Head,2-3,2,3
+3895194,Augsburg,Leverkusen,2024-01-13,Augsburg,Ruben Vargas,11,91.4,50.5,0.0304,0,Off T,Volley,Right Foot,0-0,0,0
+3895194,Augsburg,Leverkusen,2024-01-13,Leverkusen,Alejandro Grimaldo García,17,96.2,31.7,0.0363,0,Saved,Normal,Left Foot,0-0,0,0
+3895194,Augsburg,Leverkusen,2024-01-13,Leverkusen,Adam Hložek,17,109.8,44.4,0.0621,0,Saved,Normal,Head,0-0,0,0
+3895194,Augsburg,Leverkusen,2024-01-13,Augsburg,Ermedin Demirović,21,98.3,40.4,0.0577,0,Off T,Normal,Right Foot,0-0,0,0
+3895194,Augsburg,Leverkusen,2024-01-13,Leverkusen,Alejandro Grimaldo García,27,93.4,31.5,0.0256,0,Post,Normal,Left Foot,0-0,0,0
+3895194,Augsburg,Leverkusen,2024-01-13,Leverkusen,Jonas Hofmann,31,105.4,39.2,0.1236,0,Blocked,Half Volley,Right Foot,0-0,0,0
+3895194,Augsburg,Leverkusen,2024-01-13,Leverkusen,Granit Xhaka,31,95.3,41.4,0.0339,0,Off T,Normal,Left Foot,0-0,0,0
+3895194,Augsburg,Leverkusen,2024-01-13,Leverkusen,Patrik Schick,33,108.8,40.6,0.1143,0,Saved,Normal,Head,0-0,0,0
+3895194,Augsburg,Leverkusen,2024-01-13,Leverkusen,Robert Andrich,36,116.5,34.1,0.1313,0,Saved,Normal,Head,0-0,0,0
+3895194,Augsburg,Leverkusen,2024-01-13,Augsburg,Phillip Tietz,37,115.6,50.7,0.1238,0,Off T,Normal,Right Foot,0-0,0,0
+3895194,Augsburg,Leverkusen,2024-01-13,Leverkusen,Adam Hložek,41,111.2,48.2,0.0324,0,Blocked,Normal,Head,0-0,0,0
+3895194,Augsburg,Leverkusen,2024-01-13,Leverkusen,Exequiel Alejandro Palacios,42,89.8,46.5,0.02,0,Off T,Normal,Right Foot,0-0,0,0
+3895194,Augsburg,Leverkusen,2024-01-13,Augsburg,Ermedin Demirović,47,113.8,50.8,0.1041,0,Off T,Normal,Right Foot,0-0,0,0
+3895194,Augsburg,Leverkusen,2024-01-13,Leverkusen,Exequiel Alejandro Palacios,47,94.0,44.9,0.0288,0,Off T,Normal,Right Foot,0-0,0,0
+3895194,Augsburg,Leverkusen,2024-01-13,Leverkusen,Exequiel Alejandro Palacios,49,95.3,26.7,0.0204,0,Off T,Normal,Right Foot,0-0,0,0
+3895194,Augsburg,Leverkusen,2024-01-13,Leverkusen,Granit Xhaka,52,100.2,31.8,0.0339,0,Blocked,Half Volley,Left Foot,0-0,0,0
+3895194,Augsburg,Leverkusen,2024-01-13,Leverkusen,Granit Xhaka,53,103.4,44.2,0.0378,0,Off T,Normal,Head,0-0,0,0
+3895194,Augsburg,Leverkusen,2024-01-13,Leverkusen,Piero Martín Hincapié Reyna,56,94.9,28.5,0.0271,0,Blocked,Normal,Left Foot,0-0,0,0
+3895194,Augsburg,Leverkusen,2024-01-13,Leverkusen,Patrik Schick,58,110.4,41.8,0.1649,0,Off T,Normal,Head,0-0,0,0
+3895194,Augsburg,Leverkusen,2024-01-13,Leverkusen,Patrik Schick,64,99.6,44.9,0.0395,0,Blocked,Normal,Left Foot,0-0,0,0
+3895194,Augsburg,Leverkusen,2024-01-13,Leverkusen,Jeremie Frimpong,64,110.4,51.1,0.0471,0,Off T,Half Volley,Right Foot,0-0,0,0
+3895194,Augsburg,Leverkusen,2024-01-13,Leverkusen,Piero Martín Hincapié Reyna,66,111.0,41.2,0.0812,0,Off T,Normal,Head,0-0,0,0
+3895194,Augsburg,Leverkusen,2024-01-13,Leverkusen,Florian Wirtz,68,113.3,29.1,0.1128,0,Post,Normal,Right Foot,0-0,0,0
+3895194,Augsburg,Leverkusen,2024-01-13,Leverkusen,Patrik Schick,70,107.5,37.2,0.1296,0,Blocked,Normal,Left Foot,0-0,0,0
+3895194,Augsburg,Leverkusen,2024-01-13,Leverkusen,Alejandro Grimaldo García,75,111.8,36.7,0.0668,0,Blocked,Normal,Head,0-0,0,0
+3895194,Augsburg,Leverkusen,2024-01-13,Leverkusen,Jeremie Frimpong,81,106.3,52.3,0.044,0,Off T,Normal,Right Foot,0-0,0,0
+3895194,Augsburg,Leverkusen,2024-01-13,Leverkusen,Jonas Hofmann,87,96.9,31.4,0.0343,0,Saved,Normal,Right Foot,0-0,0,0
+3895194,Augsburg,Leverkusen,2024-01-13,Leverkusen,Florian Wirtz,88,95.6,49.5,0.03,0,Blocked,Normal,Right Foot,0-0,0,0
+3895194,Augsburg,Leverkusen,2024-01-13,Leverkusen,Exequiel Alejandro Palacios,93,110.9,35.6,0.0979,1,Goal,Half Volley,Left Foot,0-1,0,1
+3895182,Leverkusen,Bochum,2023-12-20,Bochum,Christopher Antwi-Adjej,9,102.5,47.0,0.0631,0,Blocked,Normal,Right Foot,0-0,0,0
+3895182,Leverkusen,Bochum,2023-12-20,Leverkusen,Florian Wirtz,10,108.5,31.2,0.1064,0,Blocked,Normal,Right Foot,0-0,0,0
+3895182,Leverkusen,Bochum,2023-12-20,Bochum,Gonçalo Mendes Paciencia,13,106.9,39.0,0.0505,0,Blocked,Half Volley,Left Foot,0-0,0,0
+3895182,Leverkusen,Bochum,2023-12-20,Bochum,Matúš Bero,14,96.1,40.9,0.0284,0,Blocked,Half Volley,Left Foot,0-0,0,0
+3895182,Leverkusen,Bochum,2023-12-20,Bochum,Bernardo Fernandes da Silva Junior,23,111.4,33.4,0.0458,0,Saved,Normal,Head,0-0,0,0
+3895182,Leverkusen,Bochum,2023-12-20,Leverkusen,Patrik Schick,29,108.0,40.0,0.7835,1,Goal,Normal,Left Foot,1-0,1,0
+3895182,Leverkusen,Bochum,2023-12-20,Leverkusen,Patrik Schick,31,105.2,42.9,0.305,1,Goal,Normal,Left Foot,2-0,2,0
+3895182,Leverkusen,Bochum,2023-12-20,Leverkusen,Jeremie Frimpong,33,104.4,51.4,0.1031,0,Saved,Normal,Right Foot,2-0,2,0
+3895182,Leverkusen,Bochum,2023-12-20,Leverkusen,Piero Martín Hincapié Reyna,34,115.5,38.4,0.1509,0,Blocked,Normal,Head,2-0,2,0
+3895182,Leverkusen,Bochum,2023-12-20,Leverkusen,Patrik Schick,40,105.2,39.9,0.1315,0,Off T,Normal,Left Foot,2-0,2,0
+3895182,Leverkusen,Bochum,2023-12-20,Leverkusen,Jonas Hofmann,41,100.0,44.1,0.0777,0,Saved,Normal,Right Foot,2-0,2,0
+3895182,Leverkusen,Bochum,2023-12-20,Leverkusen,Alejandro Grimaldo García,42,110.9,38.9,0.4564,0,Off T,Normal,Right Foot,2-0,2,0
+3895182,Leverkusen,Bochum,2023-12-20,Leverkusen,Patrik Schick,45,114.8,43.1,0.1486,1,Goal,Normal,Head,3-0,3,0
+3895182,Leverkusen,Bochum,2023-12-20,Bochum,Anthony Losilla,48,112.6,46.7,0.0421,0,Blocked,Normal,Head,3-0,3,0
+3895182,Leverkusen,Bochum,2023-12-20,Leverkusen,Jonas Hofmann,59,103.8,44.1,0.0566,0,Blocked,Normal,Right Foot,3-0,3,0
+3895182,Leverkusen,Bochum,2023-12-20,Leverkusen,Victor Okoh Boniface,68,110.1,51.1,0.3441,1,Goal,Normal,Right Foot,4-0,4,0
+3895182,Leverkusen,Bochum,2023-12-20,Leverkusen,Adam Hložek,75,106.1,45.0,0.0961,0,Off T,Normal,Right Foot,4-0,4,0
+3895182,Leverkusen,Bochum,2023-12-20,Leverkusen,Adam Hložek,81,116.3,38.5,0.3556,0,Wayward,Normal,Head,4-0,4,0
+3895182,Leverkusen,Bochum,2023-12-20,Leverkusen,Edmond Fayçal Tapsoba,81,109.9,37.9,0.1281,0,Saved,Normal,Left Foot,4-0,4,0
+3895182,Leverkusen,Bochum,2023-12-20,Leverkusen,Gustavo Adolfo Puerta Molano,91,100.0,44.4,0.0549,0,Off T,Half Volley,Right Foot,4-0,4,0
+3895182,Leverkusen,Bochum,2023-12-20,Bochum,Patrick Osterhage,92,104.6,30.9,0.0577,0,Blocked,Half Volley,Left Foot,4-0,4,0
+3895182,Leverkusen,Bochum,2023-12-20,Leverkusen,Jeremie Frimpong,93,104.8,47.8,0.1022,0,Saved,Lob,Right Foot,4-0,4,0
+3895167,Stuttgart,Leverkusen,2023-12-10,Stuttgart,Chris Führich,2,106.9,24.1,0.0325,0,Saved,Normal,Right Foot,0-0,0,0
+3895167,Stuttgart,Leverkusen,2023-12-10,Stuttgart,Serhou Guirassy,6,89.6,30.2,0.026,0,Saved,Normal,Right Foot,0-0,0,0
+3895167,Stuttgart,Leverkusen,2023-12-10,Stuttgart,Deniz Undav,6,116.4,34.4,0.1776,0,Blocked,Volley,Left Foot,0-0,0,0
+3895167,Stuttgart,Leverkusen,2023-12-10,Stuttgart,Josha Mamadou Karaboue Vagnoman,6,110.5,41.1,0.2623,0,Blocked,Normal,Right Foot,0-0,0,0
+3895167,Stuttgart,Leverkusen,2023-12-10,Stuttgart,Dan-Axel Zagadou,6,113.0,43.8,0.0759,0,Wayward,Normal,Head,0-0,0,0
+3895167,Stuttgart,Leverkusen,2023-12-10,Leverkusen,Amine Adli,8,113.9,27.7,0.0647,0,Post,Normal,Left Foot,0-0,0,0
+3895167,Stuttgart,Leverkusen,2023-12-10,Stuttgart,Deniz Undav,13,109.4,47.5,0.0481,0,Wayward,Volley,Right Foot,0-0,0,0
+3895167,Stuttgart,Leverkusen,2023-12-10,Stuttgart,Serhou Guirassy,14,95.7,43.0,0.0376,0,Blocked,Normal,Right Foot,0-0,0,0
+3895167,Stuttgart,Leverkusen,2023-12-10,Stuttgart,Deniz Undav,16,104.3,34.2,0.0977,0,Saved,Normal,Left Foot,0-0,0,0
+3895167,Stuttgart,Leverkusen,2023-12-10,Stuttgart,Deniz Undav,18,73.7,77.9,0.0033,0,Saved,Normal,Right Foot,0-0,0,0
+3895167,Stuttgart,Leverkusen,2023-12-10,Leverkusen,Victor Okoh Boniface,23,107.1,42.1,0.1798,0,Saved,Half Volley,Right Foot,0-0,0,0
+3895167,Stuttgart,Leverkusen,2023-12-10,Stuttgart,Serhou Guirassy,24,105.2,38.7,0.3733,0,Saved,Normal,Right Foot,0-0,0,0
+3895167,Stuttgart,Leverkusen,2023-12-10,Stuttgart,Chris Führich,24,116.1,30.7,0.0927,0,Saved,Normal,Right Foot,0-0,0,0
+3895167,Stuttgart,Leverkusen,2023-12-10,Leverkusen,Jeremie Frimpong,25,102.0,23.3,0.0263,0,Blocked,Normal,Right Foot,0-0,0,0
+3895167,Stuttgart,Leverkusen,2023-12-10,Leverkusen,Jonathan Tah,26,108.7,44.4,0.0338,0,Off T,Normal,Head,0-0,0,0
+3895167,Stuttgart,Leverkusen,2023-12-10,Leverkusen,Alejandro Grimaldo García,28,110.1,24.3,0.0383,0,Blocked,Normal,Left Foot,0-0,0,0
+3895167,Stuttgart,Leverkusen,2023-12-10,Leverkusen,Amine Adli,29,111.3,38.8,0.0624,0,Off T,Normal,Head,0-0,0,0
+3895167,Stuttgart,Leverkusen,2023-12-10,Leverkusen,Victor Okoh Boniface,32,104.2,24.5,0.0374,0,Off T,Normal,Right Foot,0-0,0,0
+3895167,Stuttgart,Leverkusen,2023-12-10,Leverkusen,Florian Wirtz,34,108.2,30.5,0.1212,0,Blocked,Normal,Right Foot,0-0,0,0
+3895167,Stuttgart,Leverkusen,2023-12-10,Stuttgart,Maximilian Mittelstädt,35,96.7,24.3,0.0239,0,Off T,Normal,Left Foot,0-0,0,0
+3895167,Stuttgart,Leverkusen,2023-12-10,Stuttgart,Deniz Undav,36,93.7,34.6,0.0312,0,Saved,Normal,Right Foot,0-0,0,0
+3895167,Stuttgart,Leverkusen,2023-12-10,Stuttgart,Chris Führich,39,115.7,35.5,0.7863,1,Goal,Normal,Right Foot,1-0,1,0
+3895167,Stuttgart,Leverkusen,2023-12-10,Stuttgart,Atakan Karazor,41,95.7,36.7,0.0311,0,Blocked,Half Volley,Right Foot,1-0,1,0
+3895167,Stuttgart,Leverkusen,2023-12-10,Stuttgart,Deniz Undav,44,109.5,45.6,0.0889,0,Saved,Normal,Head,1-0,1,0
+3895167,Stuttgart,Leverkusen,2023-12-10,Stuttgart,Deniz Undav,47,105.9,33.6,0.0486,0,Blocked,Normal,Right Foot,1-0,1,0
+3895167,Stuttgart,Leverkusen,2023-12-10,Stuttgart,Chris Führich,48,90.6,38.2,0.0304,0,Off T,Normal,Right Foot,1-0,1,0
+3895167,Stuttgart,Leverkusen,2023-12-10,Leverkusen,Florian Wirtz,46,112.9,44.4,0.4447,1,Goal,Half Volley,Right Foot,1-1,1,1
+3895167,Stuttgart,Leverkusen,2023-12-10,Leverkusen,Granit Xhaka,48,93.6,39.5,0.0477,0,Post,Normal,Left Foot,1-1,1,1
+3895167,Stuttgart,Leverkusen,2023-12-10,Leverkusen,Victor Okoh Boniface,52,110.9,38.9,0.0939,0,Saved,Normal,Head,1-1,1,1
+3895167,Stuttgart,Leverkusen,2023-12-10,Leverkusen,Alejandro Grimaldo García,54,113.4,29.0,0.0778,0,Saved Off Target,Half Volley,Left Foot,1-1,1,1
+3895167,Stuttgart,Leverkusen,2023-12-10,Stuttgart,Waldemar Anton,56,98.6,58.1,0.0151,0,Off T,Normal,Right Foot,1-1,1,1
+3895167,Stuttgart,Leverkusen,2023-12-10,Leverkusen,Victor Okoh Boniface,60,111.8,26.1,0.052,0,Blocked,Normal,Right Foot,1-1,1,1
+3895167,Stuttgart,Leverkusen,2023-12-10,Leverkusen,Alejandro Grimaldo García,60,94.4,27.8,0.0214,0,Blocked,Normal,Left Foot,1-1,1,1
+3895167,Stuttgart,Leverkusen,2023-12-10,Stuttgart,Deniz Undav,69,99.9,48.6,0.0548,0,Saved Off Target,Volley,Left Foot,1-1,1,1
+3895167,Stuttgart,Leverkusen,2023-12-10,Leverkusen,Jeremie Frimpong,72,103.7,51.3,0.0448,0,Saved,Normal,Left Foot,1-1,1,1
+3895167,Stuttgart,Leverkusen,2023-12-10,Stuttgart,Angelo Stiller,80,94.5,40.1,0.0403,0,Saved,Normal,Left Foot,1-1,1,1
+3895167,Stuttgart,Leverkusen,2023-12-10,Leverkusen,Jonathan Tah,87,104.8,39.4,0.0684,0,Off T,Half Volley,Right Foot,1-1,1,1
+3895167,Stuttgart,Leverkusen,2023-12-10,Leverkusen,Patrik Schick,88,111.4,47.3,0.0439,0,Blocked,Normal,Head,1-1,1,1
+3895167,Stuttgart,Leverkusen,2023-12-10,Leverkusen,Jonathan Tah,89,113.8,31.9,0.0586,0,Saved,Normal,Head,1-1,1,1
+3895167,Stuttgart,Leverkusen,2023-12-10,Stuttgart,Silas Katompa Mvumpa,92,97.8,48.8,0.0261,0,Off T,Half Volley,Left Foot,1-1,1,1
+3895167,Stuttgart,Leverkusen,2023-12-10,Leverkusen,Jonas Hofmann,93,109.7,22.8,0.0153,0,Off T,Half Volley,Left Foot,1-1,1,1
+3895158,Leverkusen,Dortmund,2023-12-03,Dortmund,Julian Ryerson,4,111.3,33.9,0.3788,1,Goal,Normal,Left Foot,0-1,0,1
+3895158,Leverkusen,Dortmund,2023-12-03,Leverkusen,Exequiel Alejandro Palacios,6,99.6,38.1,0.0555,0,Saved,Normal,Left Foot,0-1,0,1
+3895158,Leverkusen,Dortmund,2023-12-03,Leverkusen,Granit Xhaka,13,95.5,52.8,0.0216,0,Saved,Normal,Left Foot,0-1,0,1
+3895158,Leverkusen,Dortmund,2023-12-03,Leverkusen,Jonas Hofmann,18,98.6,34.3,0.0381,0,Off T,Half Volley,Right Foot,0-1,0,1
+3895158,Leverkusen,Dortmund,2023-12-03,Leverkusen,Granit Xhaka,20,95.8,48.2,0.0222,0,Off T,Half Volley,Left Foot,0-1,0,1
+3895158,Leverkusen,Dortmund,2023-12-03,Leverkusen,Jonathan Tah,25,114.7,48.5,0.1198,0,Wayward,Volley,Right Foot,0-1,0,1
+3895158,Leverkusen,Dortmund,2023-12-03,Leverkusen,Alejandro Grimaldo García,30,92.9,33.0,0.0538,0,Saved,Normal,Left Foot,0-1,0,1
+3895158,Leverkusen,Dortmund,2023-12-03,Dortmund,Jamie Jermaine Bynoe-Gittens,35,103.4,34.6,0.069,0,Blocked,Normal,Right Foot,0-1,0,1
+3895158,Leverkusen,Dortmund,2023-12-03,Leverkusen,Victor Okoh Boniface,37,108.3,44.3,0.0634,0,Off T,Normal,Head,0-1,0,1
+3895158,Leverkusen,Dortmund,2023-12-03,Leverkusen,Exequiel Alejandro Palacios,42,94.0,36.0,0.0309,0,Off T,Normal,Right Foot,0-1,0,1
+3895158,Leverkusen,Dortmund,2023-12-03,Leverkusen,Granit Xhaka,48,102.8,40.3,0.0871,0,Off T,Normal,Left Foot,0-1,0,1
+3895158,Leverkusen,Dortmund,2023-12-03,Leverkusen,Granit Xhaka,46,88.7,50.3,0.018,0,Blocked,Normal,Left Foot,0-1,0,1
+3895158,Leverkusen,Dortmund,2023-12-03,Leverkusen,Jeremie Frimpong,47,94.9,42.3,0.0369,0,Blocked,Normal,Right Foot,0-1,0,1
+3895158,Leverkusen,Dortmund,2023-12-03,Leverkusen,Jeremie Frimpong,47,97.0,35.3,0.04,0,Wayward,Normal,Right Foot,0-1,0,1
+3895158,Leverkusen,Dortmund,2023-12-03,Leverkusen,Alejandro Grimaldo García,49,85.6,35.9,0.0182,0,Off T,Normal,Left Foot,0-1,0,1
+3895158,Leverkusen,Dortmund,2023-12-03,Leverkusen,Odilon Kossonou,51,116.0,48.4,0.1043,0,Wayward,Volley,Right Foot,0-1,0,1
+3895158,Leverkusen,Dortmund,2023-12-03,Dortmund,Julian Brandt,53,104.7,40.3,0.0571,0,Blocked,Half Volley,Right Foot,0-1,0,1
+3895158,Leverkusen,Dortmund,2023-12-03,Dortmund,Julian Brandt,53,93.0,57.8,0.0077,0,Saved,Normal,Right Foot,0-1,0,1
+3895158,Leverkusen,Dortmund,2023-12-03,Leverkusen,Jonas Hofmann,60,99.8,49.5,0.0286,0,Blocked,Half Volley,Right Foot,0-1,0,1
+3895158,Leverkusen,Dortmund,2023-12-03,Leverkusen,Exequiel Alejandro Palacios,61,111.0,44.4,0.113,0,Blocked,Normal,Right Foot,0-1,0,1
+3895158,Leverkusen,Dortmund,2023-12-03,Leverkusen,Florian Wirtz,61,100.3,53.8,0.0297,0,Saved,Normal,Left Foot,0-1,0,1
+3895158,Leverkusen,Dortmund,2023-12-03,Leverkusen,Alejandro Grimaldo García,62,94.3,54.9,0.0205,0,Off T,Normal,Left Foot,0-1,0,1
+3895158,Leverkusen,Dortmund,2023-12-03,Dortmund,Niclas Füllkrug,67,113.8,27.1,0.0591,0,Off T,Normal,Left Foot,0-1,0,1
+3895158,Leverkusen,Dortmund,2023-12-03,Leverkusen,Alejandro Grimaldo García,72,95.1,30.0,0.0299,0,Off T,Normal,Left Foot,0-1,0,1
+3895158,Leverkusen,Dortmund,2023-12-03,Leverkusen,Granit Xhaka,72,99.3,43.5,0.0821,0,Off T,Normal,Left Foot,0-1,0,1
+3895158,Leverkusen,Dortmund,2023-12-03,Leverkusen,Florian Wirtz,77,102.9,50.2,0.0412,0,Off T,Half Volley,Right Foot,0-1,0,1
+3895158,Leverkusen,Dortmund,2023-12-03,Leverkusen,Victor Okoh Boniface,78,116.7,38.6,0.9403,1,Goal,Normal,Right Foot,1-1,1,1
+3895158,Leverkusen,Dortmund,2023-12-03,Leverkusen,Victor Okoh Boniface,86,104.7,34.7,0.0812,0,Saved,Half Volley,Left Foot,1-1,1,1
+3895158,Leverkusen,Dortmund,2023-12-03,Leverkusen,Patrik Schick,87,115.4,48.7,0.0684,0,Off T,Normal,Head,1-1,1,1
+3895158,Leverkusen,Dortmund,2023-12-03,Dortmund,Niclas Füllkrug,94,112.0,40.9,0.236,0,Off T,Normal,Head,1-1,1,1
+3895153,Werder Bremen,Leverkusen,2023-11-25,Leverkusen,Granit Xhaka,10,98.1,39.1,0.0552,0,Blocked,Normal,Left Foot,0-0,0,0
+3895153,Werder Bremen,Leverkusen,2023-11-25,Leverkusen,Victor Okoh Boniface,16,109.5,38.7,0.2769,0,Blocked,Normal,Right Foot,0-0,0,0
+3895153,Werder Bremen,Leverkusen,2023-11-25,Leverkusen,Granit Xhaka,20,86.6,33.1,0.0188,0,Off T,Normal,Left Foot,0-0,0,0
+3895153,Werder Bremen,Leverkusen,2023-11-25,Werder Bremen,Rafael Santos Borré Amaury,27,110.2,39.7,0.0578,0,Saved,Normal,Head,0-0,0,0
+3895153,Werder Bremen,Leverkusen,2023-11-25,Leverkusen,Jeremie Frimpong,30,104.2,54.9,0.0421,0,Off T,Normal,Right Foot,0-0,0,0
+3895153,Werder Bremen,Leverkusen,2023-11-25,Leverkusen,Piero Martín Hincapié Reyna,36,110.8,40.3,0.0832,0,Wayward,Normal,Head,0-0,0,0
+3895153,Werder Bremen,Leverkusen,2023-11-25,Leverkusen,Jeremie Frimpong,42,109.1,47.5,0.1543,1,Goal,Normal,Right Foot,0-1,0,1
+3895153,Werder Bremen,Leverkusen,2023-11-25,Leverkusen,Alejandro Grimaldo García,48,106.1,29.3,0.0359,0,Wayward,Volley,Left Foot,0-1,0,1
+3895153,Werder Bremen,Leverkusen,2023-11-25,Leverkusen,Victor Okoh Boniface,55,103.3,47.2,0.1099,0,Off T,Normal,Right Foot,0-1,0,1
+3895153,Werder Bremen,Leverkusen,2023-11-25,Leverkusen,Victor Okoh Boniface,68,109.9,27.7,0.0537,0,Blocked,Normal,Left Foot,0-1,0,1
+3895153,Werder Bremen,Leverkusen,2023-11-25,Leverkusen,Alejandro Grimaldo García,75,113.8,28.9,0.0516,1,Goal,Normal,Left Foot,0-2,0,2
+3895153,Werder Bremen,Leverkusen,2023-11-25,Leverkusen,Jonas Hofmann,81,98.1,33.6,0.0514,0,Blocked,Normal,Right Foot,0-2,0,2
+3895153,Werder Bremen,Leverkusen,2023-11-25,Werder Bremen,Justin Gideon Njinmah,83,108.1,51.9,0.1282,0,Post,Normal,Right Foot,0-2,0,2
+3895153,Werder Bremen,Leverkusen,2023-11-25,Leverkusen,Adam Hložek,86,105.5,23.8,0.0316,0,Saved,Normal,Right Foot,0-2,0,2
+3895153,Werder Bremen,Leverkusen,2023-11-25,Leverkusen,Jonas Hofmann,86,105.9,52.6,0.0495,0,Saved,Normal,Right Foot,0-2,0,2
+3895153,Werder Bremen,Leverkusen,2023-11-25,Leverkusen,Nadiem Amiri,91,108.3,30.8,0.0768,0,Blocked,Normal,Right Foot,0-2,0,2
+3895113,Wolfsburg,Leverkusen,2023-10-21,Wolfsburg,Maximilian Arnold,0,75.0,32.6,0.0099,0,Off T,Half Volley,Left Foot,0-0,0,0
+3895113,Wolfsburg,Leverkusen,2023-10-21,Leverkusen,Jonathan Tah,8,110.1,30.8,0.0301,0,Saved,Normal,Head,0-0,0,0
+3895113,Wolfsburg,Leverkusen,2023-10-21,Leverkusen,Jeremie Frimpong,12,118.8,44.7,0.4023,1,Goal,Volley,Right Foot,0-1,0,1
+3895113,Wolfsburg,Leverkusen,2023-10-21,Wolfsburg,Tiago Barreiros de Melo Tomás,14,112.1,47.9,0.1917,0,Saved,Normal,Right Foot,0-1,0,1
+3895113,Wolfsburg,Leverkusen,2023-10-21,Wolfsburg,Tiago Barreiros de Melo Tomás,14,115.4,53.9,0.0215,0,Wayward,Half Volley,Right Foot,0-1,0,1
+3895113,Wolfsburg,Leverkusen,2023-10-21,Wolfsburg,Mattias Svanberg,14,103.5,18.2,0.0078,0,Saved,Normal,Right Foot,0-1,0,1
+3895113,Wolfsburg,Leverkusen,2023-10-21,Wolfsburg,Ridle Bote Baku,16,106.6,56.2,0.0297,0,Off T,Normal,Right Foot,0-1,0,1
+3895113,Wolfsburg,Leverkusen,2023-10-21,Leverkusen,Amine Adli,26,102.7,27.7,0.0421,0,Saved,Normal,Right Foot,0-1,0,1
+3895113,Wolfsburg,Leverkusen,2023-10-21,Leverkusen,Victor Okoh Boniface,30,100.9,31.3,0.0464,0,Off T,Normal,Right Foot,0-1,0,1
+3895113,Wolfsburg,Leverkusen,2023-10-21,Wolfsburg,Jonas Older Wind,37,88.9,51.1,0.0119,0,Saved,Half Volley,Right Foot,0-1,0,1
+3895113,Wolfsburg,Leverkusen,2023-10-21,Wolfsburg,Yannick Gerhardt,37,94.9,41.4,0.0362,0,Blocked,Normal,Left Foot,0-1,0,1
+3895113,Wolfsburg,Leverkusen,2023-10-21,Wolfsburg,Jonas Older Wind,38,112.4,46.7,0.0656,0,Blocked,Half Volley,Right Foot,0-1,0,1
+3895113,Wolfsburg,Leverkusen,2023-10-21,Wolfsburg,Mattias Svanberg,40,97.8,32.6,0.0346,0,Wayward,Half Volley,Left Foot,0-1,0,1
+3895113,Wolfsburg,Leverkusen,2023-10-21,Wolfsburg,Maxence Lacroix,40,110.4,46.7,0.2465,1,Goal,Normal,Right Foot,1-1,1,1
+3895113,Wolfsburg,Leverkusen,2023-10-21,Leverkusen,Jeremie Frimpong,43,108.0,54.2,0.0846,0,Off T,Normal,Right Foot,1-1,1,1
+3895113,Wolfsburg,Leverkusen,2023-10-21,Wolfsburg,Jonas Older Wind,51,100.4,24.2,0.0286,0,Off T,Normal,Right Foot,1-1,1,1
+3895113,Wolfsburg,Leverkusen,2023-10-21,Leverkusen,Victor Okoh Boniface,52,115.4,44.7,0.1915,0,Saved,Normal,Left Foot,1-1,1,1
+3895113,Wolfsburg,Leverkusen,2023-10-21,Leverkusen,Victor Okoh Boniface,60,106.8,51.1,0.1317,0,Off T,Normal,Left Foot,1-1,1,1
+3895113,Wolfsburg,Leverkusen,2023-10-21,Leverkusen,Alejandro Grimaldo García,61,104.7,31.8,0.1225,1,Goal,Normal,Left Foot,1-2,1,2
+3895113,Wolfsburg,Leverkusen,2023-10-21,Wolfsburg,Yannick Gerhardt,64,112.7,48.6,0.0416,0,Blocked,Normal,Head,1-2,1,2
+3895113,Wolfsburg,Leverkusen,2023-10-21,Leverkusen,Victor Okoh Boniface,66,110.4,45.7,0.3298,0,Saved,Normal,Right Foot,1-2,1,2
+3895113,Wolfsburg,Leverkusen,2023-10-21,Wolfsburg,Mattias Svanberg,67,94.6,30.8,0.0585,0,Off T,Normal,Right Foot,1-2,1,2
+3895113,Wolfsburg,Leverkusen,2023-10-21,Leverkusen,Florian Wirtz,69,101.2,35.8,0.0505,0,Off T,Normal,Right Foot,1-2,1,2
+3895113,Wolfsburg,Leverkusen,2023-10-21,Wolfsburg,Lovro Majer,72,99.1,24.8,0.0289,0,Off T,Normal,Left Foot,1-2,1,2
+3895113,Wolfsburg,Leverkusen,2023-10-21,Leverkusen,Jeremie Frimpong,76,111.6,46.0,0.4451,0,Saved,Normal,Right Foot,1-2,1,2
+3895113,Wolfsburg,Leverkusen,2023-10-21,Leverkusen,Edmond Fayçal Tapsoba,77,98.6,45.6,0.0339,0,Wayward,Half Volley,Left Foot,1-2,1,2
+3895113,Wolfsburg,Leverkusen,2023-10-21,Wolfsburg,Kevin Paredes,80,104.7,49.2,0.0656,0,Saved,Normal,Left Foot,1-2,1,2
+3895113,Wolfsburg,Leverkusen,2023-10-21,Wolfsburg,Kevin Paredes,82,95.3,51.5,0.0268,0,Off T,Normal,Left Foot,1-2,1,2
+3895113,Wolfsburg,Leverkusen,2023-10-21,Leverkusen,Florian Wirtz,86,105.1,28.2,0.0522,0,Off T,Normal,Right Foot,1-2,1,2
+3895113,Wolfsburg,Leverkusen,2023-10-21,Wolfsburg,Jonas Older Wind,92,104.9,41.2,0.0989,0,Saved,Half Volley,Left Foot,1-2,1,2
+3895113,Wolfsburg,Leverkusen,2023-10-21,Wolfsburg,Jonas Older Wind,92,108.6,37.7,0.194,0,Saved,Normal,Right Foot,1-2,1,2
+3895095,FSV Mainz 05,Leverkusen,2023-09-30,FSV Mainz 05,Edimilson Fernandes,4,101.8,21.3,0.0111,0,Off T,Normal,Right Foot,0-0,0,0
+3895095,FSV Mainz 05,Leverkusen,2023-09-30,Leverkusen,Alejandro Grimaldo García,9,91.6,42.0,0.0463,0,Off T,Normal,Left Foot,0-0,0,0
+3895095,FSV Mainz 05,Leverkusen,2023-09-30,FSV Mainz 05,Karim Onisiwo,24,106.5,40.8,0.0408,0,Saved,Normal,Head,0-0,0,0
+3895095,FSV Mainz 05,Leverkusen,2023-09-30,FSV Mainz 05,Brajan Gruda,29,97.5,54.0,0.0257,0,Saved,Normal,Left Foot,0-0,0,0
+3895095,FSV Mainz 05,Leverkusen,2023-09-30,FSV Mainz 05,Dominik Kohr,30,113.6,28.7,0.0388,0,Blocked,Volley,Left Foot,0-0,0,0
+3895095,FSV Mainz 05,Leverkusen,2023-09-30,FSV Mainz 05,Stefan Bell,33,101.5,30.5,0.0547,0,Off T,Volley,Left Foot,0-0,0,0
+3895095,FSV Mainz 05,Leverkusen,2023-09-30,FSV Mainz 05,Karim Onisiwo,52,116.1,56.3,0.0104,0,Blocked,Half Volley,Right Foot,0-0,0,0
+3895095,FSV Mainz 05,Leverkusen,2023-09-30,FSV Mainz 05,Karim Onisiwo,53,113.6,39.5,0.1126,0,Saved,Normal,Head,0-0,0,0
+3895095,FSV Mainz 05,Leverkusen,2023-09-30,Leverkusen,Alejandro Grimaldo García,58,98.8,34.5,0.0827,1,Goal,Normal,Left Foot,0-1,0,1
+3895095,FSV Mainz 05,Leverkusen,2023-09-30,Leverkusen,Jonas Hofmann,64,107.2,48.4,0.1242,1,Goal,Half Volley,Right Foot,0-2,0,2
+3895095,FSV Mainz 05,Leverkusen,2023-09-30,Leverkusen,Victor Okoh Boniface,74,104.5,39.9,0.4886,0,Saved,Normal,Right Foot,0-2,0,2
+3895095,FSV Mainz 05,Leverkusen,2023-09-30,FSV Mainz 05,Anwar El Ghazi,80,95.7,40.6,0.0417,0,Off T,Normal,Right Foot,0-2,0,2
+3895095,FSV Mainz 05,Leverkusen,2023-09-30,FSV Mainz 05,Tom Krauß,81,95.7,48.1,0.0455,0,Off T,Normal,Right Foot,0-2,0,2
+3895095,FSV Mainz 05,Leverkusen,2023-09-30,Leverkusen,Amine Adli,82,101.1,27.7,0.0402,0,Blocked,Normal,Right Foot,0-2,0,2
+3895095,FSV Mainz 05,Leverkusen,2023-09-30,Leverkusen,Jonas Hofmann,82,107.0,58.0,0.0115,0,Off T,Half Volley,Right Foot,0-2,0,2
+3895095,FSV Mainz 05,Leverkusen,2023-09-30,FSV Mainz 05,Aymen Barkok,87,101.4,43.7,0.0539,0,Blocked,Normal,Right Foot,0-2,0,2
+3895067,Leverkusen,Darmstadt 98,2023-09-02,Leverkusen,Alejandro Grimaldo García,1,106.3,36.1,0.0242,0,Blocked,Normal,Head,0-0,0,0
+3895067,Leverkusen,Darmstadt 98,2023-09-02,Leverkusen,Edmond Fayçal Tapsoba,8,108.0,35.3,0.0721,0,Wayward,Volley,Right Foot,0-0,0,0
+3895067,Leverkusen,Darmstadt 98,2023-09-02,Darmstadt 98,Oscar Vilhelmsson,13,95.0,32.9,0.0307,0,Blocked,Normal,Left Foot,0-0,0,0
+3895067,Leverkusen,Darmstadt 98,2023-09-02,Leverkusen,Alejandro Grimaldo García,15,105.6,37.2,0.174,0,Blocked,Normal,Left Foot,0-0,0,0
+3895067,Leverkusen,Darmstadt 98,2023-09-02,Leverkusen,Florian Wirtz,18,100.8,41.9,0.0518,0,Blocked,Normal,Left Foot,0-0,0,0
+3895067,Leverkusen,Darmstadt 98,2023-09-02,Leverkusen,Jeremie Frimpong,18,99.3,46.4,0.0505,0,Saved,Normal,Left Foot,0-0,0,0
+3895067,Leverkusen,Darmstadt 98,2023-09-02,Darmstadt 98,Oscar Vilhelmsson,19,102.8,43.1,0.0744,0,Blocked,Normal,Right Foot,0-0,0,0
+3895067,Leverkusen,Darmstadt 98,2023-09-02,Leverkusen,Victor Okoh Boniface,20,113.8,48.4,0.2702,1,Goal,Lob,Right Foot,1-0,1,0
+3895067,Leverkusen,Darmstadt 98,2023-09-02,Darmstadt 98,Oscar Vilhelmsson,23,117.7,42.5,0.4379,1,Goal,Normal,Head,1-1,1,1
+3895067,Leverkusen,Darmstadt 98,2023-09-02,Leverkusen,Victor Okoh Boniface,31,103.3,43.0,0.1478,0,Blocked,Normal,Left Foot,1-1,1,1
+3895067,Leverkusen,Darmstadt 98,2023-09-02,Leverkusen,Victor Okoh Boniface,31,97.1,34.6,0.0505,0,Blocked,Normal,Right Foot,1-1,1,1
+3895067,Leverkusen,Darmstadt 98,2023-09-02,Leverkusen,Jeremie Frimpong,32,110.6,52.9,0.1196,0,Off T,Normal,Right Foot,1-1,1,1
+3895067,Leverkusen,Darmstadt 98,2023-09-02,Leverkusen,Granit Xhaka,33,95.3,36.1,0.0405,0,Saved,Normal,Right Foot,1-1,1,1
+3895067,Leverkusen,Darmstadt 98,2023-09-02,Leverkusen,Jonas Hofmann,36,97.0,37.1,0.043,0,Saved,Normal,Right Foot,1-1,1,1
+3895067,Leverkusen,Darmstadt 98,2023-09-02,Leverkusen,Alejandro Grimaldo García,41,99.6,40.6,0.0962,0,Blocked,Normal,Left Foot,1-1,1,1
+3895067,Leverkusen,Darmstadt 98,2023-09-02,Leverkusen,Florian Wirtz,42,103.2,26.4,0.0388,0,Saved,Normal,Right Foot,1-1,1,1
+3895067,Leverkusen,Darmstadt 98,2023-09-02,Leverkusen,Jonas Hofmann,45,98.5,46.7,0.0605,0,Saved,Normal,Right Foot,1-1,1,1
+3895067,Leverkusen,Darmstadt 98,2023-09-02,Leverkusen,Exequiel Alejandro Palacios,48,103.5,41.8,0.0697,1,Goal,Normal,Right Foot,2-1,2,1
+3895067,Leverkusen,Darmstadt 98,2023-09-02,Darmstadt 98,Tim Skarke,58,113.2,53.8,0.0223,0,Blocked,Normal,Right Foot,2-1,2,1
+3895067,Leverkusen,Darmstadt 98,2023-09-02,Leverkusen,Victor Okoh Boniface,60,112.3,32.6,0.4024,1,Goal,Normal,Left Foot,3-1,3,1
+3895067,Leverkusen,Darmstadt 98,2023-09-02,Leverkusen,Victor Okoh Boniface,63,116.4,28.7,0.0852,0,Off T,Normal,Left Foot,3-1,3,1
+3895067,Leverkusen,Darmstadt 98,2023-09-02,Leverkusen,Jonas Hofmann,66,99.7,49.3,0.0565,1,Goal,Normal,Right Foot,4-1,4,1
+3895067,Leverkusen,Darmstadt 98,2023-09-02,Leverkusen,Victor Okoh Boniface,71,112.4,35.1,0.0737,0,Off T,Normal,Head,4-1,4,1
+3895067,Leverkusen,Darmstadt 98,2023-09-02,Leverkusen,Alejandro Grimaldo García,73,100.2,21.2,0.0091,0,Saved,Normal,Left Foot,4-1,4,1
+3895067,Leverkusen,Darmstadt 98,2023-09-02,Darmstadt 98,Tim Skarke,76,95.4,57.1,0.0139,0,Blocked,Normal,Left Foot,4-1,4,1
+3895067,Leverkusen,Darmstadt 98,2023-09-02,Leverkusen,Noah Mbamba,81,95.8,41.0,0.0467,0,Blocked,Normal,Right Foot,4-1,4,1
+3895067,Leverkusen,Darmstadt 98,2023-09-02,Leverkusen,Adam Hložek,82,115.7,40.2,0.5853,1,Goal,Normal,Left Foot,5-1,5,1
+3895067,Leverkusen,Darmstadt 98,2023-09-02,Leverkusen,Victor Okoh Boniface,90,105.1,32.7,0.0603,0,Saved,Normal,Right Foot,5-1,5,1
+3895067,Leverkusen,Darmstadt 98,2023-09-02,Leverkusen,Nathan Tella,90,102.1,40.4,0.2644,0,Saved,Normal,Left Foot,5-1,5,1
+3895067,Leverkusen,Darmstadt 98,2023-09-02,Leverkusen,Jonas Hofmann,90,108.3,50.4,0.4115,0,Off T,Normal,Right Foot,5-1,5,1
+3895060,M'gladbach,Leverkusen,2023-08-26,Leverkusen,Victor Okoh Boniface,8,105.2,48.5,0.1121,0,Blocked,Normal,Right Foot,0-0,0,0
+3895060,M'gladbach,Leverkusen,2023-08-26,Leverkusen,Victor Okoh Boniface,17,113.2,35.7,0.2129,1,Goal,Normal,Head,0-1,0,1
+3895060,M'gladbach,Leverkusen,2023-08-26,Leverkusen,Jonas Hofmann,24,112.7,34.7,0.0816,0,Blocked,Normal,Left Foot,0-1,0,1
+3895060,M'gladbach,Leverkusen,2023-08-26,M'gladbach,Marvin Friedrich,27,113.0,52.6,0.0656,0,Off T,Half Volley,Right Foot,0-1,0,1
+3895060,M'gladbach,Leverkusen,2023-08-26,Leverkusen,Exequiel Alejandro Palacios,28,93.5,54.9,0.0172,0,Off T,Normal,Right Foot,0-1,0,1
+3895060,M'gladbach,Leverkusen,2023-08-26,Leverkusen,Alejandro Grimaldo García,29,101.2,45.3,0.1009,0,Off T,Normal,Left Foot,0-1,0,1
+3895060,M'gladbach,Leverkusen,2023-08-26,Leverkusen,Jeremie Frimpong,30,108.3,53.4,0.0374,0,Saved,Normal,Right Foot,0-1,0,1
+3895060,M'gladbach,Leverkusen,2023-08-26,Leverkusen,Florian Wirtz,32,103.9,25.2,0.0349,0,Saved,Normal,Right Foot,0-1,0,1
+3895060,M'gladbach,Leverkusen,2023-08-26,Leverkusen,Victor Okoh Boniface,34,102.7,35.3,0.0654,0,Blocked,Normal,Right Foot,0-1,0,1
+3895060,M'gladbach,Leverkusen,2023-08-26,Leverkusen,Victor Okoh Boniface,35,95.4,37.2,0.0358,0,Blocked,Normal,Right Foot,0-1,0,1
+3895060,M'gladbach,Leverkusen,2023-08-26,Leverkusen,Victor Okoh Boniface,38,103.2,39.9,0.0521,0,Off T,Normal,Left Foot,0-1,0,1
+3895060,M'gladbach,Leverkusen,2023-08-26,Leverkusen,Granit Xhaka,40,101.1,49.8,0.0443,0,Blocked,Normal,Left Foot,0-1,0,1
+3895060,M'gladbach,Leverkusen,2023-08-26,M'gladbach,Tomáš Čvančara,40,106.8,34.5,0.2614,0,Wayward,Normal,Left Foot,0-1,0,1
+3895060,M'gladbach,Leverkusen,2023-08-26,Leverkusen,Victor Okoh Boniface,42,109.4,43.0,0.201,0,Wayward,Normal,Left Foot,0-1,0,1
+3895060,M'gladbach,Leverkusen,2023-08-26,Leverkusen,Victor Okoh Boniface,45,103.8,36.1,0.0904,0,Off T,Normal,Left Foot,0-1,0,1
+3895060,M'gladbach,Leverkusen,2023-08-26,Leverkusen,Jonas Hofmann,46,109.2,29.0,0.1245,0,Saved,Normal,Left Foot,0-1,0,1
+3895060,M'gladbach,Leverkusen,2023-08-26,Leverkusen,Victor Okoh Boniface,46,115.6,38.7,0.3016,0,Saved,Normal,Left Foot,0-1,0,1
+3895060,M'gladbach,Leverkusen,2023-08-26,Leverkusen,Jonathan Tah,50,110.9,43.9,0.1664,1,Goal,Volley,Left Foot,0-2,0,2
+3895060,M'gladbach,Leverkusen,2023-08-26,M'gladbach,Marvin Friedrich,49,104.6,58.9,0.0089,0,Off T,Normal,Right Foot,0-2,0,2
+3895060,M'gladbach,Leverkusen,2023-08-26,M'gladbach,Tomáš Čvančara,50,97.4,46.4,0.0483,0,Off T,Normal,Left Foot,0-2,0,2
+3895060,M'gladbach,Leverkusen,2023-08-26,Leverkusen,Jonas Hofmann,51,110.3,49.0,0.2159,0,Blocked,Normal,Left Foot,0-2,0,2
+3895060,M'gladbach,Leverkusen,2023-08-26,Leverkusen,Victor Okoh Boniface,52,107.4,44.9,0.2353,1,Goal,Normal,Right Foot,0-3,0,3
+3895060,M'gladbach,Leverkusen,2023-08-26,Leverkusen,Victor Okoh Boniface,55,102.7,43.1,0.0672,0,Off T,Normal,Right Foot,0-3,0,3
+3895060,M'gladbach,Leverkusen,2023-08-26,Leverkusen,Jonas Hofmann,55,100.9,50.5,0.0564,0,Saved,Normal,Right Foot,0-3,0,3
+3895060,M'gladbach,Leverkusen,2023-08-26,Leverkusen,Exequiel Alejandro Palacios,56,89.2,33.2,0.0189,0,Blocked,Normal,Right Foot,0-3,0,3
+3895060,M'gladbach,Leverkusen,2023-08-26,M'gladbach,Tomáš Čvančara,57,102.0,44.9,0.0623,0,Blocked,Normal,Right Foot,0-3,0,3
+3895060,M'gladbach,Leverkusen,2023-08-26,M'gladbach,Alassane Pléa,60,89.8,30.3,0.0234,0,Off T,Normal,Right Foot,0-3,0,3
+3895060,M'gladbach,Leverkusen,2023-08-26,M'gladbach,Marvin Friedrich,63,109.0,46.7,0.0619,0,Off T,Normal,Head,0-3,0,3
+3895060,M'gladbach,Leverkusen,2023-08-26,M'gladbach,Ko Itakura,67,110.6,38.8,0.093,0,Saved,Normal,Head,0-3,0,3
+3895060,M'gladbach,Leverkusen,2023-08-26,M'gladbach,Marvin Friedrich,69,102.9,47.0,0.0668,0,Off T,Volley,Left Foot,0-3,0,3
+3895060,M'gladbach,Leverkusen,2023-08-26,Leverkusen,Jonas Hofmann,73,107.7,47.6,0.1017,0,Saved,Normal,Right Foot,0-3,0,3
+3895060,M'gladbach,Leverkusen,2023-08-26,M'gladbach,Franck Honorat,75,101.5,49.6,0.0709,0,Saved,Normal,Right Foot,0-3,0,3
+3895060,M'gladbach,Leverkusen,2023-08-26,Leverkusen,Adam Hložek,83,108.2,36.2,0.3165,0,Saved,Half Volley,Right Foot,0-3,0,3
+3895060,M'gladbach,Leverkusen,2023-08-26,M'gladbach,Joseph Scally,85,88.7,23.6,0.007,0,Off T,Normal,Right Foot,0-3,0,3
+3895060,M'gladbach,Leverkusen,2023-08-26,Leverkusen,Victor Okoh Boniface,86,117.0,28.7,0.0296,0,Saved,Normal,Right Foot,0-3,0,3
+3895060,M'gladbach,Leverkusen,2023-08-26,M'gladbach,Grant-Leon Ranos,91,96.4,48.9,0.0299,0,Blocked,Normal,Left Foot,0-3,0,3
+3895052,Leverkusen,RB Leipzig,2023-08-19,Leverkusen,Granit Xhaka,1,92.2,27.1,0.0207,0,Saved,Normal,Left Foot,0-0,0,0
+3895052,Leverkusen,RB Leipzig,2023-08-19,RB Leipzig,Timo Werner,7,107.0,23.2,0.0421,0,Off T,Normal,Left Foot,0-0,0,0
+3895052,Leverkusen,RB Leipzig,2023-08-19,Leverkusen,Jonas Hofmann,7,96.2,44.8,0.0387,0,Off T,Normal,Left Foot,0-0,0,0
+3895052,Leverkusen,RB Leipzig,2023-08-19,RB Leipzig,Ikoma Loïs Openda,8,101.0,28.8,0.0213,0,Blocked,Half Volley,Right Foot,0-0,0,0
+3895052,Leverkusen,RB Leipzig,2023-08-19,RB Leipzig,Benjamin Henrichs,9,98.1,29.8,0.0409,0,Saved,Normal,Right Foot,0-0,0,0
+3895052,Leverkusen,RB Leipzig,2023-08-19,RB Leipzig,Ikoma Loïs Openda,20,113.0,40.5,0.0909,0,Wayward,Normal,Head,0-0,0,0
+3895052,Leverkusen,RB Leipzig,2023-08-19,RB Leipzig,Benjamin Henrichs,21,93.3,52.7,0.0158,0,Saved,Half Volley,Right Foot,0-0,0,0
+3895052,Leverkusen,RB Leipzig,2023-08-19,Leverkusen,Jeremie Frimpong,23,113.6,43.8,0.4915,1,Goal,Normal,Right Foot,1-0,1,0
+3895052,Leverkusen,RB Leipzig,2023-08-19,Leverkusen,Alejandro Grimaldo García,33,102.4,33.6,0.1271,0,Blocked,Normal,Right Foot,1-0,1,0
+3895052,Leverkusen,RB Leipzig,2023-08-19,Leverkusen,Jonathan Tah,34,112.9,40.4,0.1577,1,Goal,Normal,Head,2-0,2,0
+3895052,Leverkusen,RB Leipzig,2023-08-19,Leverkusen,Victor Okoh Boniface,36,111.6,37.4,0.1323,0,Saved,Normal,Head,2-0,2,0
+3895052,Leverkusen,RB Leipzig,2023-08-19,RB Leipzig,Daniel Olmo Carvajal,38,115.4,48.8,0.0925,1,Goal,Normal,Head,2-1,2,1
+3895052,Leverkusen,RB Leipzig,2023-08-19,Leverkusen,Florian Wirtz,47,110.6,35.0,0.3053,0,Saved,Normal,Left Foot,2-1,2,1
+3895052,Leverkusen,RB Leipzig,2023-08-19,RB Leipzig,Benjamin Henrichs,49,106.3,52.7,0.0492,0,Blocked,Normal,Right Foot,2-1,2,1
+3895052,Leverkusen,RB Leipzig,2023-08-19,Leverkusen,Victor Okoh Boniface,56,93.9,43.9,0.0428,0,Off T,Normal,Right Foot,2-1,2,1
+3895052,Leverkusen,RB Leipzig,2023-08-19,Leverkusen,Florian Wirtz,63,104.8,45.4,0.1444,1,Goal,Normal,Right Foot,3-1,3,1
+3895052,Leverkusen,RB Leipzig,2023-08-19,RB Leipzig,Ikoma Loïs Openda,70,115.3,38.9,0.4644,1,Goal,Normal,Head,3-2,3,2
+3895052,Leverkusen,RB Leipzig,2023-08-19,RB Leipzig,Ikoma Loïs Openda,73,115.3,45.7,0.5079,0,Post,Normal,Right Foot,3-2,3,2
+3895052,Leverkusen,RB Leipzig,2023-08-19,RB Leipzig,Xaver Schlager,73,91.1,47.6,0.0218,0,Blocked,Normal,Left Foot,3-2,3,2
+3895052,Leverkusen,RB Leipzig,2023-08-19,RB Leipzig,Yussuf Yurary Poulsen,77,110.0,42.0,0.0685,0,Saved,Normal,Head,3-2,3,2
+3895052,Leverkusen,RB Leipzig,2023-08-19,RB Leipzig,Yussuf Yurary Poulsen,85,114.6,35.6,0.2456,0,Saved,Normal,Head,3-2,3,2
+3895052,Leverkusen,RB Leipzig,2023-08-19,RB Leipzig,Benjamin Henrichs,85,111.7,30.5,0.051,0,Wayward,Normal,Head,3-2,3,2
+3895052,Leverkusen,RB Leipzig,2023-08-19,Leverkusen,Victor Okoh Boniface,86,98.6,31.6,0.0387,0,Off T,Normal,Right Foot,3-2,3,2
+3895052,Leverkusen,RB Leipzig,2023-08-19,RB Leipzig,Benjamin Henrichs,90,99.0,59.6,0.0103,0,Blocked,Normal,Right Foot,3-2,3,2
+3895052,Leverkusen,RB Leipzig,2023-08-19,Leverkusen,Arthur Augusto de Matos Soares,95,94.6,54.9,0.0243,0,Saved,Normal,Right Foot,3-2,3,2

@@ -1,0 +1,116 @@
+match_id,home_fd,away_fd,match_date,event_type,player,team_fd,minute,xg
+3895302,Leverkusen,Werder Bremen,2024-04-14,goal,Victor Okoh Boniface,Leverkusen,24,0.783
+3895302,Leverkusen,Werder Bremen,2024-04-14,goal,Granit Xhaka,Leverkusen,59,0.031
+3895302,Leverkusen,Werder Bremen,2024-04-14,goal,Florian Wirtz,Leverkusen,67,0.042
+3895302,Leverkusen,Werder Bremen,2024-04-14,goal,Florian Wirtz,Leverkusen,82,0.438
+3895302,Leverkusen,Werder Bremen,2024-04-14,goal,Florian Wirtz,Leverkusen,89,0.29
+3895292,Union Berlin,Leverkusen,2024-04-06,goal,Florian Wirtz,Leverkusen,52,0.783
+3895292,Union Berlin,Leverkusen,2024-04-06,red_card,Robin Gosens,Union Berlin,47,0.0
+3895333,Ein Frankfurt,Leverkusen,2024-05-05,goal,Granit Xhaka,Leverkusen,11,0.032
+3895333,Ein Frankfurt,Leverkusen,2024-05-05,goal,Hugo Ekitike,Ein Frankfurt,31,0.136
+3895333,Ein Frankfurt,Leverkusen,2024-05-05,goal,Patrik Schick,Leverkusen,43,0.196
+3895333,Ein Frankfurt,Leverkusen,2024-05-05,goal,Exequiel Alejandro Palacios,Leverkusen,57,0.783
+3895333,Ein Frankfurt,Leverkusen,2024-05-05,goal,Jeremie Frimpong,Leverkusen,76,0.479
+3895333,Ein Frankfurt,Leverkusen,2024-05-05,goal,Victor Okoh Boniface,Leverkusen,88,0.783
+3895340,Bochum,Leverkusen,2024-05-12,goal,Patrik Schick,Leverkusen,40,0.044
+3895340,Bochum,Leverkusen,2024-05-12,goal,Victor Okoh Boniface,Leverkusen,46,0.783
+3895340,Bochum,Leverkusen,2024-05-12,goal,Amine Adli,Leverkusen,75,0.177
+3895340,Bochum,Leverkusen,2024-05-12,goal,Josip Stanišić,Leverkusen,85,0.044
+3895340,Bochum,Leverkusen,2024-05-12,goal,Alejandro Grimaldo García,Leverkusen,92,0.862
+3895340,Bochum,Leverkusen,2024-05-12,red_card,Felix Passlack,Bochum,14,0.0
+3895348,Leverkusen,Augsburg,2024-05-18,goal,Victor Okoh Boniface,Leverkusen,11,0.747
+3895348,Leverkusen,Augsburg,2024-05-18,goal,Robert Andrich,Leverkusen,26,0.314
+3895348,Leverkusen,Augsburg,2024-05-18,goal,Mert Kömür,Augsburg,61,0.104
+3895286,Leverkusen,Hoffenheim,2024-03-30,goal,Maximilian Beier,Hoffenheim,32,0.322
+3895286,Leverkusen,Hoffenheim,2024-03-30,goal,Robert Andrich,Leverkusen,87,0.13
+3895286,Leverkusen,Hoffenheim,2024-03-30,goal,Patrik Schick,Leverkusen,90,0.594
+3895220,Darmstadt 98,Leverkusen,2024-02-03,goal,Nathan Tella,Leverkusen,32,0.119
+3895220,Darmstadt 98,Leverkusen,2024-02-03,goal,Nathan Tella,Leverkusen,51,0.108
+3895250,Leverkusen,FSV Mainz 05,2024-02-23,goal,Granit Xhaka,Leverkusen,2,0.019
+3895250,Leverkusen,FSV Mainz 05,2024-02-23,goal,Dominik Kohr,FSV Mainz 05,6,0.161
+3895250,Leverkusen,FSV Mainz 05,2024-02-23,goal,Robert Andrich,Leverkusen,67,0.006
+3895250,Leverkusen,FSV Mainz 05,2024-02-23,red_card,Jessic Ngankam,FSV Mainz 05,77,0.0
+3895266,Leverkusen,Wolfsburg,2024-03-10,goal,Nathan Tella,Leverkusen,36,0.691
+3895266,Leverkusen,Wolfsburg,2024-03-10,goal,Florian Wirtz,Leverkusen,85,0.171
+3895266,Leverkusen,Wolfsburg,2024-03-10,red_card,Moritz Jenz,Wolfsburg,27,0.0
+3895275,Freiburg,Leverkusen,2024-03-17,goal,Florian Wirtz,Leverkusen,1,0.086
+3895275,Freiburg,Leverkusen,2024-03-17,goal,Ritsu Doan,Freiburg,9,0.077
+3895275,Freiburg,Leverkusen,2024-03-17,goal,Adam Hložek,Leverkusen,39,0.666
+3895275,Freiburg,Leverkusen,2024-03-17,goal,Patrik Schick,Leverkusen,52,0.064
+3895275,Freiburg,Leverkusen,2024-03-17,goal,Yannik Keitel,Freiburg,78,0.1
+3895180,Leverkusen,Ein Frankfurt,2023-12-17,goal,Victor Okoh Boniface,Leverkusen,13,0.052
+3895180,Leverkusen,Ein Frankfurt,2023-12-17,goal,Jeremie Frimpong,Leverkusen,50,0.911
+3895180,Leverkusen,Ein Frankfurt,2023-12-17,goal,Florian Wirtz,Leverkusen,56,0.329
+3895134,Hoffenheim,Leverkusen,2023-11-04,goal,Florian Wirtz,Leverkusen,8,0.434
+3895134,Hoffenheim,Leverkusen,2023-11-04,goal,Alejandro Grimaldo García,Leverkusen,45,0.062
+3895134,Hoffenheim,Leverkusen,2023-11-04,goal,Anton Stach,Hoffenheim,55,0.021
+3895134,Hoffenheim,Leverkusen,2023-11-04,goal,Wout Weghorst,Hoffenheim,57,0.793
+3895134,Hoffenheim,Leverkusen,2023-11-04,goal,Alejandro Grimaldo García,Leverkusen,69,0.067
+3895121,Leverkusen,Freiburg,2023-10-29,goal,Florian Wirtz,Leverkusen,35,0.075
+3895121,Leverkusen,Freiburg,2023-10-29,goal,Manuel Gulde,Freiburg,69,0.239
+3895107,Leverkusen,FC Köln,2023-10-08,goal,Jonas Hofmann,Leverkusen,21,0.192
+3895107,Leverkusen,FC Köln,2023-10-08,goal,Jeremie Frimpong,Leverkusen,31,0.345
+3895107,Leverkusen,FC Köln,2023-10-08,goal,Victor Okoh Boniface,Leverkusen,66,0.378
+3895074,Bayern Munich,Leverkusen,2023-09-15,goal,Harry Kane,Bayern Munich,6,0.369
+3895074,Bayern Munich,Leverkusen,2023-09-15,goal,Alejandro Grimaldo García,Leverkusen,23,0.066
+3895074,Bayern Munich,Leverkusen,2023-09-15,goal,Leon Goretzka,Bayern Munich,85,0.281
+3895074,Bayern Munich,Leverkusen,2023-09-15,goal,Exequiel Alejandro Palacios,Leverkusen,93,0.783
+3895139,Leverkusen,Union Berlin,2023-11-12,goal,Alejandro Grimaldo García,Leverkusen,22,0.021
+3895139,Leverkusen,Union Berlin,2023-11-12,goal,Odilon Kossonou,Leverkusen,56,0.122
+3895139,Leverkusen,Union Berlin,2023-11-12,goal,Jonathan Tah,Leverkusen,72,0.035
+3895139,Leverkusen,Union Berlin,2023-11-12,goal,Nathan Tella,Leverkusen,82,0.062
+3895086,Leverkusen,FC Heidenheim,2023-09-24,goal,Victor Okoh Boniface,Leverkusen,8,0.423
+3895086,Leverkusen,FC Heidenheim,2023-09-24,goal,Eren Sami Dinkçi,FC Heidenheim,57,0.08
+3895086,Leverkusen,FC Heidenheim,2023-09-24,goal,Jonas Hofmann,Leverkusen,62,0.401
+3895086,Leverkusen,FC Heidenheim,2023-09-24,goal,Victor Okoh Boniface,Leverkusen,73,0.783
+3895086,Leverkusen,FC Heidenheim,2023-09-24,goal,Amine Adli,Leverkusen,81,0.065
+3895320,Leverkusen,Stuttgart,2024-04-27,goal,Chris Führich,Stuttgart,46,0.082
+3895320,Leverkusen,Stuttgart,2024-04-27,goal,Deniz Undav,Stuttgart,56,0.079
+3895320,Leverkusen,Stuttgart,2024-04-27,goal,Amine Adli,Leverkusen,60,0.06
+3895320,Leverkusen,Stuttgart,2024-04-27,goal,Robert Andrich,Leverkusen,95,0.212
+3895309,Dortmund,Leverkusen,2024-04-21,goal,Niclas Füllkrug,Dortmund,80,0.164
+3895309,Dortmund,Leverkusen,2024-04-21,goal,Josip Stanišić,Leverkusen,96,0.117
+3895258,FC Köln,Leverkusen,2024-03-03,goal,Jeremie Frimpong,Leverkusen,36,0.589
+3895258,FC Köln,Leverkusen,2024-03-03,goal,Alejandro Grimaldo García,Leverkusen,72,0.079
+3895258,FC Köln,Leverkusen,2024-03-03,red_card,Jan Thielmann,FC Köln,11,0.0
+3895244,FC Heidenheim,Leverkusen,2024-02-17,goal,Jeremie Frimpong,Leverkusen,46,0.191
+3895244,FC Heidenheim,Leverkusen,2024-02-17,goal,Amine Adli,Leverkusen,80,0.621
+3895244,FC Heidenheim,Leverkusen,2024-02-17,goal,Tim Kleindienst,FC Heidenheim,85,0.223
+3895232,Leverkusen,Bayern Munich,2024-02-10,goal,Josip Stanišić,Leverkusen,17,0.325
+3895232,Leverkusen,Bayern Munich,2024-02-10,goal,Alejandro Grimaldo García,Leverkusen,49,0.156
+3895232,Leverkusen,Bayern Munich,2024-02-10,goal,Jeremie Frimpong,Leverkusen,94,0.009
+3895202,RB Leipzig,Leverkusen,2024-01-20,goal,Xavi Simons,RB Leipzig,6,0.069
+3895202,RB Leipzig,Leverkusen,2024-01-20,goal,Nathan Tella,Leverkusen,46,0.789
+3895202,RB Leipzig,Leverkusen,2024-01-20,goal,Ikoma Loïs Openda,RB Leipzig,55,0.243
+3895202,RB Leipzig,Leverkusen,2024-01-20,goal,Jonathan Tah,Leverkusen,62,0.183
+3895202,RB Leipzig,Leverkusen,2024-01-20,goal,Piero Martín Hincapié Reyna,Leverkusen,90,0.181
+3895194,Augsburg,Leverkusen,2024-01-13,goal,Exequiel Alejandro Palacios,Leverkusen,93,0.098
+3895182,Leverkusen,Bochum,2023-12-20,goal,Patrik Schick,Leverkusen,29,0.783
+3895182,Leverkusen,Bochum,2023-12-20,goal,Patrik Schick,Leverkusen,31,0.305
+3895182,Leverkusen,Bochum,2023-12-20,goal,Patrik Schick,Leverkusen,45,0.149
+3895182,Leverkusen,Bochum,2023-12-20,goal,Victor Okoh Boniface,Leverkusen,68,0.344
+3895167,Stuttgart,Leverkusen,2023-12-10,goal,Chris Führich,Stuttgart,39,0.786
+3895167,Stuttgart,Leverkusen,2023-12-10,goal,Florian Wirtz,Leverkusen,46,0.445
+3895158,Leverkusen,Dortmund,2023-12-03,goal,Julian Ryerson,Dortmund,4,0.379
+3895158,Leverkusen,Dortmund,2023-12-03,goal,Victor Okoh Boniface,Leverkusen,78,0.94
+3895153,Werder Bremen,Leverkusen,2023-11-25,goal,Jeremie Frimpong,Leverkusen,42,0.154
+3895153,Werder Bremen,Leverkusen,2023-11-25,goal,Alejandro Grimaldo García,Leverkusen,75,0.052
+3895113,Wolfsburg,Leverkusen,2023-10-21,goal,Jeremie Frimpong,Leverkusen,12,0.402
+3895113,Wolfsburg,Leverkusen,2023-10-21,goal,Maxence Lacroix,Wolfsburg,40,0.246
+3895113,Wolfsburg,Leverkusen,2023-10-21,goal,Alejandro Grimaldo García,Leverkusen,61,0.122
+3895095,FSV Mainz 05,Leverkusen,2023-09-30,goal,Alejandro Grimaldo García,Leverkusen,58,0.083
+3895095,FSV Mainz 05,Leverkusen,2023-09-30,goal,Jonas Hofmann,Leverkusen,64,0.124
+3895067,Leverkusen,Darmstadt 98,2023-09-02,goal,Victor Okoh Boniface,Leverkusen,20,0.27
+3895067,Leverkusen,Darmstadt 98,2023-09-02,goal,Oscar Vilhelmsson,Darmstadt 98,23,0.438
+3895067,Leverkusen,Darmstadt 98,2023-09-02,goal,Exequiel Alejandro Palacios,Leverkusen,48,0.07
+3895067,Leverkusen,Darmstadt 98,2023-09-02,goal,Victor Okoh Boniface,Leverkusen,60,0.402
+3895067,Leverkusen,Darmstadt 98,2023-09-02,goal,Jonas Hofmann,Leverkusen,66,0.057
+3895067,Leverkusen,Darmstadt 98,2023-09-02,goal,Adam Hložek,Leverkusen,82,0.585
+3895060,M'gladbach,Leverkusen,2023-08-26,goal,Victor Okoh Boniface,Leverkusen,17,0.213
+3895060,M'gladbach,Leverkusen,2023-08-26,goal,Jonathan Tah,Leverkusen,50,0.166
+3895060,M'gladbach,Leverkusen,2023-08-26,goal,Victor Okoh Boniface,Leverkusen,52,0.235
+3895052,Leverkusen,RB Leipzig,2023-08-19,goal,Jeremie Frimpong,Leverkusen,23,0.492
+3895052,Leverkusen,RB Leipzig,2023-08-19,goal,Jonathan Tah,Leverkusen,34,0.158
+3895052,Leverkusen,RB Leipzig,2023-08-19,goal,Daniel Olmo Carvajal,RB Leipzig,38,0.092
+3895052,Leverkusen,RB Leipzig,2023-08-19,goal,Florian Wirtz,Leverkusen,63,0.144
+3895052,Leverkusen,RB Leipzig,2023-08-19,goal,Ikoma Loïs Openda,RB Leipzig,70,0.464

@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# API keys — never commit these
+.env
+secrets.toml
+.streamlit/secrets.toml
+
+# NOTE: statsbomb_cache/audio/ is intentionally NOT excluded
+# Audio MP3s are tracked via Git LFS (.gitattributes)
+
+# Local dev
+*.log
+.DS_Store
+Thumbs.db

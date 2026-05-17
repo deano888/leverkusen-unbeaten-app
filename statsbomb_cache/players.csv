@@ -1,0 +1,1037 @@
+match_id,home_fd,away_fd,match_date,team_fd,player_name,minutes,xg,goals,position
+3895302,Leverkusen,Werder Bremen,2024-04-14,Werder Bremen,Nick Woltemade,68,0.08,0,Right Center Forward
+3895302,Leverkusen,Werder Bremen,2024-04-14,Werder Bremen,Marvin Ducksch,90,0.0,0,Left Center Forward
+3895302,Leverkusen,Werder Bremen,2024-04-14,Werder Bremen,Christian Groß,90,0.0,0,Center Back
+3895302,Leverkusen,Werder Bremen,2024-04-14,Werder Bremen,Julián Malatini,90,0.04,0,Right Center Back
+3895302,Leverkusen,Werder Bremen,2024-04-14,Werder Bremen,Mitchell Weiser,90,0.38,0,Right Wing Back
+3895302,Leverkusen,Werder Bremen,2024-04-14,Leverkusen,Nathan Tella,61,0.0,0,Right Wing Back
+3895302,Leverkusen,Werder Bremen,2024-04-14,Leverkusen,Lukáš Hrádecký,90,0.0,0,Goalkeeper
+3895302,Leverkusen,Werder Bremen,2024-04-14,Leverkusen,Edmond Fayçal Tapsoba,90,0.07,0,Left Center Back
+3895302,Leverkusen,Werder Bremen,2024-04-14,Leverkusen,Robert Andrich,90,0.0,0,Left Defensive Midfield
+3895302,Leverkusen,Werder Bremen,2024-04-14,Leverkusen,Jonathan Tah,90,0.19,0,Center Back
+3895302,Leverkusen,Werder Bremen,2024-04-14,Leverkusen,Odilon Kossonou,90,0.0,0,Right Center Back
+3895302,Leverkusen,Werder Bremen,2024-04-14,Leverkusen,Granit Xhaka,76,0.1,1,Right Defensive Midfield
+3895302,Leverkusen,Werder Bremen,2024-04-14,Leverkusen,Victor Okoh Boniface,61,1.11,1,Center Forward
+3895302,Leverkusen,Werder Bremen,2024-04-14,Werder Bremen,Felix Agu,68,0.0,0,Left Wing Back
+3895302,Leverkusen,Werder Bremen,2024-04-14,Werder Bremen,Milos Veljkovic,90,0.0,0,Left Center Back
+3895302,Leverkusen,Werder Bremen,2024-04-14,Werder Bremen,Michael Zetterer,90,0.0,0,Goalkeeper
+3895302,Leverkusen,Werder Bremen,2024-04-14,Werder Bremen,Leonardo Bittencourt,76,0.11,0,Right Center Midfield
+3895302,Leverkusen,Werder Bremen,2024-04-14,Leverkusen,Jonas Hofmann,90,0.1,0,Right Attacking Midfield
+3895302,Leverkusen,Werder Bremen,2024-04-14,Leverkusen,Piero Martín Hincapié Reyna,75,0.14,0,Left Wing Back
+3895302,Leverkusen,Werder Bremen,2024-04-14,Werder Bremen,Romano Schmid,90,0.03,0,Left Center Midfield
+3895302,Leverkusen,Werder Bremen,2024-04-14,Leverkusen,Amine Adli,45,0.07,0,Left Attacking Midfield
+3895302,Leverkusen,Werder Bremen,2024-04-14,Werder Bremen,Senne Lynen,90,0.0,0,Center Defensive Midfield
+3895302,Leverkusen,Werder Bremen,2024-04-14,Leverkusen,Florian Wirtz,45,0.87,3,Left Attacking Midfield
+3895302,Leverkusen,Werder Bremen,2024-04-14,Leverkusen,Jeremie Frimpong,29,0.17,0,Right Wing Back
+3895302,Leverkusen,Werder Bremen,2024-04-14,Leverkusen,Patrik Schick,29,0.11,0,Center Forward
+3895302,Leverkusen,Werder Bremen,2024-04-14,Werder Bremen,Dawid Kownacki,22,0.0,0,Right Center Forward
+3895302,Leverkusen,Werder Bremen,2024-04-14,Werder Bremen,Olivier Deman,22,0.05,0,Left Wing Back
+3895302,Leverkusen,Werder Bremen,2024-04-14,Leverkusen,Alejandro Grimaldo García,15,0.0,0,Left Wing Back
+3895302,Leverkusen,Werder Bremen,2024-04-14,Leverkusen,Exequiel Alejandro Palacios,14,0.07,0,Left Defensive Midfield
+3895302,Leverkusen,Werder Bremen,2024-04-14,Werder Bremen,Isak Hansen-Aarøen,14,0.0,0,Right Center Midfield
+3895292,Union Berlin,Leverkusen,2024-04-06,Union Berlin,Brenden Aaronson,77,0.0,0,Center Attacking Midfield
+3895292,Union Berlin,Leverkusen,2024-04-06,Union Berlin,András Schäfer,62,0.03,0,Left Center Midfield
+3895292,Union Berlin,Leverkusen,2024-04-06,Union Berlin,Danilho Doekhi,90,0.0,0,Right Center Back
+3895292,Union Berlin,Leverkusen,2024-04-06,Union Berlin,Robin Gosens,47,0.06,0,Left Wing Back
+3895292,Union Berlin,Leverkusen,2024-04-06,Leverkusen,Odilon Kossonou,90,0.0,0,Right Center Back
+3895292,Union Berlin,Leverkusen,2024-04-06,Leverkusen,Robert Andrich,90,0.1,0,Right Defensive Midfield
+3895292,Union Berlin,Leverkusen,2024-04-06,Leverkusen,Nathan Tella,78,0.22,0,Right Wing Back
+3895292,Union Berlin,Leverkusen,2024-04-06,Leverkusen,Borja Iglesias Quintas,66,0.2,0,Center Forward
+3895292,Union Berlin,Leverkusen,2024-04-06,Leverkusen,Florian Wirtz,90,0.84,1,Right Attacking Midfield
+3895292,Union Berlin,Leverkusen,2024-04-06,Leverkusen,Granit Xhaka,90,0.04,0,Left Defensive Midfield
+3895292,Union Berlin,Leverkusen,2024-04-06,Leverkusen,Alejandro Grimaldo García,90,0.22,0,Left Wing Back
+3895292,Union Berlin,Leverkusen,2024-04-06,Leverkusen,Adam Hložek,31,0.02,0,Left Attacking Midfield
+3895292,Union Berlin,Leverkusen,2024-04-06,Leverkusen,Piero Martín Hincapié Reyna,90,0.16,0,Left Center Back
+3895292,Union Berlin,Leverkusen,2024-04-06,Union Berlin,Frederik Rønnow,90,0.2,0,Goalkeeper
+3895292,Union Berlin,Leverkusen,2024-04-06,Union Berlin,Diogo Filipe Monteiro Pinto Leite,90,0.08,0,Left Center Back
+3895292,Union Berlin,Leverkusen,2024-04-06,Union Berlin,Kevin Vogt,90,0.0,0,Center Back
+3895292,Union Berlin,Leverkusen,2024-04-06,Leverkusen,Jonathan Tah,90,0.07,0,Center Back
+3895292,Union Berlin,Leverkusen,2024-04-06,Union Berlin,Christopher Trimmel,62,0.0,0,Right Wing Back
+3895292,Union Berlin,Leverkusen,2024-04-06,Leverkusen,Lukáš Hrádecký,90,0.0,0,Goalkeeper
+3895292,Union Berlin,Leverkusen,2024-04-06,Union Berlin,Rani Khedira,61,0.05,0,Center Defensive Midfield
+3895292,Union Berlin,Leverkusen,2024-04-06,Union Berlin,Lucas Tousart,90,0.0,0,Right Center Midfield
+3895292,Union Berlin,Leverkusen,2024-04-06,Union Berlin,Yorbe Vertessen,45,0.08,0,Center Forward
+3895292,Union Berlin,Leverkusen,2024-04-06,Leverkusen,Amine Adli,59,0.51,0,Left Attacking Midfield
+3895292,Union Berlin,Leverkusen,2024-04-06,Union Berlin,Mikkel Kaufmann,45,0.0,0,Right Center Forward
+3895292,Union Berlin,Leverkusen,2024-04-06,Union Berlin,Alex Král,28,0.05,0,Left Center Midfield
+3895292,Union Berlin,Leverkusen,2024-04-06,Union Berlin,Josip Juranović,28,0.0,0,Right Back
+3895292,Union Berlin,Leverkusen,2024-04-06,Union Berlin,Aïssa Bilal Laïdouni,29,0.0,0,Center Defensive Midfield
+3895292,Union Berlin,Leverkusen,2024-04-06,Leverkusen,Victor Okoh Boniface,24,0.0,0,Center Forward
+3895292,Union Berlin,Leverkusen,2024-04-06,Union Berlin,Benedict Hollerbach,13,0.0,0,Center Attacking Midfield
+3895292,Union Berlin,Leverkusen,2024-04-06,Leverkusen,Jeremie Frimpong,12,0.18,0,Right Wing Back
+3895333,Ein Frankfurt,Leverkusen,2024-05-05,Leverkusen,Jonas Hofmann,90,0.09,0,Right Attacking Midfield
+3895333,Ein Frankfurt,Leverkusen,2024-05-05,Leverkusen,Robert Andrich,82,0.0,0,Center Back
+3895333,Ein Frankfurt,Leverkusen,2024-05-05,Ein Frankfurt,Lucas Silva Melo,90,0.0,0,Right Back
+3895333,Ein Frankfurt,Leverkusen,2024-05-05,Ein Frankfurt,Ellyes Joris Skhiri,69,0.0,0,Left Defensive Midfield
+3895333,Ein Frankfurt,Leverkusen,2024-05-05,Leverkusen,Adam Hložek,90,0.0,0,Left Attacking Midfield
+3895333,Ein Frankfurt,Leverkusen,2024-05-05,Leverkusen,Patrik Schick,60,0.2,1,Center Forward
+3895333,Ein Frankfurt,Leverkusen,2024-05-05,Ein Frankfurt,Mario Götze,90,0.1,0,Right Defensive Midfield
+3895333,Ein Frankfurt,Leverkusen,2024-05-05,Ein Frankfurt,Robin Koch,90,0.0,0,Right Center Back
+3895333,Ein Frankfurt,Leverkusen,2024-05-05,Leverkusen,Nathan Tella,71,0.0,0,Right Wing Back
+3895333,Ein Frankfurt,Leverkusen,2024-05-05,Ein Frankfurt,Hugo Ekitike,79,0.27,1,Right Center Forward
+3895333,Ein Frankfurt,Leverkusen,2024-05-05,Ein Frankfurt,Eric Junior Dina Ebimbe,79,0.05,0,Right Attacking Midfield
+3895333,Ein Frankfurt,Leverkusen,2024-05-05,Ein Frankfurt,Kevin Trapp,90,0.0,0,Goalkeeper
+3895333,Ein Frankfurt,Leverkusen,2024-05-05,Leverkusen,Edmond Fayçal Tapsoba,90,0.0,0,Left Center Back
+3895333,Ein Frankfurt,Leverkusen,2024-05-05,Leverkusen,Arthur Augusto de Matos Soares,60,0.0,0,Left Wing Back
+3895333,Ein Frankfurt,Leverkusen,2024-05-05,Ein Frankfurt,Fares Chaïbi,79,0.21,0,Left Attacking Midfield
+3895333,Ein Frankfurt,Leverkusen,2024-05-05,Ein Frankfurt,Willian Joel Pacho Tenorio,90,0.0,0,Left Center Back
+3895333,Ein Frankfurt,Leverkusen,2024-05-05,Ein Frankfurt,Niels Nkounkou,69,0.0,0,Left Back
+3895333,Ein Frankfurt,Leverkusen,2024-05-05,Leverkusen,Exequiel Alejandro Palacios,90,0.98,1,Left Defensive Midfield
+3895333,Ein Frankfurt,Leverkusen,2024-05-05,Leverkusen,Granit Xhaka,71,0.06,1,Right Defensive Midfield
+3895333,Ein Frankfurt,Leverkusen,2024-05-05,Leverkusen,Odilon Kossonou,90,0.0,0,Right Center Back
+3895333,Ein Frankfurt,Leverkusen,2024-05-05,Leverkusen,Lukáš Hrádecký,90,0.0,0,Goalkeeper
+3895333,Ein Frankfurt,Leverkusen,2024-05-05,Ein Frankfurt,Omar Marmoush,90,0.46,0,Left Center Forward
+3895333,Ein Frankfurt,Leverkusen,2024-05-05,Leverkusen,Piero Martín Hincapié Reyna,30,0.0,0,Left Wing Back
+3895333,Ein Frankfurt,Leverkusen,2024-05-05,Leverkusen,Victor Okoh Boniface,30,0.78,1,Center Forward
+3895333,Ein Frankfurt,Leverkusen,2024-05-05,Ein Frankfurt,Hugo Larsson,21,0.0,0,Left Defensive Midfield
+3895333,Ein Frankfurt,Leverkusen,2024-05-05,Ein Frankfurt,Ansgar Knauff,21,0.11,0,Left Back
+3895333,Ein Frankfurt,Leverkusen,2024-05-05,Leverkusen,Jeremie Frimpong,19,0.48,1,Right Wing Back
+3895333,Ein Frankfurt,Leverkusen,2024-05-05,Leverkusen,Jonathan Tah,19,0.0,0,Right Defensive Midfield
+3895333,Ein Frankfurt,Leverkusen,2024-05-05,Ein Frankfurt,Aurélio Gabriel Ulineia Buta,11,0.0,0,Right Attacking Midfield
+3895333,Ein Frankfurt,Leverkusen,2024-05-05,Ein Frankfurt,Ignacio Ferri Julià,11,0.26,0,Right Center Forward
+3895333,Ein Frankfurt,Leverkusen,2024-05-05,Leverkusen,Gustavo Adolfo Puerta Molano,8,0.0,0,Right Defensive Midfield
+3895333,Ein Frankfurt,Leverkusen,2024-05-05,Ein Frankfurt,Jean-Mattéo Bahoya Négoce,11,0.0,0,Left Attacking Midfield
+3895340,Bochum,Leverkusen,2024-05-12,Bochum,Kevin Stöger,90,0.04,0,Center Attacking Midfield
+3895340,Bochum,Leverkusen,2024-05-12,Bochum,Manuel Riemann,90,0.0,0,Goalkeeper
+3895340,Bochum,Leverkusen,2024-05-12,Bochum,Felix Passlack,14,0.0,0,Right Back
+3895340,Bochum,Leverkusen,2024-05-12,Leverkusen,Jonathan Tah,90,0.03,0,Center Back
+3895340,Bochum,Leverkusen,2024-05-12,Leverkusen,Granit Xhaka,78,0.14,0,Left Defensive Midfield
+3895340,Bochum,Leverkusen,2024-05-12,Leverkusen,Robert Andrich,90,0.1,0,Right Defensive Midfield
+3895340,Bochum,Leverkusen,2024-05-12,Leverkusen,Edmond Fayçal Tapsoba,90,0.18,0,Left Center Back
+3895340,Bochum,Leverkusen,2024-05-12,Leverkusen,Josip Stanišić,90,0.04,1,Right Wing Back
+3895340,Bochum,Leverkusen,2024-05-12,Leverkusen,Arthur Augusto de Matos Soares,90,0.01,0,Left Wing Back
+3895340,Bochum,Leverkusen,2024-05-12,Leverkusen,Nathan Tella,79,0.0,0,Right Wing
+3895340,Bochum,Leverkusen,2024-05-12,Leverkusen,Patrik Schick,68,0.38,1,Center Forward
+3895340,Bochum,Leverkusen,2024-05-12,Bochum,Anthony Losilla,60,0.0,0,Right Defensive Midfield
+3895340,Bochum,Leverkusen,2024-05-12,Leverkusen,Lukáš Hrádecký,90,0.0,0,Goalkeeper
+3895340,Bochum,Leverkusen,2024-05-12,Leverkusen,Odilon Kossonou,63,0.02,0,Right Center Back
+3895340,Bochum,Leverkusen,2024-05-12,Bochum,Patrick Osterhage,90,0.0,0,Left Defensive Midfield
+3895340,Bochum,Leverkusen,2024-05-12,Leverkusen,Victor Okoh Boniface,68,1.08,1,Left Wing
+3895340,Bochum,Leverkusen,2024-05-12,Bochum,Keven Schlotterbeck,90,0.0,0,Left Center Back
+3895340,Bochum,Leverkusen,2024-05-12,Bochum,Bernardo Fernandes da Silva Junior,45,0.0,0,Left Back
+3895340,Bochum,Leverkusen,2024-05-12,Bochum,Maximilian Wittek,90,0.0,0,Left Wing
+3895340,Bochum,Leverkusen,2024-05-12,Bochum,Philipp Hofmann,60,0.12,0,Center Forward
+3895340,Bochum,Leverkusen,2024-05-12,Bochum,Ivan Ordets,90,0.0,0,Right Center Back
+3895340,Bochum,Leverkusen,2024-05-12,Bochum,Takuma Asano,19,0.0,0,Right Wing
+3895340,Bochum,Leverkusen,2024-05-12,Bochum,Tim Oermann,71,0.0,0,Right Midfield
+3895340,Bochum,Leverkusen,2024-05-12,Bochum,Erhan Mašović,45,0.0,0,Right Center Back
+3895340,Bochum,Leverkusen,2024-05-12,Bochum,Matúš Bero,30,0.15,0,Center Defensive Midfield
+3895340,Bochum,Leverkusen,2024-05-12,Bochum,Lukas Daschner,30,0.0,0,Center Forward
+3895340,Bochum,Leverkusen,2024-05-12,Leverkusen,Jonas Hofmann,27,0.64,0,Right Center Back
+3895340,Bochum,Leverkusen,2024-05-12,Leverkusen,Amine Adli,22,0.8,1,Center Forward
+3895340,Bochum,Leverkusen,2024-05-12,Leverkusen,Borja Iglesias Quintas,22,0.0,0,Left Wing
+3895340,Bochum,Leverkusen,2024-05-12,Leverkusen,Gustavo Adolfo Puerta Molano,12,0.02,0,Left Defensive Midfield
+3895340,Bochum,Leverkusen,2024-05-12,Leverkusen,Alejandro Grimaldo García,11,0.86,1,Right Wing Back
+3895348,Leverkusen,Augsburg,2024-05-18,Augsburg,Ermedin Demirović,90,0.23,0,Right Center Forward
+3895348,Leverkusen,Augsburg,2024-05-18,Augsburg,Felix Uduokhai,93,0.0,0,Left Center Back
+3895348,Leverkusen,Augsburg,2024-05-18,Augsburg,Jeffrey Gouweleeuw,93,0.0,0,Right Center Back
+3895348,Leverkusen,Augsburg,2024-05-18,Augsburg,Tomáš Koubek,93,0.0,0,Goalkeeper
+3895348,Leverkusen,Augsburg,2024-05-18,Augsburg,Tim Breithaupt,40,0.0,0,Center Defensive Midfield
+3895348,Leverkusen,Augsburg,2024-05-18,Leverkusen,Robert Andrich,93,0.45,1,Right Defensive Midfield
+3895348,Leverkusen,Augsburg,2024-05-18,Augsburg,Iago Amaral Borduchi,93,0.05,0,Left Back
+3895348,Leverkusen,Augsburg,2024-05-18,Augsburg,Mert Kömür,73,0.1,1,Center Attacking Midfield
+3895348,Leverkusen,Augsburg,2024-05-18,Leverkusen,Victor Okoh Boniface,62,0.81,1,Center Forward
+3895348,Leverkusen,Augsburg,2024-05-18,Leverkusen,Odilon Kossonou,93,0.0,0,Right Center Back
+3895348,Leverkusen,Augsburg,2024-05-18,Leverkusen,Alejandro Grimaldo García,69,0.0,0,Left Wing Back
+3895348,Leverkusen,Augsburg,2024-05-18,Leverkusen,Exequiel Alejandro Palacios,68,0.0,0,Left Defensive Midfield
+3895348,Leverkusen,Augsburg,2024-05-18,Leverkusen,Jonas Hofmann,93,0.19,0,Right Attacking Midfield
+3895348,Leverkusen,Augsburg,2024-05-18,Leverkusen,Edmond Fayçal Tapsoba,93,0.0,0,Left Center Back
+3895348,Leverkusen,Augsburg,2024-05-18,Augsburg,Arne Maier,90,0.0,0,Right Center Midfield
+3895348,Leverkusen,Augsburg,2024-05-18,Augsburg,Phillip Tietz,73,0.0,0,Left Center Forward
+3895348,Leverkusen,Augsburg,2024-05-18,Leverkusen,Jonathan Tah,93,0.05,0,Center Back
+3895348,Leverkusen,Augsburg,2024-05-18,Leverkusen,Lukáš Hrádecký,93,0.0,0,Goalkeeper
+3895348,Leverkusen,Augsburg,2024-05-18,Leverkusen,Amine Adli,62,0.06,0,Left Attacking Midfield
+3895348,Leverkusen,Augsburg,2024-05-18,Leverkusen,Jeremie Frimpong,81,0.08,0,Right Wing Back
+3895348,Leverkusen,Augsburg,2024-05-18,Augsburg,Mads Pedersen,93,0.0,0,Right Back
+3895348,Leverkusen,Augsburg,2024-05-18,Augsburg,Niklas Dorsch,93,0.03,0,Left Center Midfield
+3895348,Leverkusen,Augsburg,2024-05-18,Augsburg,Arne Engels,53,0.08,0,Center Defensive Midfield
+3895348,Leverkusen,Augsburg,2024-05-18,Leverkusen,Patrik Schick,31,0.23,0,Center Forward
+3895348,Leverkusen,Augsburg,2024-05-18,Leverkusen,Florian Wirtz,31,0.2,0,Left Attacking Midfield
+3895348,Leverkusen,Augsburg,2024-05-18,Leverkusen,Granit Xhaka,25,0.09,0,Right Defensive Midfield
+3895348,Leverkusen,Augsburg,2024-05-18,Leverkusen,Piero Martín Hincapié Reyna,24,0.0,0,Left Wing Back
+3895348,Leverkusen,Augsburg,2024-05-18,Augsburg,Sven Michel,20,0.0,0,Left Center Forward
+3895348,Leverkusen,Augsburg,2024-05-18,Augsburg,Pep Biel Mas Jaume,20,0.29,0,Center Attacking Midfield
+3895348,Leverkusen,Augsburg,2024-05-18,Leverkusen,Josip Stanišić,12,0.0,0,Right Wing Back
+3895348,Leverkusen,Augsburg,2024-05-18,Augsburg,Mahmut Kücüksahin,3,0.0,0,Right Center Midfield
+3895348,Leverkusen,Augsburg,2024-05-18,Augsburg,Dion Drena Beljo,3,0.0,0,Right Center Forward
+3895286,Leverkusen,Hoffenheim,2024-03-30,Hoffenheim,Maximilian Beier,70,0.35,1,Left Center Forward
+3895286,Leverkusen,Hoffenheim,2024-03-30,Hoffenheim,Tim Drexler,90,0.0,0,Left Center Back
+3895286,Leverkusen,Hoffenheim,2024-03-30,Hoffenheim,Florian Grillitsch,90,0.0,0,Center Back
+3895286,Leverkusen,Hoffenheim,2024-03-30,Hoffenheim,Pavel Kadeřábek,90,0.0,0,Right Wing Back
+3895286,Leverkusen,Hoffenheim,2024-03-30,Leverkusen,Alejandro Grimaldo García,90,0.13,0,Left Wing Back
+3895286,Leverkusen,Hoffenheim,2024-03-30,Leverkusen,Piero Martín Hincapié Reyna,72,0.06,0,Left Center Back
+3895286,Leverkusen,Hoffenheim,2024-03-30,Hoffenheim,Ozan Muhammed Kabak,90,0.0,0,Right Center Back
+3895286,Leverkusen,Hoffenheim,2024-03-30,Hoffenheim,David Jurásek,90,0.0,0,Left Wing Back
+3895286,Leverkusen,Hoffenheim,2024-03-30,Hoffenheim,Oliver Baumann,90,0.0,0,Goalkeeper
+3895286,Leverkusen,Hoffenheim,2024-03-30,Hoffenheim,Anton Stach,90,0.03,0,Center Defensive Midfield
+3895286,Leverkusen,Hoffenheim,2024-03-30,Leverkusen,Granit Xhaka,90,0.17,0,Left Defensive Midfield
+3895286,Leverkusen,Hoffenheim,2024-03-30,Leverkusen,Robert Andrich,90,0.28,1,Right Defensive Midfield
+3895286,Leverkusen,Hoffenheim,2024-03-30,Leverkusen,Jeremie Frimpong,85,0.26,0,Right Wing Back
+3895286,Leverkusen,Hoffenheim,2024-03-30,Hoffenheim,Wout Weghorst,77,0.06,0,Right Center Forward
+3895286,Leverkusen,Hoffenheim,2024-03-30,Hoffenheim,Umut Tohumcu,72,0.0,0,Left Center Midfield
+3895286,Leverkusen,Hoffenheim,2024-03-30,Leverkusen,Patrik Schick,90,0.94,1,Center Forward
+3895286,Leverkusen,Hoffenheim,2024-03-30,Leverkusen,Jonas Hofmann,56,0.45,0,Right Attacking Midfield
+3895286,Leverkusen,Hoffenheim,2024-03-30,Hoffenheim,Andrej Kramarić,56,0.12,0,Right Center Midfield
+3895286,Leverkusen,Hoffenheim,2024-03-30,Leverkusen,Jonathan Tah,90,0.09,0,Center Back
+3895286,Leverkusen,Hoffenheim,2024-03-30,Leverkusen,Edmond Fayçal Tapsoba,85,0.0,0,Right Center Back
+3895286,Leverkusen,Hoffenheim,2024-03-30,Leverkusen,Florian Wirtz,90,0.13,0,Left Attacking Midfield
+3895286,Leverkusen,Hoffenheim,2024-03-30,Leverkusen,Lukáš Hrádecký,90,0.0,0,Goalkeeper
+3895286,Leverkusen,Hoffenheim,2024-03-30,Leverkusen,Amine Adli,34,0.13,0,Right Attacking Midfield
+3895286,Leverkusen,Hoffenheim,2024-03-30,Hoffenheim,Grischa Prömel,34,0.09,0,Right Center Midfield
+3895286,Leverkusen,Hoffenheim,2024-03-30,Hoffenheim,Dennis Geiger,18,0.0,0,Right Center Midfield
+3895286,Leverkusen,Hoffenheim,2024-03-30,Hoffenheim,Ihlas Bebou,20,0.0,0,Left Center Forward
+3895286,Leverkusen,Hoffenheim,2024-03-30,Leverkusen,Borja Iglesias Quintas,18,0.14,0,Left Center Forward
+3895286,Leverkusen,Hoffenheim,2024-03-30,Hoffenheim,Marius Bülter,13,0.0,0,Right Center Forward
+3895286,Leverkusen,Hoffenheim,2024-03-30,Leverkusen,Nathan Tella,5,0.0,0,Right Back
+3895286,Leverkusen,Hoffenheim,2024-03-30,Leverkusen,Josip Stanišić,5,0.0,0,Right Center Back
+3895220,Darmstadt 98,Leverkusen,2024-02-03,Leverkusen,Granit Xhaka,88,0.0,0,Left Defensive Midfield
+3895220,Darmstadt 98,Leverkusen,2024-02-03,Leverkusen,Josip Stanišić,90,0.08,0,Right Center Back
+3895220,Darmstadt 98,Leverkusen,2024-02-03,Darmstadt 98,Oscar Vilhelmsson,66,0.36,0,Left Center Forward
+3895220,Darmstadt 98,Leverkusen,2024-02-03,Leverkusen,Lukáš Hrádecký,90,0.0,0,Goalkeeper
+3895220,Darmstadt 98,Leverkusen,2024-02-03,Leverkusen,Jonathan Tah,90,0.09,0,Center Back
+3895220,Darmstadt 98,Leverkusen,2024-02-03,Leverkusen,Piero Martín Hincapié Reyna,90,0.04,0,Left Center Back
+3895220,Darmstadt 98,Leverkusen,2024-02-03,Leverkusen,Florian Wirtz,75,0.18,0,Left Attacking Midfield
+3895220,Darmstadt 98,Leverkusen,2024-02-03,Leverkusen,Robert Andrich,90,0.15,0,Right Defensive Midfield
+3895220,Darmstadt 98,Leverkusen,2024-02-03,Darmstadt 98,Tim Skarke,90,0.0,0,Right Midfield
+3895220,Darmstadt 98,Leverkusen,2024-02-03,Darmstadt 98,Bartol Franjić,80,0.0,0,Right Defensive Midfield
+3895220,Darmstadt 98,Leverkusen,2024-02-03,Darmstadt 98,Marcel Schuhen,90,0.0,0,Goalkeeper
+3895220,Darmstadt 98,Leverkusen,2024-02-03,Leverkusen,Alejandro Grimaldo García,90,0.0,0,Left Wing Back
+3895220,Darmstadt 98,Leverkusen,2024-02-03,Darmstadt 98,Matthias Bader,90,0.0,0,Right Back
+3895220,Darmstadt 98,Leverkusen,2024-02-03,Leverkusen,Adam Hložek,92,0.36,0,Right Attacking Midfield
+3895220,Darmstadt 98,Leverkusen,2024-02-03,Darmstadt 98,Luca Pfeiffer,90,0.23,0,Right Center Forward
+3895220,Darmstadt 98,Leverkusen,2024-02-03,Darmstadt 98,Matej Maglica,80,0.0,0,Left Center Back
+3895220,Darmstadt 98,Leverkusen,2024-02-03,Darmstadt 98,Gerrit Holtmann,64,0.01,0,Left Midfield
+3895220,Darmstadt 98,Leverkusen,2024-02-03,Darmstadt 98,Fabian Holland,66,0.0,0,Left Defensive Midfield
+3895220,Darmstadt 98,Leverkusen,2024-02-03,Darmstadt 98,Emir Karic,90,0.14,0,Left Back
+3895220,Darmstadt 98,Leverkusen,2024-02-03,Darmstadt 98,Christoph Zimmermann,90,0.04,0,Right Center Back
+3895220,Darmstadt 98,Leverkusen,2024-02-03,Leverkusen,Nathan Tella,90,0.31,2,Right Wing Back
+3895220,Darmstadt 98,Leverkusen,2024-02-03,Leverkusen,Borja Iglesias Quintas,90,0.73,0,Center Forward
+3895220,Darmstadt 98,Leverkusen,2024-02-03,Darmstadt 98,Marvin Mehlem,24,0.0,0,Left Defensive Midfield
+3895220,Darmstadt 98,Leverkusen,2024-02-03,Darmstadt 98,Sebastian Polter,26,0.0,0,Left Midfield
+3895220,Darmstadt 98,Leverkusen,2024-02-03,Darmstadt 98,Fabio Torsiello,24,0.0,0,Left Center Forward
+3895220,Darmstadt 98,Leverkusen,2024-02-03,Leverkusen,Jonas Hofmann,15,0.0,0,Left Attacking Midfield
+3895220,Darmstadt 98,Leverkusen,2024-02-03,Darmstadt 98,Andreas Müller,10,0.0,0,Right Defensive Midfield
+3895220,Darmstadt 98,Leverkusen,2024-02-03,Darmstadt 98,Christoph Klarer,10,0.0,0,Left Center Back
+3895220,Darmstadt 98,Leverkusen,2024-02-03,Leverkusen,Edmond Fayçal Tapsoba,2,0.0,0,Left Defensive Midfield
+3895250,Leverkusen,FSV Mainz 05,2024-02-23,Leverkusen,Jonas Hofmann,55,0.55,0,Right Attacking Midfield
+3895250,Leverkusen,FSV Mainz 05,2024-02-23,Leverkusen,Odilon Kossonou,90,0.0,0,Right Center Back
+3895250,Leverkusen,FSV Mainz 05,2024-02-23,Leverkusen,Edmond Fayçal Tapsoba,90,0.06,0,Left Center Back
+3895250,Leverkusen,FSV Mainz 05,2024-02-23,Leverkusen,Alejandro Grimaldo García,90,0.11,0,Left Wing Back
+3895250,Leverkusen,FSV Mainz 05,2024-02-23,Leverkusen,Jonathan Tah,90,0.0,0,Center Back
+3895250,Leverkusen,FSV Mainz 05,2024-02-23,Leverkusen,Jeremie Frimpong,82,0.15,0,Right Wing Back
+3895250,Leverkusen,FSV Mainz 05,2024-02-23,FSV Mainz 05,Philipp Mwene,90,0.13,0,Left Wing Back
+3895250,Leverkusen,FSV Mainz 05,2024-02-23,FSV Mainz 05,Karim Onisiwo,82,0.03,0,Center Forward
+3895250,Leverkusen,FSV Mainz 05,2024-02-23,FSV Mainz 05,Nadiem Amiri,90,0.04,0,Left Defensive Midfield
+3895250,Leverkusen,FSV Mainz 05,2024-02-23,FSV Mainz 05,Leandro Barreiro Martins,90,0.13,0,Right Defensive Midfield
+3895250,Leverkusen,FSV Mainz 05,2024-02-23,FSV Mainz 05,Dominik Kohr,90,0.26,1,Right Center Back
+3895250,Leverkusen,FSV Mainz 05,2024-02-23,FSV Mainz 05,Silvan Widmer,58,0.0,0,Right Wing Back
+3895250,Leverkusen,FSV Mainz 05,2024-02-23,FSV Mainz 05,Brajan Gruda,63,0.0,0,Right Attacking Midfield
+3895250,Leverkusen,FSV Mainz 05,2024-02-23,Leverkusen,Granit Xhaka,90,0.05,1,Right Defensive Midfield
+3895250,Leverkusen,FSV Mainz 05,2024-02-23,Leverkusen,Robert Andrich,90,0.01,1,Left Defensive Midfield
+3895250,Leverkusen,FSV Mainz 05,2024-02-23,Leverkusen,Lukáš Hrádecký,90,0.0,0,Goalkeeper
+3895250,Leverkusen,FSV Mainz 05,2024-02-23,FSV Mainz 05,Jae-Sung Lee,90,0.43,0,Left Attacking Midfield
+3895250,Leverkusen,FSV Mainz 05,2024-02-23,FSV Mainz 05,Sepp van den Berg,90,0.0,0,Center Back
+3895250,Leverkusen,FSV Mainz 05,2024-02-23,FSV Mainz 05,Robin Zentner,90,0.0,0,Goalkeeper
+3895250,Leverkusen,FSV Mainz 05,2024-02-23,FSV Mainz 05,Anthony Caci,90,0.03,0,Left Center Back
+3895250,Leverkusen,FSV Mainz 05,2024-02-23,Leverkusen,Amine Adli,82,0.05,0,Center Forward
+3895250,Leverkusen,FSV Mainz 05,2024-02-23,Leverkusen,Florian Wirtz,89,0.13,0,Left Attacking Midfield
+3895250,Leverkusen,FSV Mainz 05,2024-02-23,Leverkusen,Patrik Schick,35,0.0,0,Right Attacking Midfield
+3895250,Leverkusen,FSV Mainz 05,2024-02-23,FSV Mainz 05,Josuha Guilavogui,32,0.0,0,Right Wing Back
+3895250,Leverkusen,FSV Mainz 05,2024-02-23,Leverkusen,Nathan Tella,8,0.0,0,Right Wing Back
+3895250,Leverkusen,FSV Mainz 05,2024-02-23,FSV Mainz 05,Tom Krauß,8,0.06,0,Center Forward
+3895250,Leverkusen,FSV Mainz 05,2024-02-23,Leverkusen,Piero Martín Hincapié Reyna,8,0.0,0,Right Attacking Midfield
+3895250,Leverkusen,FSV Mainz 05,2024-02-23,Leverkusen,Adam Hložek,1,0.0,0,Right Attacking Midfield
+3895250,Leverkusen,FSV Mainz 05,2024-02-23,FSV Mainz 05,Jessic Ngankam,27,0.04,0,Right Attacking Midfield
+3895266,Leverkusen,Wolfsburg,2024-03-10,Wolfsburg,Maximilian Arnold,90,0.0,0,Left Defensive Midfield
+3895266,Leverkusen,Wolfsburg,2024-03-10,Wolfsburg,Koen Casteels,90,0.0,0,Goalkeeper
+3895266,Leverkusen,Wolfsburg,2024-03-10,Leverkusen,Piero Martín Hincapié Reyna,58,0.23,0,Left Center Back
+3895266,Leverkusen,Wolfsburg,2024-03-10,Wolfsburg,Maxence Lacroix,90,0.0,0,Right Center Back
+3895266,Leverkusen,Wolfsburg,2024-03-10,Leverkusen,Exequiel Alejandro Palacios,89,0.09,0,Left Defensive Midfield
+3895266,Leverkusen,Wolfsburg,2024-03-10,Leverkusen,Patrik Schick,75,0.0,0,Center Forward
+3895266,Leverkusen,Wolfsburg,2024-03-10,Leverkusen,Alejandro Grimaldo García,90,0.05,0,Left Wing Back
+3895266,Leverkusen,Wolfsburg,2024-03-10,Leverkusen,Florian Wirtz,89,0.34,1,Left Attacking Midfield
+3895266,Leverkusen,Wolfsburg,2024-03-10,Leverkusen,Josip Stanišić,90,0.03,0,Right Wing Back
+3895266,Leverkusen,Wolfsburg,2024-03-10,Leverkusen,Granit Xhaka,90,0.04,0,Right Defensive Midfield
+3895266,Leverkusen,Wolfsburg,2024-03-10,Leverkusen,Edmond Fayçal Tapsoba,90,0.03,0,Right Center Back
+3895266,Leverkusen,Wolfsburg,2024-03-10,Leverkusen,Lukáš Hrádecký,90,0.0,0,Goalkeeper
+3895266,Leverkusen,Wolfsburg,2024-03-10,Leverkusen,Jonathan Tah,90,0.06,0,Center Back
+3895266,Leverkusen,Wolfsburg,2024-03-10,Leverkusen,Nathan Tella,75,0.69,1,Right Attacking Midfield
+3895266,Leverkusen,Wolfsburg,2024-03-10,Wolfsburg,Kevin Paredes,90,0.0,0,Left Wing Back
+3895266,Leverkusen,Wolfsburg,2024-03-10,Wolfsburg,Cédric Zesiger,87,0.03,0,Left Center Back
+3895266,Leverkusen,Wolfsburg,2024-03-10,Wolfsburg,Yannick Gerhardt,86,0.0,0,Right Defensive Midfield
+3895266,Leverkusen,Wolfsburg,2024-03-10,Wolfsburg,Moritz Jenz,27,0.0,0,Center Back
+3895266,Leverkusen,Wolfsburg,2024-03-10,Wolfsburg,Ridle Bote Baku,90,0.11,0,Right Wing Back
+3895266,Leverkusen,Wolfsburg,2024-03-10,Wolfsburg,Lovro Majer,62,0.0,0,Right Wing
+3895266,Leverkusen,Wolfsburg,2024-03-10,Wolfsburg,Tiago Barreiros de Melo Tomás,61,0.0,0,Left Wing
+3895266,Leverkusen,Wolfsburg,2024-03-10,Wolfsburg,Jonas Older Wind,31,0.09,0,Center Forward
+3895266,Leverkusen,Wolfsburg,2024-03-10,Wolfsburg,Sebastiaan Bornauw,59,0.0,0,Center Forward
+3895266,Leverkusen,Wolfsburg,2024-03-10,Leverkusen,Amine Adli,32,0.13,0,Left Back
+3895266,Leverkusen,Wolfsburg,2024-03-10,Wolfsburg,Amin Sarr,29,0.0,0,Center Forward
+3895266,Leverkusen,Wolfsburg,2024-03-10,Wolfsburg,Aster Vranckx,28,0.0,0,Right Center Midfield
+3895266,Leverkusen,Wolfsburg,2024-03-10,Leverkusen,Jonas Hofmann,15,0.01,0,Right Wing
+3895266,Leverkusen,Wolfsburg,2024-03-10,Leverkusen,Borja Iglesias Quintas,15,0.09,0,Center Forward
+3895266,Leverkusen,Wolfsburg,2024-03-10,Wolfsburg,Kevin Behrens,4,0.0,0,Center Defensive Midfield
+3895266,Leverkusen,Wolfsburg,2024-03-10,Wolfsburg,Patrick Wimmer,3,0.0,0,Left Center Back
+3895266,Leverkusen,Wolfsburg,2024-03-10,Leverkusen,Robert Andrich,1,0.0,0,Left Defensive Midfield
+3895275,Freiburg,Leverkusen,2024-03-17,Freiburg,Vincenzo Grifo,60,0.0,0,Left Wing
+3895275,Freiburg,Leverkusen,2024-03-17,Freiburg,Noah Atubolu,90,0.0,0,Goalkeeper
+3895275,Freiburg,Leverkusen,2024-03-17,Freiburg,Manuel Gulde,90,0.11,0,Left Center Back
+3895275,Freiburg,Leverkusen,2024-03-17,Leverkusen,Piero Martín Hincapié Reyna,90,0.01,0,Left Center Back
+3895275,Freiburg,Leverkusen,2024-03-17,Freiburg,Nicolas Höfler,90,0.03,0,Right Defensive Midfield
+3895275,Freiburg,Leverkusen,2024-03-17,Leverkusen,Exequiel Alejandro Palacios,88,0.16,0,Left Defensive Midfield
+3895275,Freiburg,Leverkusen,2024-03-17,Freiburg,Kiliann Sildillia,90,0.0,0,Right Center Back
+3895275,Freiburg,Leverkusen,2024-03-17,Leverkusen,Alejandro Grimaldo García,90,0.19,0,Left Wing Back
+3895275,Freiburg,Leverkusen,2024-03-17,Leverkusen,Florian Wirtz,90,0.52,1,Left Attacking Midfield
+3895275,Freiburg,Leverkusen,2024-03-17,Freiburg,Christian Günter,90,0.05,0,Left Wing Back
+3895275,Freiburg,Leverkusen,2024-03-17,Leverkusen,Josip Stanišić,90,0.0,0,Right Center Back
+3895275,Freiburg,Leverkusen,2024-03-17,Leverkusen,Lukáš Hrádecký,90,0.0,0,Goalkeeper
+3895275,Freiburg,Leverkusen,2024-03-17,Leverkusen,Jeremie Frimpong,82,0.09,0,Right Wing Back
+3895275,Freiburg,Leverkusen,2024-03-17,Leverkusen,Patrik Schick,75,0.41,1,Center Forward
+3895275,Freiburg,Leverkusen,2024-03-17,Leverkusen,Adam Hložek,82,1.03,1,Right Attacking Midfield
+3895275,Freiburg,Leverkusen,2024-03-17,Freiburg,Lucas Höler,75,0.13,0,Right Wing
+3895275,Freiburg,Leverkusen,2024-03-17,Freiburg,Matthias Ginter,60,0.0,0,Center Back
+3895275,Freiburg,Leverkusen,2024-03-17,Leverkusen,Granit Xhaka,90,0.04,0,Right Defensive Midfield
+3895275,Freiburg,Leverkusen,2024-03-17,Leverkusen,Jonathan Tah,90,0.15,0,Center Back
+3895275,Freiburg,Leverkusen,2024-03-17,Freiburg,Roland Sallai,60,0.16,0,Center Forward
+3895275,Freiburg,Leverkusen,2024-03-17,Freiburg,Ritsu Doan,90,0.08,1,Right Wing Back
+3895275,Freiburg,Leverkusen,2024-03-17,Freiburg,Merlin Röhl,75,0.14,0,Left Defensive Midfield
+3895275,Freiburg,Leverkusen,2024-03-17,Freiburg,Philipp Lienhart,30,0.0,0,Center Back
+3895275,Freiburg,Leverkusen,2024-03-17,Freiburg,Florent Muslija,30,0.0,0,Left Wing
+3895275,Freiburg,Leverkusen,2024-03-17,Freiburg,Michael Gregoritsch,30,0.0,0,Center Forward
+3895275,Freiburg,Leverkusen,2024-03-17,Freiburg,Yannik Keitel,15,0.23,1,Left Defensive Midfield
+3895275,Freiburg,Leverkusen,2024-03-17,Leverkusen,Amine Adli,15,0.0,0,Center Forward
+3895275,Freiburg,Leverkusen,2024-03-17,Freiburg,Maximilian Philipp,15,0.0,0,Right Wing
+3895275,Freiburg,Leverkusen,2024-03-17,Leverkusen,Robert Andrich,8,0.0,0,Right Attacking Midfield
+3895275,Freiburg,Leverkusen,2024-03-17,Leverkusen,Nathan Tella,8,0.0,0,Right Wing Back
+3895275,Freiburg,Leverkusen,2024-03-17,Leverkusen,Edmond Fayçal Tapsoba,2,0.0,0,Right Center Midfield
+3895180,Leverkusen,Ein Frankfurt,2023-12-17,Leverkusen,Exequiel Alejandro Palacios,82,0.0,0,Left Defensive Midfield
+3895180,Leverkusen,Ein Frankfurt,2023-12-17,Leverkusen,Odilon Kossonou,90,0.11,0,Right Center Back
+3895180,Leverkusen,Ein Frankfurt,2023-12-17,Leverkusen,Edmond Fayçal Tapsoba,90,0.22,0,Left Center Back
+3895180,Leverkusen,Ein Frankfurt,2023-12-17,Leverkusen,Granit Xhaka,90,0.02,0,Right Defensive Midfield
+3895180,Leverkusen,Ein Frankfurt,2023-12-17,Leverkusen,Jonas Hofmann,82,0.0,0,Right Attacking Midfield
+3895180,Leverkusen,Ein Frankfurt,2023-12-17,Ein Frankfurt,Niels Nkounkou,90,0.0,0,Left Wing Back
+3895180,Leverkusen,Ein Frankfurt,2023-12-17,Ein Frankfurt,Ansgar Knauff,90,0.0,0,Left Wing
+3895180,Leverkusen,Ein Frankfurt,2023-12-17,Ein Frankfurt,Fares Chaïbi,82,0.05,0,Center Forward
+3895180,Leverkusen,Ein Frankfurt,2023-12-17,Ein Frankfurt,Mario Götze,63,0.0,0,Left Defensive Midfield
+3895180,Leverkusen,Ein Frankfurt,2023-12-17,Ein Frankfurt,Hugo Larsson,72,0.0,0,Right Defensive Midfield
+3895180,Leverkusen,Ein Frankfurt,2023-12-17,Ein Frankfurt,Aurélio Gabriel Ulineia Buta,90,0.03,0,Right Wing Back
+3895180,Leverkusen,Ein Frankfurt,2023-12-17,Leverkusen,Lukáš Hrádecký,90,0.0,0,Goalkeeper
+3895180,Leverkusen,Ein Frankfurt,2023-12-17,Leverkusen,Jonathan Tah,90,0.0,0,Center Back
+3895180,Leverkusen,Ein Frankfurt,2023-12-17,Ein Frankfurt,Willian Joel Pacho Tenorio,90,0.05,0,Left Center Back
+3895180,Leverkusen,Ein Frankfurt,2023-12-17,Ein Frankfurt,Robin Koch,63,0.0,0,Center Back
+3895180,Leverkusen,Ein Frankfurt,2023-12-17,Ein Frankfurt,Lucas Silva Melo,90,0.05,0,Right Center Back
+3895180,Leverkusen,Ein Frankfurt,2023-12-17,Ein Frankfurt,Kevin Trapp,90,0.0,0,Goalkeeper
+3895180,Leverkusen,Ein Frankfurt,2023-12-17,Leverkusen,Alejandro Grimaldo García,90,0.14,0,Left Wing Back
+3895180,Leverkusen,Ein Frankfurt,2023-12-17,Leverkusen,Florian Wirtz,86,0.54,1,Left Attacking Midfield
+3895180,Leverkusen,Ein Frankfurt,2023-12-17,Leverkusen,Jeremie Frimpong,82,0.91,1,Right Wing Back
+3895180,Leverkusen,Ein Frankfurt,2023-12-17,Ein Frankfurt,Eric Junior Dina Ebimbe,71,0.0,0,Right Wing
+3895180,Leverkusen,Ein Frankfurt,2023-12-17,Leverkusen,Victor Okoh Boniface,71,0.19,1,Center Forward
+3895180,Leverkusen,Ein Frankfurt,2023-12-17,Ein Frankfurt,Hrvoje Smolčić,27,0.0,0,Center Back
+3895180,Leverkusen,Ein Frankfurt,2023-12-17,Ein Frankfurt,Ellyes Joris Skhiri,27,0.0,0,Left Defensive Midfield
+3895180,Leverkusen,Ein Frankfurt,2023-12-17,Ein Frankfurt,Jens Petter Hauge,19,0.0,0,Right Wing
+3895180,Leverkusen,Ein Frankfurt,2023-12-17,Ein Frankfurt,Elias Niklas Baum,18,0.0,0,Left Defensive Midfield
+3895180,Leverkusen,Ein Frankfurt,2023-12-17,Leverkusen,Patrik Schick,19,0.09,0,Center Forward
+3895180,Leverkusen,Ein Frankfurt,2023-12-17,Leverkusen,Adam Hložek,8,0.0,0,Right Attacking Midfield
+3895180,Leverkusen,Ein Frankfurt,2023-12-17,Leverkusen,Nathan Tella,8,0.0,0,Right Wing Back
+3895180,Leverkusen,Ein Frankfurt,2023-12-17,Leverkusen,Piero Martín Hincapié Reyna,8,0.52,0,Left Defensive Midfield
+3895180,Leverkusen,Ein Frankfurt,2023-12-17,Leverkusen,Nadiem Amiri,4,0.0,0,Left Attacking Midfield
+3895180,Leverkusen,Ein Frankfurt,2023-12-17,Ein Frankfurt,Jessic Ngankam,8,0.0,0,Center Forward
+3895134,Hoffenheim,Leverkusen,2023-11-04,Hoffenheim,Maximilian Beier,87,0.22,0,Left Center Forward
+3895134,Hoffenheim,Leverkusen,2023-11-04,Hoffenheim,Kevin Vogt,90,0.0,0,Center Back
+3895134,Hoffenheim,Leverkusen,2023-11-04,Hoffenheim,Kevin Akpoguma,87,0.0,0,Left Center Back
+3895134,Hoffenheim,Leverkusen,2023-11-04,Leverkusen,Alejandro Grimaldo García,90,0.15,2,Left Wing Back
+3895134,Hoffenheim,Leverkusen,2023-11-04,Leverkusen,Edmond Fayçal Tapsoba,90,0.0,0,Left Center Back
+3895134,Hoffenheim,Leverkusen,2023-11-04,Leverkusen,Jonathan Tah,90,0.0,0,Center Back
+3895134,Hoffenheim,Leverkusen,2023-11-04,Leverkusen,Jonas Hofmann,79,0.12,0,Right Attacking Midfield
+3895134,Hoffenheim,Leverkusen,2023-11-04,Leverkusen,Victor Okoh Boniface,87,0.38,0,Center Forward
+3895134,Hoffenheim,Leverkusen,2023-11-04,Leverkusen,Jeremie Frimpong,90,0.19,0,Right Wing Back
+3895134,Hoffenheim,Leverkusen,2023-11-04,Hoffenheim,Oliver Baumann,90,0.0,0,Goalkeeper
+3895134,Hoffenheim,Leverkusen,2023-11-04,Hoffenheim,Ozan Muhammed Kabak,90,0.0,0,Right Center Back
+3895134,Hoffenheim,Leverkusen,2023-11-04,Hoffenheim,Wout Weghorst,90,1.04,1,Right Center Forward
+3895134,Hoffenheim,Leverkusen,2023-11-04,Leverkusen,Granit Xhaka,90,0.0,0,Left Defensive Midfield
+3895134,Hoffenheim,Leverkusen,2023-11-04,Leverkusen,Lukáš Hrádecký,90,0.0,0,Goalkeeper
+3895134,Hoffenheim,Leverkusen,2023-11-04,Leverkusen,Odilon Kossonou,45,0.0,0,Right Center Back
+3895134,Hoffenheim,Leverkusen,2023-11-04,Hoffenheim,Marius Bülter,90,0.01,0,Left Wing Back
+3895134,Hoffenheim,Leverkusen,2023-11-04,Hoffenheim,Grischa Prömel,90,0.0,0,Left Center Midfield
+3895134,Hoffenheim,Leverkusen,2023-11-04,Hoffenheim,Robert Skov,77,0.14,0,Right Wing Back
+3895134,Hoffenheim,Leverkusen,2023-11-04,Hoffenheim,Finn Ole Becker,77,0.01,0,Right Center Midfield
+3895134,Hoffenheim,Leverkusen,2023-11-04,Hoffenheim,Anton Stach,90,0.02,1,Center Defensive Midfield
+3895134,Hoffenheim,Leverkusen,2023-11-04,Leverkusen,Florian Wirtz,90,0.43,1,Left Attacking Midfield
+3895134,Hoffenheim,Leverkusen,2023-11-04,Leverkusen,Exequiel Alejandro Palacios,90,0.0,0,Right Defensive Midfield
+3895134,Hoffenheim,Leverkusen,2023-11-04,Leverkusen,Josip Stanišić,45,0.0,0,Right Center Back
+3895134,Hoffenheim,Leverkusen,2023-11-04,Hoffenheim,Andrej Kramarić,13,0.05,0,Right Center Midfield
+3895134,Hoffenheim,Leverkusen,2023-11-04,Hoffenheim,Ihlas Bebou,13,0.0,0,Right Wing Back
+3895134,Hoffenheim,Leverkusen,2023-11-04,Leverkusen,Robert Andrich,11,0.0,0,Right Attacking Midfield
+3895134,Hoffenheim,Leverkusen,2023-11-04,Hoffenheim,Mërgim Berisha,3,0.0,0,Left Center Forward
+3895134,Hoffenheim,Leverkusen,2023-11-04,Hoffenheim,Bambasé Conté,3,0.0,0,Left Center Back
+3895134,Hoffenheim,Leverkusen,2023-11-04,Leverkusen,Amine Adli,3,0.0,0,Left Center Forward
+3895121,Leverkusen,Freiburg,2023-10-29,Leverkusen,Exequiel Alejandro Palacios,90,0.09,0,Right Defensive Midfield
+3895121,Leverkusen,Freiburg,2023-10-29,Leverkusen,Odilon Kossonou,90,0.0,0,Right Center Back
+3895121,Leverkusen,Freiburg,2023-10-29,Leverkusen,Victor Okoh Boniface,90,0.33,0,Center Forward
+3895121,Leverkusen,Freiburg,2023-10-29,Leverkusen,Alejandro Grimaldo García,90,0.01,0,Left Wing Back
+3895121,Leverkusen,Freiburg,2023-10-29,Leverkusen,Granit Xhaka,90,0.05,0,Left Defensive Midfield
+3895121,Leverkusen,Freiburg,2023-10-29,Leverkusen,Jonathan Tah,90,0.02,0,Center Back
+3895121,Leverkusen,Freiburg,2023-10-29,Leverkusen,Jeremie Frimpong,84,0.32,0,Right Wing Back
+3895121,Leverkusen,Freiburg,2023-10-29,Leverkusen,Jonas Hofmann,84,0.2,0,Right Attacking Midfield
+3895121,Leverkusen,Freiburg,2023-10-29,Freiburg,Vincenzo Grifo,80,0.0,0,Left Midfield
+3895121,Leverkusen,Freiburg,2023-10-29,Freiburg,Noah Atubolu,90,0.0,0,Goalkeeper
+3895121,Leverkusen,Freiburg,2023-10-29,Freiburg,Lucas Höler,90,0.14,0,Center Forward
+3895121,Leverkusen,Freiburg,2023-10-29,Leverkusen,Lukáš Hrádecký,90,0.0,0,Goalkeeper
+3895121,Leverkusen,Freiburg,2023-10-29,Leverkusen,Edmond Fayçal Tapsoba,90,0.19,0,Left Center Back
+3895121,Leverkusen,Freiburg,2023-10-29,Freiburg,Nicolas Höfler,90,0.0,0,Center Defensive Midfield
+3895121,Leverkusen,Freiburg,2023-10-29,Freiburg,Kiliann Sildillia,90,0.11,0,Right Back
+3895121,Leverkusen,Freiburg,2023-10-29,Freiburg,Matthias Ginter,90,0.0,0,Right Center Back
+3895121,Leverkusen,Freiburg,2023-10-29,Freiburg,Philipp Lienhart,66,0.0,0,Left Center Back
+3895121,Leverkusen,Freiburg,2023-10-29,Leverkusen,Florian Wirtz,90,0.22,1,Left Attacking Midfield
+3895121,Leverkusen,Freiburg,2023-10-29,Freiburg,Maximilian Eggestein,66,0.0,0,Right Center Midfield
+3895121,Leverkusen,Freiburg,2023-10-29,Freiburg,Ritsu Doan,90,0.0,0,Right Midfield
+3895121,Leverkusen,Freiburg,2023-10-29,Freiburg,Merlin Röhl,80,0.06,0,Left Center Midfield
+3895121,Leverkusen,Freiburg,2023-10-29,Freiburg,Lukas Kübler,90,0.02,0,Left Back
+3895121,Leverkusen,Freiburg,2023-10-29,Freiburg,Manuel Gulde,24,0.24,1,Left Center Back
+3895121,Leverkusen,Freiburg,2023-10-29,Freiburg,Michael Gregoritsch,24,0.2,0,Right Center Midfield
+3895121,Leverkusen,Freiburg,2023-10-29,Freiburg,Noah Weißhaupt,10,0.0,0,Left Midfield
+3895121,Leverkusen,Freiburg,2023-10-29,Freiburg,Junior Chukwubuike Adamu,10,0.0,0,Left Center Midfield
+3895121,Leverkusen,Freiburg,2023-10-29,Leverkusen,Amine Adli,6,0.0,0,Right Attacking Midfield
+3895121,Leverkusen,Freiburg,2023-10-29,Leverkusen,Nathan Tella,6,0.0,0,Right Wing Back
+3895107,Leverkusen,FC Köln,2023-10-08,FC Köln,Davie Selke,90,0.1,0,Right Center Forward
+3895107,Leverkusen,FC Köln,2023-10-08,FC Köln,Dejan Ljubicic,90,0.01,0,Center Attacking Midfield
+3895107,Leverkusen,FC Köln,2023-10-08,FC Köln,Eric Martel,74,0.74,0,Center Defensive Midfield
+3895107,Leverkusen,FC Köln,2023-10-08,FC Köln,Timo Hübers,90,0.0,0,Right Center Back
+3895107,Leverkusen,FC Köln,2023-10-08,FC Köln,Marvin Schwäbe,90,0.0,0,Goalkeeper
+3895107,Leverkusen,FC Köln,2023-10-08,FC Köln,Julian Chabot,90,0.24,0,Left Center Back
+3895107,Leverkusen,FC Köln,2023-10-08,Leverkusen,Jonathan Tah,90,0.11,0,Center Back
+3895107,Leverkusen,FC Köln,2023-10-08,Leverkusen,Jonas Hofmann,87,0.27,1,Right Attacking Midfield
+3895107,Leverkusen,FC Köln,2023-10-08,Leverkusen,Odilon Kossonou,90,0.0,0,Right Center Back
+3895107,Leverkusen,FC Köln,2023-10-08,FC Köln,Leart Paqarada,90,0.0,0,Left Back
+3895107,Leverkusen,FC Köln,2023-10-08,Leverkusen,Granit Xhaka,90,0.04,0,Left Defensive Midfield
+3895107,Leverkusen,FC Köln,2023-10-08,Leverkusen,Exequiel Alejandro Palacios,90,0.0,0,Right Defensive Midfield
+3895107,Leverkusen,FC Köln,2023-10-08,Leverkusen,Florian Wirtz,70,0.21,0,Left Attacking Midfield
+3895107,Leverkusen,FC Köln,2023-10-08,Leverkusen,Edmond Fayçal Tapsoba,70,0.0,0,Left Center Back
+3895107,Leverkusen,FC Köln,2023-10-08,FC Köln,Florian Kainz,90,0.0,0,Left Center Midfield
+3895107,Leverkusen,FC Köln,2023-10-08,FC Köln,Rasmus Carstensen,90,0.0,0,Right Back
+3895107,Leverkusen,FC Köln,2023-10-08,Leverkusen,Lukáš Hrádecký,90,0.0,0,Goalkeeper
+3895107,Leverkusen,FC Köln,2023-10-08,Leverkusen,Jeremie Frimpong,79,0.79,1,Right Wing Back
+3895107,Leverkusen,FC Köln,2023-10-08,Leverkusen,Victor Okoh Boniface,79,1.35,1,Center Forward
+3895107,Leverkusen,FC Köln,2023-10-08,Leverkusen,Alejandro Grimaldo García,90,0.12,0,Left Wing Back
+3895107,Leverkusen,FC Köln,2023-10-08,FC Köln,Denis Huseinbašić,74,0.0,0,Right Center Midfield
+3895107,Leverkusen,FC Köln,2023-10-08,FC Köln,Faride Alidou,61,0.0,0,Left Center Forward
+3895107,Leverkusen,FC Köln,2023-10-08,FC Köln,Max Finkgräfe,29,0.11,0,Left Center Forward
+3895107,Leverkusen,FC Köln,2023-10-08,Leverkusen,Amine Adli,20,0.03,0,Left Attacking Midfield
+3895107,Leverkusen,FC Köln,2023-10-08,Leverkusen,Piero Martín Hincapié Reyna,20,0.0,0,Left Center Back
+3895107,Leverkusen,FC Köln,2023-10-08,FC Köln,Steffen Tigges,16,0.0,0,Right Defensive Midfield
+3895107,Leverkusen,FC Köln,2023-10-08,FC Köln,Mathias Flaga Olesen,16,0.0,0,Left Defensive Midfield
+3895107,Leverkusen,FC Köln,2023-10-08,Leverkusen,Nathan Tella,11,0.03,0,Right Wing Back
+3895107,Leverkusen,FC Köln,2023-10-08,Leverkusen,Gustavo Adolfo Puerta Molano,3,0.0,0,Right Attacking Midfield
+3895107,Leverkusen,FC Köln,2023-10-08,Leverkusen,Adam Hložek,11,0.0,0,Center Forward
+3895074,Bayern Munich,Leverkusen,2023-09-15,Leverkusen,Granit Xhaka,90,0.01,0,Left Defensive Midfield
+3895074,Bayern Munich,Leverkusen,2023-09-15,Leverkusen,Odilon Kossonou,90,0.0,0,Right Center Back
+3895074,Bayern Munich,Leverkusen,2023-09-15,Leverkusen,Edmond Fayçal Tapsoba,89,0.0,0,Left Center Back
+3895074,Bayern Munich,Leverkusen,2023-09-15,Leverkusen,Robert Andrich,45,0.0,0,Right Defensive Midfield
+3895074,Bayern Munich,Leverkusen,2023-09-15,Leverkusen,Jonathan Tah,90,0.0,0,Center Back
+3895074,Bayern Munich,Leverkusen,2023-09-15,Leverkusen,Lukáš Hrádecký,90,0.0,0,Goalkeeper
+3895074,Bayern Munich,Leverkusen,2023-09-15,Leverkusen,Jeremie Frimpong,81,0.0,0,Right Wing Back
+3895074,Bayern Munich,Leverkusen,2023-09-15,Bayern Munich,Dayotchanculle Upamecano,90,0.05,0,Right Center Back
+3895074,Bayern Munich,Leverkusen,2023-09-15,Bayern Munich,Harry Kane,84,0.86,1,Center Forward
+3895074,Bayern Munich,Leverkusen,2023-09-15,Bayern Munich,Konrad Laimer,84,0.14,0,Right Back
+3895074,Bayern Munich,Leverkusen,2023-09-15,Bayern Munich,Joshua Kimmich,60,0.02,0,Right Defensive Midfield
+3895074,Bayern Munich,Leverkusen,2023-09-15,Bayern Munich,Alphonso Davies,90,0.0,0,Left Back
+3895074,Bayern Munich,Leverkusen,2023-09-15,Bayern Munich,Leon Goretzka,90,0.35,1,Left Defensive Midfield
+3895074,Bayern Munich,Leverkusen,2023-09-15,Bayern Munich,Leroy Sané,90,0.12,0,Right Wing
+3895074,Bayern Munich,Leverkusen,2023-09-15,Bayern Munich,Thomas Müller,60,0.1,0,Center Attacking Midfield
+3895074,Bayern Munich,Leverkusen,2023-09-15,Bayern Munich,Serge Gnabry,69,0.5,0,Left Wing
+3895074,Bayern Munich,Leverkusen,2023-09-15,Leverkusen,Jonas Hofmann,94,0.0,0,Right Wing
+3895074,Bayern Munich,Leverkusen,2023-09-15,Bayern Munich,Min Jae Kim,90,0.08,0,Left Center Back
+3895074,Bayern Munich,Leverkusen,2023-09-15,Leverkusen,Florian Wirtz,95,0.36,0,Left Wing
+3895074,Bayern Munich,Leverkusen,2023-09-15,Bayern Munich,Sven Ulreich,90,0.0,0,Goalkeeper
+3895074,Bayern Munich,Leverkusen,2023-09-15,Leverkusen,Alejandro Grimaldo García,90,0.1,1,Left Wing Back
+3895074,Bayern Munich,Leverkusen,2023-09-15,Leverkusen,Victor Okoh Boniface,90,0.97,0,Center Forward
+3895074,Bayern Munich,Leverkusen,2023-09-15,Leverkusen,Exequiel Alejandro Palacios,45,0.78,1,Right Defensive Midfield
+3895074,Bayern Munich,Leverkusen,2023-09-15,Bayern Munich,Noussair Mazraoui,30,0.0,0,Right Defensive Midfield
+3895074,Bayern Munich,Leverkusen,2023-09-15,Bayern Munich,Jamal Musiala,30,0.0,0,Center Attacking Midfield
+3895074,Bayern Munich,Leverkusen,2023-09-15,Bayern Munich,Mathys Tel,21,0.0,0,Left Wing
+3895074,Bayern Munich,Leverkusen,2023-09-15,Leverkusen,Amine Adli,9,0.0,0,Right Midfield
+3895074,Bayern Munich,Leverkusen,2023-09-15,Bayern Munich,Matthijs de Ligt,6,0.0,0,Left Defensive Midfield
+3895074,Bayern Munich,Leverkusen,2023-09-15,Bayern Munich,Jean-Eric Maxim Choupo-Moting,6,0.0,0,Center Forward
+3895074,Bayern Munich,Leverkusen,2023-09-15,Leverkusen,Adam Hložek,1,0.0,0,Left Center Back
+3895139,Leverkusen,Union Berlin,2023-11-12,Leverkusen,Exequiel Alejandro Palacios,85,0.0,0,Left Defensive Midfield
+3895139,Leverkusen,Union Berlin,2023-11-12,Leverkusen,Odilon Kossonou,90,0.12,1,Right Center Back
+3895139,Leverkusen,Union Berlin,2023-11-12,Leverkusen,Piero Martín Hincapié Reyna,90,0.0,0,Left Center Back
+3895139,Leverkusen,Union Berlin,2023-11-12,Leverkusen,Jonas Hofmann,79,0.03,0,Right Attacking Midfield
+3895139,Leverkusen,Union Berlin,2023-11-12,Leverkusen,Jonathan Tah,90,0.09,1,Center Back
+3895139,Leverkusen,Union Berlin,2023-11-12,Leverkusen,Jeremie Frimpong,79,0.54,0,Right Wing Back
+3895139,Leverkusen,Union Berlin,2023-11-12,Leverkusen,Florian Wirtz,85,0.52,0,Left Attacking Midfield
+3895139,Leverkusen,Union Berlin,2023-11-12,Union Berlin,Alex Král,90,0.0,0,Right Defensive Midfield
+3895139,Leverkusen,Union Berlin,2023-11-12,Union Berlin,Janik Haberer,90,0.02,0,Right Wing
+3895139,Leverkusen,Union Berlin,2023-11-12,Union Berlin,Josip Juranović,45,0.0,0,Right Wing Back
+3895139,Leverkusen,Union Berlin,2023-11-12,Union Berlin,Leonardo Bonucci,23,0.0,0,Center Back
+3895139,Leverkusen,Union Berlin,2023-11-12,Leverkusen,Granit Xhaka,90,0.03,0,Right Defensive Midfield
+3895139,Leverkusen,Union Berlin,2023-11-12,Union Berlin,Sheraldo Becker,63,0.0,0,Left Wing
+3895139,Leverkusen,Union Berlin,2023-11-12,Union Berlin,Frederik Rønnow,90,0.0,0,Goalkeeper
+3895139,Leverkusen,Union Berlin,2023-11-12,Union Berlin,Paul Jaeckel,90,0.0,0,Right Center Back
+3895139,Leverkusen,Union Berlin,2023-11-12,Leverkusen,Alejandro Grimaldo García,90,0.04,1,Left Wing Back
+3895139,Leverkusen,Union Berlin,2023-11-12,Union Berlin,Jérôme Roussillon,77,0.0,0,Left Wing Back
+3895139,Leverkusen,Union Berlin,2023-11-12,Leverkusen,Lukáš Hrádecký,90,0.0,0,Goalkeeper
+3895139,Leverkusen,Union Berlin,2023-11-12,Union Berlin,Diogo Filipe Monteiro Pinto Leite,90,0.0,0,Left Center Back
+3895139,Leverkusen,Union Berlin,2023-11-12,Leverkusen,Victor Okoh Boniface,85,0.4,0,Center Forward
+3895139,Leverkusen,Union Berlin,2023-11-12,Union Berlin,Aïssa Bilal Laïdouni,90,0.02,0,Left Defensive Midfield
+3895139,Leverkusen,Union Berlin,2023-11-12,Union Berlin,David Datro Fofana,77,0.0,0,Center Forward
+3895139,Leverkusen,Union Berlin,2023-11-12,Union Berlin,Robin Knoche,67,0.0,0,Center Back
+3895139,Leverkusen,Union Berlin,2023-11-12,Union Berlin,Christopher Trimmel,45,0.0,0,Right Wing Back
+3895139,Leverkusen,Union Berlin,2023-11-12,Union Berlin,Brenden Aaronson,27,0.0,0,Right Wing
+3895139,Leverkusen,Union Berlin,2023-11-12,Union Berlin,Robin Gosens,13,0.0,0,Left Wing Back
+3895139,Leverkusen,Union Berlin,2023-11-12,Union Berlin,Kevin Behrens,13,0.0,0,Center Forward
+3895139,Leverkusen,Union Berlin,2023-11-12,Leverkusen,Amine Adli,11,0.05,0,Right Attacking Midfield
+3895139,Leverkusen,Union Berlin,2023-11-12,Leverkusen,Nathan Tella,11,0.06,1,Right Wing Back
+3895139,Leverkusen,Union Berlin,2023-11-12,Leverkusen,Noah Mbamba,5,0.0,0,Left Attacking Midfield
+3895139,Leverkusen,Union Berlin,2023-11-12,Leverkusen,Robert Andrich,5,0.0,0,Left Defensive Midfield
+3895139,Leverkusen,Union Berlin,2023-11-12,Leverkusen,Adam Hložek,5,0.0,0,Center Forward
+3895086,Leverkusen,FC Heidenheim,2023-09-24,FC Heidenheim,Nikola Dovedan,63,0.0,0,Center Attacking Midfield
+3895086,Leverkusen,FC Heidenheim,2023-09-24,FC Heidenheim,Lennard Maloney,90,0.0,0,Right Defensive Midfield
+3895086,Leverkusen,FC Heidenheim,2023-09-24,Leverkusen,Jeremie Frimpong,78,0.18,0,Right Wing Back
+3895086,Leverkusen,FC Heidenheim,2023-09-24,Leverkusen,Jonas Hofmann,90,0.6,1,Right Attacking Midfield
+3895086,Leverkusen,FC Heidenheim,2023-09-24,FC Heidenheim,Tim Siersleben,90,0.0,0,Left Center Back
+3895086,Leverkusen,FC Heidenheim,2023-09-24,FC Heidenheim,Jonas Föhrenbach,90,0.0,0,Left Back
+3895086,Leverkusen,FC Heidenheim,2023-09-24,FC Heidenheim,Kevin Müller,90,0.0,0,Goalkeeper
+3895086,Leverkusen,FC Heidenheim,2023-09-24,Leverkusen,Odilon Kossonou,90,0.03,0,Right Center Back
+3895086,Leverkusen,FC Heidenheim,2023-09-24,FC Heidenheim,Norman Theuerkauf,69,0.0,0,Left Defensive Midfield
+3895086,Leverkusen,FC Heidenheim,2023-09-24,Leverkusen,Edmond Fayçal Tapsoba,90,0.0,0,Left Center Back
+3895086,Leverkusen,FC Heidenheim,2023-09-24,Leverkusen,Alejandro Grimaldo García,83,0.11,0,Left Wing Back
+3895086,Leverkusen,FC Heidenheim,2023-09-24,Leverkusen,Florian Wirtz,70,0.27,0,Left Attacking Midfield
+3895086,Leverkusen,FC Heidenheim,2023-09-24,Leverkusen,Granit Xhaka,90,0.0,0,Left Defensive Midfield
+3895086,Leverkusen,FC Heidenheim,2023-09-24,Leverkusen,Jonathan Tah,90,0.0,0,Center Back
+3895086,Leverkusen,FC Heidenheim,2023-09-24,FC Heidenheim,Jan-Niklas Beste,81,0.0,0,Left Wing
+3895086,Leverkusen,FC Heidenheim,2023-09-24,FC Heidenheim,Tim Kleindienst,80,0.25,0,Center Forward
+3895086,Leverkusen,FC Heidenheim,2023-09-24,Leverkusen,Exequiel Alejandro Palacios,70,0.0,0,Right Defensive Midfield
+3895086,Leverkusen,FC Heidenheim,2023-09-24,Leverkusen,Victor Okoh Boniface,84,2.45,2,Center Forward
+3895086,Leverkusen,FC Heidenheim,2023-09-24,FC Heidenheim,Omar Haktab Traorè,90,0.0,0,Right Back
+3895086,Leverkusen,FC Heidenheim,2023-09-24,Leverkusen,Lukáš Hrádecký,90,0.0,0,Goalkeeper
+3895086,Leverkusen,FC Heidenheim,2023-09-24,FC Heidenheim,Patrick Mainka,90,0.0,0,Right Center Back
+3895086,Leverkusen,FC Heidenheim,2023-09-24,FC Heidenheim,Eren Sami Dinkçi,81,0.08,1,Right Wing
+3895086,Leverkusen,FC Heidenheim,2023-09-24,FC Heidenheim,Adrian Beck,27,0.0,0,Center Attacking Midfield
+3895086,Leverkusen,FC Heidenheim,2023-09-24,FC Heidenheim,Florian Pick,21,0.0,0,Left Defensive Midfield
+3895086,Leverkusen,FC Heidenheim,2023-09-24,Leverkusen,Amine Adli,20,0.06,1,Left Attacking Midfield
+3895086,Leverkusen,FC Heidenheim,2023-09-24,Leverkusen,Nathan Tella,12,0.0,0,Right Wing
+3895086,Leverkusen,FC Heidenheim,2023-09-24,Leverkusen,Robert Andrich,20,0.0,0,Right Defensive Midfield
+3895086,Leverkusen,FC Heidenheim,2023-09-24,FC Heidenheim,Marvin Pieringer,10,0.0,0,Center Forward
+3895086,Leverkusen,FC Heidenheim,2023-09-24,Leverkusen,Piero Martín Hincapié Reyna,7,0.0,0,Left Back
+3895086,Leverkusen,FC Heidenheim,2023-09-24,FC Heidenheim,Denis Thomalla,9,0.0,0,Left Wing
+3895086,Leverkusen,FC Heidenheim,2023-09-24,Leverkusen,Adam Hložek,6,0.0,0,Center Forward
+3895086,Leverkusen,FC Heidenheim,2023-09-24,FC Heidenheim,Kevin Sessa,9,0.0,0,Right Wing
+3895320,Leverkusen,Stuttgart,2024-04-27,Stuttgart,Enzo Millot,73,0.0,0,Left Defensive Midfield
+3895320,Leverkusen,Stuttgart,2024-04-27,Stuttgart,Hiroki Ito,90,0.0,0,Left Center Back
+3895320,Leverkusen,Stuttgart,2024-04-27,Stuttgart,Serhou Guirassy,90,1.43,0,Left Center Forward
+3895320,Leverkusen,Stuttgart,2024-04-27,Leverkusen,Alejandro Grimaldo García,88,0.36,0,Left Wing Back
+3895320,Leverkusen,Stuttgart,2024-04-27,Leverkusen,Edmond Fayçal Tapsoba,90,0.03,0,Left Center Back
+3895320,Leverkusen,Stuttgart,2024-04-27,Leverkusen,Robert Andrich,90,0.31,1,Right Defensive Midfield
+3895320,Leverkusen,Stuttgart,2024-04-27,Leverkusen,Exequiel Alejandro Palacios,90,0.0,0,Left Defensive Midfield
+3895320,Leverkusen,Stuttgart,2024-04-27,Leverkusen,Jeremie Frimpong,88,0.23,0,Right Wing Back
+3895320,Leverkusen,Stuttgart,2024-04-27,Leverkusen,Odilon Kossonou,90,0.0,0,Right Center Back
+3895320,Leverkusen,Stuttgart,2024-04-27,Leverkusen,Jonathan Tah,45,0.0,0,Center Back
+3895320,Leverkusen,Stuttgart,2024-04-27,Stuttgart,Alexander Nübel,90,0.0,0,Goalkeeper
+3895320,Leverkusen,Stuttgart,2024-04-27,Stuttgart,Atakan Karazor,90,0.0,0,Right Defensive Midfield
+3895320,Leverkusen,Stuttgart,2024-04-27,Stuttgart,Waldemar Anton,90,0.0,0,Right Center Back
+3895320,Leverkusen,Stuttgart,2024-04-27,Stuttgart,Deniz Undav,73,0.08,1,Right Center Forward
+3895320,Leverkusen,Stuttgart,2024-04-27,Stuttgart,Chris Führich,80,0.16,1,Left Attacking Midfield
+3895320,Leverkusen,Stuttgart,2024-04-27,Leverkusen,Lukáš Hrádecký,90,0.0,0,Goalkeeper
+3895320,Leverkusen,Stuttgart,2024-04-27,Leverkusen,Patrik Schick,73,0.41,0,Center Forward
+3895320,Leverkusen,Stuttgart,2024-04-27,Leverkusen,Amine Adli,90,0.12,1,Left Attacking Midfield
+3895320,Leverkusen,Stuttgart,2024-04-27,Stuttgart,Maximilian Mittelstädt,90,0.0,0,Left Back
+3895320,Leverkusen,Stuttgart,2024-04-27,Leverkusen,Jonas Hofmann,73,0.19,0,Right Attacking Midfield
+3895320,Leverkusen,Stuttgart,2024-04-27,Stuttgart,Leonidas Stergiou,80,0.02,0,Right Back
+3895320,Leverkusen,Stuttgart,2024-04-27,Stuttgart,Jamie Leweling,91,0.11,0,Right Attacking Midfield
+3895320,Leverkusen,Stuttgart,2024-04-27,Leverkusen,Piero Martín Hincapié Reyna,45,0.0,0,Center Back
+3895320,Leverkusen,Stuttgart,2024-04-27,Stuttgart,Mahmoud Dahoud,17,0.0,0,Left Defensive Midfield
+3895320,Leverkusen,Stuttgart,2024-04-27,Leverkusen,Florian Wirtz,17,0.0,0,Right Attacking Midfield
+3895320,Leverkusen,Stuttgart,2024-04-27,Leverkusen,Victor Okoh Boniface,17,0.0,0,Center Forward
+3895320,Leverkusen,Stuttgart,2024-04-27,Stuttgart,Woo-Yeong Jeong,17,0.0,0,Right Center Forward
+3895320,Leverkusen,Stuttgart,2024-04-27,Stuttgart,Silas Katompa Mvumpa,10,0.0,0,Right Back
+3895320,Leverkusen,Stuttgart,2024-04-27,Stuttgart,Anthony Rouault,10,0.0,0,Left Attacking Midfield
+3895320,Leverkusen,Stuttgart,2024-04-27,Leverkusen,Josip Stanišić,2,0.0,0,Left Wing Back
+3895320,Leverkusen,Stuttgart,2024-04-27,Leverkusen,Nathan Tella,2,0.0,0,Right Wing Back
+3895309,Dortmund,Leverkusen,2024-04-21,Leverkusen,Granit Xhaka,90,0.0,0,Right Defensive Midfield
+3895309,Dortmund,Leverkusen,2024-04-21,Leverkusen,Edmond Fayçal Tapsoba,90,0.0,0,Right Center Back
+3895309,Dortmund,Leverkusen,2024-04-21,Dortmund,Mats Hummels,90,0.0,0,Right Center Back
+3895309,Dortmund,Leverkusen,2024-04-21,Leverkusen,Jeremie Frimpong,90,0.29,0,Right Wing
+3895309,Dortmund,Leverkusen,2024-04-21,Leverkusen,Jonas Hofmann,83,0.02,0,Center Forward
+3895309,Dortmund,Leverkusen,2024-04-21,Dortmund,Nico Schlotterbeck,90,0.0,0,Left Center Back
+3895309,Dortmund,Leverkusen,2024-04-21,Dortmund,Gregor Kobel,90,0.0,0,Goalkeeper
+3895309,Dortmund,Leverkusen,2024-04-21,Dortmund,Ian Maatsen,45,0.0,0,Left Back
+3895309,Dortmund,Leverkusen,2024-04-21,Dortmund,Julian Brandt,82,0.0,0,Left Center Midfield
+3895309,Dortmund,Leverkusen,2024-04-21,Leverkusen,Jonathan Tah,90,0.0,0,Center Back
+3895309,Dortmund,Leverkusen,2024-04-21,Dortmund,Emre Can,68,0.14,0,Center Defensive Midfield
+3895309,Dortmund,Leverkusen,2024-04-21,Leverkusen,Robert Andrich,90,0.0,0,Left Defensive Midfield
+3895309,Dortmund,Leverkusen,2024-04-21,Leverkusen,Josip Stanišić,90,0.12,1,Right Wing Back
+3895309,Dortmund,Leverkusen,2024-04-21,Leverkusen,Piero Martín Hincapié Reyna,83,0.0,0,Left Center Back
+3895309,Dortmund,Leverkusen,2024-04-21,Leverkusen,Alejandro Grimaldo García,90,0.14,0,Left Wing Back
+3895309,Dortmund,Leverkusen,2024-04-21,Leverkusen,Nathan Tella,69,0.8,0,Left Wing
+3895309,Dortmund,Leverkusen,2024-04-21,Dortmund,Julian Ryerson,90,0.03,0,Right Back
+3895309,Dortmund,Leverkusen,2024-04-21,Dortmund,Jadon Sancho,68,0.0,0,Right Midfield
+3895309,Dortmund,Leverkusen,2024-04-21,Dortmund,Jamie Jermaine Bynoe-Gittens,82,0.05,0,Left Midfield
+3895309,Dortmund,Leverkusen,2024-04-21,Dortmund,Marcel Sabitzer,90,0.12,0,Right Center Midfield
+3895309,Dortmund,Leverkusen,2024-04-21,Leverkusen,Lukáš Hrádecký,90,0.0,0,Goalkeeper
+3895309,Dortmund,Leverkusen,2024-04-21,Dortmund,Niclas Füllkrug,90,0.16,1,Center Forward
+3895309,Dortmund,Leverkusen,2024-04-21,Dortmund,Marius Wolf,45,0.05,0,Right Back
+3895309,Dortmund,Leverkusen,2024-04-21,Dortmund,Felix Kalu Nmecha,22,0.0,0,Center Defensive Midfield
+3895309,Dortmund,Leverkusen,2024-04-21,Leverkusen,Florian Wirtz,21,0.0,0,Left Wing
+3895309,Dortmund,Leverkusen,2024-04-21,Dortmund,Marco Reus,22,0.0,0,Left Midfield
+3895309,Dortmund,Leverkusen,2024-04-21,Dortmund,Salih Özcan,8,0.0,0,Left Center Midfield
+3895309,Dortmund,Leverkusen,2024-04-21,Leverkusen,Patrik Schick,7,0.0,0,Center Forward
+3895309,Dortmund,Leverkusen,2024-04-21,Dortmund,Julien Duranville,8,0.0,0,Right Midfield
+3895309,Dortmund,Leverkusen,2024-04-21,Leverkusen,Victor Okoh Boniface,7,0.0,0,Left Center Back
+3895258,FC Köln,Leverkusen,2024-03-03,FC Köln,Jan Thielmann,90,0.0,0,Left Center Forward
+3895258,FC Köln,Leverkusen,2024-03-03,FC Köln,Eric Martel,82,0.0,0,Right Defensive Midfield
+3895258,FC Köln,Leverkusen,2024-03-03,FC Köln,Julian Chabot,90,0.0,0,Left Center Back
+3895258,FC Köln,Leverkusen,2024-03-03,FC Köln,Timo Hübers,90,0.04,0,Right Center Back
+3895258,FC Köln,Leverkusen,2024-03-03,Leverkusen,Piero Martín Hincapié Reyna,78,0.0,0,Left Center Back
+3895258,FC Köln,Leverkusen,2024-03-03,Leverkusen,Alejandro Grimaldo García,90,0.27,1,Left Wing Back
+3895258,FC Köln,Leverkusen,2024-03-03,Leverkusen,Jonathan Tah,90,0.0,0,Center Back
+3895258,FC Köln,Leverkusen,2024-03-03,Leverkusen,Josip Stanišić,90,0.0,0,Right Center Back
+3895258,FC Köln,Leverkusen,2024-03-03,Leverkusen,Robert Andrich,90,0.0,0,Left Defensive Midfield
+3895258,FC Köln,Leverkusen,2024-03-03,Leverkusen,Lukáš Hrádecký,90,0.0,0,Goalkeeper
+3895258,FC Köln,Leverkusen,2024-03-03,Leverkusen,Jonas Hofmann,64,0.09,0,Right Attacking Midfield
+3895258,FC Köln,Leverkusen,2024-03-03,Leverkusen,Jeremie Frimpong,45,0.64,1,Right Wing Back
+3895258,FC Köln,Leverkusen,2024-03-03,Leverkusen,Granit Xhaka,81,0.0,0,Right Defensive Midfield
+3895258,FC Köln,Leverkusen,2024-03-03,Leverkusen,Florian Wirtz,90,0.12,0,Left Attacking Midfield
+3895258,FC Köln,Leverkusen,2024-03-03,FC Köln,Marvin Schwäbe,90,0.0,0,Goalkeeper
+3895258,FC Köln,Leverkusen,2024-03-03,Leverkusen,Patrik Schick,64,0.12,0,Center Forward
+3895258,FC Köln,Leverkusen,2024-03-03,FC Köln,Dejan Ljubicic,90,0.2,0,Left Defensive Midfield
+3895258,FC Köln,Leverkusen,2024-03-03,FC Köln,Max Finkgräfe,90,0.0,0,Left Back
+3895258,FC Köln,Leverkusen,2024-03-03,FC Köln,Linton Maina,82,0.0,0,Left Midfield
+3895258,FC Köln,Leverkusen,2024-03-03,FC Köln,Sargis Adamyan,64,0.39,0,Right Center Forward
+3895258,FC Köln,Leverkusen,2024-03-03,FC Köln,Faride Alidou,81,0.06,0,Right Midfield
+3895258,FC Köln,Leverkusen,2024-03-03,FC Köln,Rasmus Carstensen,90,0.0,0,Right Back
+3895258,FC Köln,Leverkusen,2024-03-03,Leverkusen,Nathan Tella,45,0.06,0,Right Wing Back
+3895258,FC Köln,Leverkusen,2024-03-03,Leverkusen,Amine Adli,26,0.0,0,Right Attacking Midfield
+3895258,FC Köln,Leverkusen,2024-03-03,Leverkusen,Borja Iglesias Quintas,26,0.0,0,Center Forward
+3895258,FC Köln,Leverkusen,2024-03-03,FC Köln,Leart Paqarada,22,0.0,0,Left Midfield
+3895258,FC Köln,Leverkusen,2024-03-03,Leverkusen,Edmond Fayçal Tapsoba,12,0.0,0,Left Center Back
+3895258,FC Köln,Leverkusen,2024-03-03,Leverkusen,Exequiel Alejandro Palacios,9,0.0,0,Right Defensive Midfield
+3895258,FC Köln,Leverkusen,2024-03-03,FC Köln,Steffen Tigges,9,0.0,0,Center Forward
+3895258,FC Köln,Leverkusen,2024-03-03,FC Köln,Benno Schmitz,8,0.0,0,Right Defensive Midfield
+3895258,FC Köln,Leverkusen,2024-03-03,FC Köln,Denis Huseinbašić,8,0.0,0,Right Midfield
+3895258,FC Köln,Leverkusen,2024-03-03,FC Köln,Justin Diehl,4,0.0,0,Center Forward
+3895244,FC Heidenheim,Leverkusen,2024-02-17,Leverkusen,Granit Xhaka,91,0.05,0,Left Defensive Midfield
+3895244,FC Heidenheim,Leverkusen,2024-02-17,Leverkusen,Josip Stanišić,91,0.0,0,Right Center Back
+3895244,FC Heidenheim,Leverkusen,2024-02-17,Leverkusen,Piero Martín Hincapié Reyna,91,0.02,0,Left Center Back
+3895244,FC Heidenheim,Leverkusen,2024-02-17,Leverkusen,Jeremie Frimpong,88,0.45,1,Right Wing Back
+3895244,FC Heidenheim,Leverkusen,2024-02-17,Leverkusen,Alejandro Grimaldo García,91,0.05,0,Left Wing Back
+3895244,FC Heidenheim,Leverkusen,2024-02-17,FC Heidenheim,Patrick Mainka,91,0.0,0,Right Center Back
+3895244,FC Heidenheim,Leverkusen,2024-02-17,Leverkusen,Patrik Schick,72,0.13,0,Right Center Forward
+3895244,FC Heidenheim,Leverkusen,2024-02-17,Leverkusen,Jonathan Tah,91,0.0,0,Center Back
+3895244,FC Heidenheim,Leverkusen,2024-02-17,Leverkusen,Florian Wirtz,87,0.24,0,Center Attacking Midfield
+3895244,FC Heidenheim,Leverkusen,2024-02-17,Leverkusen,Amine Adli,87,0.75,1,Left Center Forward
+3895244,FC Heidenheim,Leverkusen,2024-02-17,FC Heidenheim,Jan-Niklas Beste,75,0.0,0,Left Midfield
+3895244,FC Heidenheim,Leverkusen,2024-02-17,Leverkusen,Lukáš Hrádecký,91,0.0,0,Goalkeeper
+3895244,FC Heidenheim,Leverkusen,2024-02-17,FC Heidenheim,Omar Haktab Traorè,91,0.01,0,Right Back
+3895244,FC Heidenheim,Leverkusen,2024-02-17,FC Heidenheim,Adrian Beck,45,0.0,0,Left Center Midfield
+3895244,FC Heidenheim,Leverkusen,2024-02-17,FC Heidenheim,Eren Sami Dinkçi,75,0.0,0,Right Midfield
+3895244,FC Heidenheim,Leverkusen,2024-02-17,FC Heidenheim,Lennard Maloney,91,0.0,0,Center Defensive Midfield
+3895244,FC Heidenheim,Leverkusen,2024-02-17,FC Heidenheim,Kevin Müller,91,0.0,0,Goalkeeper
+3895244,FC Heidenheim,Leverkusen,2024-02-17,Leverkusen,Robert Andrich,91,0.1,0,Right Defensive Midfield
+3895244,FC Heidenheim,Leverkusen,2024-02-17,FC Heidenheim,Jan Schöppner,62,0.0,0,Right Center Midfield
+3895244,FC Heidenheim,Leverkusen,2024-02-17,FC Heidenheim,Jonas Föhrenbach,91,0.0,0,Left Back
+3895244,FC Heidenheim,Leverkusen,2024-02-17,FC Heidenheim,Benedikt Gimber,81,0.07,0,Left Center Back
+3895244,FC Heidenheim,Leverkusen,2024-02-17,FC Heidenheim,Tim Kleindienst,91,0.3,1,Center Forward
+3895244,FC Heidenheim,Leverkusen,2024-02-17,FC Heidenheim,Nikola Dovedan,46,0.06,0,Left Center Midfield
+3895244,FC Heidenheim,Leverkusen,2024-02-17,FC Heidenheim,Kevin Sessa,29,0.0,0,Right Center Midfield
+3895244,FC Heidenheim,Leverkusen,2024-02-17,Leverkusen,Borja Iglesias Quintas,19,0.02,0,Right Center Forward
+3895244,FC Heidenheim,Leverkusen,2024-02-17,FC Heidenheim,Florian Pick,16,0.03,0,Left Midfield
+3895244,FC Heidenheim,Leverkusen,2024-02-17,FC Heidenheim,Marnon Busch,16,0.0,0,Right Midfield
+3895244,FC Heidenheim,Leverkusen,2024-02-17,FC Heidenheim,Marvin Pieringer,10,0.0,0,Left Center Midfield
+3895244,FC Heidenheim,Leverkusen,2024-02-17,Leverkusen,Nathan Tella,3,0.0,0,Right Wing
+3895244,FC Heidenheim,Leverkusen,2024-02-17,Leverkusen,Jonas Hofmann,4,0.0,0,Center Attacking Midfield
+3895232,Leverkusen,Bayern Munich,2024-02-10,Bayern Munich,Leroy Sané,90,0.09,0,Right Attacking Midfield
+3895232,Leverkusen,Bayern Munich,2024-02-10,Bayern Munich,Manuel Neuer,90,0.0,0,Goalkeeper
+3895232,Leverkusen,Bayern Munich,2024-02-10,Leverkusen,Alejandro Grimaldo García,89,0.16,1,Left Wing Back
+3895232,Leverkusen,Bayern Munich,2024-02-10,Bayern Munich,Dayotchanculle Upamecano,59,0.0,0,Right Center Back
+3895232,Leverkusen,Bayern Munich,2024-02-10,Bayern Munich,Min Jae Kim,90,0.0,0,Left Center Back
+3895232,Leverkusen,Bayern Munich,2024-02-10,Leverkusen,Edmond Fayçal Tapsoba,90,0.0,0,Right Center Back
+3895232,Leverkusen,Bayern Munich,2024-02-10,Leverkusen,Josip Stanišić,90,0.32,1,Right Wing Back
+3895232,Leverkusen,Bayern Munich,2024-02-10,Leverkusen,Piero Martín Hincapié Reyna,90,0.03,0,Left Center Back
+3895232,Leverkusen,Bayern Munich,2024-02-10,Leverkusen,Robert Andrich,90,0.05,0,Left Defensive Midfield
+3895232,Leverkusen,Bayern Munich,2024-02-10,Leverkusen,Florian Wirtz,89,0.08,0,Center Forward
+3895232,Leverkusen,Bayern Munich,2024-02-10,Bayern Munich,Aleksandar Pavlović,59,0.0,0,Right Defensive Midfield
+3895232,Leverkusen,Bayern Munich,2024-02-10,Bayern Munich,Noussair Mazraoui,90,0.03,0,Right Wing Back
+3895232,Leverkusen,Bayern Munich,2024-02-10,Bayern Munich,Eric Dier,90,0.0,0,Center Back
+3895232,Leverkusen,Bayern Munich,2024-02-10,Bayern Munich,Sacha Boey,80,0.23,0,Left Wing Back
+3895232,Leverkusen,Bayern Munich,2024-02-10,Leverkusen,Jonathan Tah,90,0.05,0,Center Back
+3895232,Leverkusen,Bayern Munich,2024-02-10,Leverkusen,Lukáš Hrádecký,90,0.0,0,Goalkeeper
+3895232,Leverkusen,Bayern Munich,2024-02-10,Bayern Munich,Harry Kane,90,0.03,0,Center Forward
+3895232,Leverkusen,Bayern Munich,2024-02-10,Bayern Munich,Jamal Musiala,80,0.05,0,Left Attacking Midfield
+3895232,Leverkusen,Bayern Munich,2024-02-10,Leverkusen,Granit Xhaka,90,0.02,0,Right Defensive Midfield
+3895232,Leverkusen,Bayern Munich,2024-02-10,Leverkusen,Amine Adli,82,0.12,0,Left Attacking Midfield
+3895232,Leverkusen,Bayern Munich,2024-02-10,Bayern Munich,Leon Goretzka,70,0.11,0,Left Defensive Midfield
+3895232,Leverkusen,Bayern Munich,2024-02-10,Leverkusen,Nathan Tella,64,0.1,0,Right Attacking Midfield
+3895232,Leverkusen,Bayern Munich,2024-02-10,Bayern Munich,Joshua Kimmich,31,0.0,0,Right Center Back
+3895232,Leverkusen,Bayern Munich,2024-02-10,Bayern Munich,Thomas Müller,31,0.0,0,Right Defensive Midfield
+3895232,Leverkusen,Bayern Munich,2024-02-10,Leverkusen,Jeremie Frimpong,26,0.11,1,Right Attacking Midfield
+3895232,Leverkusen,Bayern Munich,2024-02-10,Bayern Munich,Mathys Tel,20,0.08,0,Left Defensive Midfield
+3895232,Leverkusen,Bayern Munich,2024-02-10,Bayern Munich,Raphaël Adelino José Guerreiro,10,0.0,0,Right Back
+3895232,Leverkusen,Bayern Munich,2024-02-10,Bayern Munich,Jean-Eric Maxim Choupo-Moting,10,0.0,0,Left Midfield
+3895232,Leverkusen,Bayern Munich,2024-02-10,Leverkusen,Jonas Hofmann,8,0.0,0,Left Attacking Midfield
+3895232,Leverkusen,Bayern Munich,2024-02-10,Leverkusen,Gustavo Adolfo Puerta Molano,1,0.0,0,Left Wing Back
+3895232,Leverkusen,Bayern Munich,2024-02-10,Leverkusen,Adam Hložek,1,0.0,0,Center Forward
+3895210,Leverkusen,M'gladbach,2024-01-27,Leverkusen,Granit Xhaka,90,0.02,0,Right Defensive Midfield
+3895210,Leverkusen,M'gladbach,2024-01-27,Leverkusen,Josip Stanišić,90,0.13,0,Right Center Back
+3895210,Leverkusen,M'gladbach,2024-01-27,Leverkusen,Alejandro Grimaldo García,90,0.22,0,Left Wing Back
+3895210,Leverkusen,M'gladbach,2024-01-27,Leverkusen,Piero Martín Hincapié Reyna,90,0.0,0,Left Center Back
+3895210,Leverkusen,M'gladbach,2024-01-27,Leverkusen,Nadiem Amiri,66,0.04,0,Left Defensive Midfield
+3895210,Leverkusen,M'gladbach,2024-01-27,Leverkusen,Robert Andrich,90,0.03,0,Center Back
+3895210,Leverkusen,M'gladbach,2024-01-27,Leverkusen,Jonas Hofmann,83,0.33,0,Right Wing
+3895210,Leverkusen,M'gladbach,2024-01-27,M'gladbach,Luca Netz,90,0.06,0,Left Wing Back
+3895210,Leverkusen,M'gladbach,2024-01-27,Leverkusen,Florian Wirtz,90,0.52,0,Left Wing
+3895210,Leverkusen,M'gladbach,2024-01-27,Leverkusen,Patrik Schick,90,0.33,0,Center Forward
+3895210,Leverkusen,M'gladbach,2024-01-27,M'gladbach,Nico Elvedi,90,0.0,0,Left Center Back
+3895210,Leverkusen,M'gladbach,2024-01-27,Leverkusen,Jeremie Frimpong,90,0.37,0,Right Wing Back
+3895210,Leverkusen,M'gladbach,2024-01-27,M'gladbach,Robin Hack,61,0.06,0,Left Center Forward
+3895210,Leverkusen,M'gladbach,2024-01-27,M'gladbach,Florian Neuhaus,78,0.04,0,Left Center Midfield
+3895210,Leverkusen,M'gladbach,2024-01-27,M'gladbach,Marvin Friedrich,90,0.0,0,Center Back
+3895210,Leverkusen,M'gladbach,2024-01-27,M'gladbach,Julian Weigl,90,0.0,0,Center Defensive Midfield
+3895210,Leverkusen,M'gladbach,2024-01-27,M'gladbach,Kouadio Emmanuel Koné,78,0.02,0,Right Center Midfield
+3895210,Leverkusen,M'gladbach,2024-01-27,M'gladbach,Franck Honorat,69,0.0,0,Right Wing Back
+3895210,Leverkusen,M'gladbach,2024-01-27,M'gladbach,Moritz Nicolas,90,0.0,0,Goalkeeper
+3895210,Leverkusen,M'gladbach,2024-01-27,M'gladbach,Joseph Scally,90,0.0,0,Right Center Back
+3895210,Leverkusen,M'gladbach,2024-01-27,M'gladbach,Theoson Jordan Siebatcheu,78,0.0,0,Right Center Forward
+3895210,Leverkusen,M'gladbach,2024-01-27,Leverkusen,Matěj Kovář,90,0.0,0,Goalkeeper
+3895210,Leverkusen,M'gladbach,2024-01-27,M'gladbach,Rocco Reitz,29,0.0,0,Left Center Forward
+3895210,Leverkusen,M'gladbach,2024-01-27,Leverkusen,Nathan Tella,24,0.45,0,Left Defensive Midfield
+3895210,Leverkusen,M'gladbach,2024-01-27,M'gladbach,Stefan Lainer,21,0.0,0,Right Wing Back
+3895210,Leverkusen,M'gladbach,2024-01-27,M'gladbach,Christoph Kramer,12,0.0,0,Left Center Midfield
+3895210,Leverkusen,M'gladbach,2024-01-27,Leverkusen,Adam Hložek,7,0.12,0,Right Wing
+3895210,Leverkusen,M'gladbach,2024-01-27,M'gladbach,Nathan Ngoumou Minpole,12,0.0,0,Right Center Forward
+3895210,Leverkusen,M'gladbach,2024-01-27,M'gladbach,Shio Fukuda,12,0.0,0,Left Center Forward
+3895202,RB Leipzig,Leverkusen,2024-01-20,RB Leipzig,Xavi Simons,83,0.07,1,Right Attacking Midfield
+3895202,RB Leipzig,Leverkusen,2024-01-20,RB Leipzig,Daniel Olmo Carvajal,74,0.04,0,Left Attacking Midfield
+3895202,RB Leipzig,Leverkusen,2024-01-20,RB Leipzig,Nicolas Seiwald,74,0.0,0,Right Defensive Midfield
+3895202,RB Leipzig,Leverkusen,2024-01-20,RB Leipzig,Lukas Klostermann,90,0.0,0,Right Center Back
+3895202,RB Leipzig,Leverkusen,2024-01-20,RB Leipzig,Junior Castello Lukeba,90,0.0,0,Left Center Back
+3895202,RB Leipzig,Leverkusen,2024-01-20,RB Leipzig,David Raum,90,0.0,0,Left Back
+3895202,RB Leipzig,Leverkusen,2024-01-20,RB Leipzig,Janis Blaswich,90,0.0,0,Goalkeeper
+3895202,RB Leipzig,Leverkusen,2024-01-20,Leverkusen,Exequiel Alejandro Palacios,87,0.05,0,Left Defensive Midfield
+3895202,RB Leipzig,Leverkusen,2024-01-20,RB Leipzig,Benjamin Šeško,73,0.42,0,Right Center Forward
+3895202,RB Leipzig,Leverkusen,2024-01-20,RB Leipzig,Ikoma Loïs Openda,90,0.27,1,Left Center Forward
+3895202,RB Leipzig,Leverkusen,2024-01-20,RB Leipzig,Mohamed Simakan,74,0.1,0,Right Back
+3895202,RB Leipzig,Leverkusen,2024-01-20,Leverkusen,Josip Stanišić,90,0.06,0,Right Center Back
+3895202,RB Leipzig,Leverkusen,2024-01-20,Leverkusen,Granit Xhaka,90,0.03,0,Right Defensive Midfield
+3895202,RB Leipzig,Leverkusen,2024-01-20,Leverkusen,Jonathan Tah,90,0.18,1,Center Back
+3895202,RB Leipzig,Leverkusen,2024-01-20,Leverkusen,Jeremie Frimpong,30,0.0,0,Right Wing Back
+3895202,RB Leipzig,Leverkusen,2024-01-20,RB Leipzig,Xaver Schlager,90,0.0,0,Left Defensive Midfield
+3895202,RB Leipzig,Leverkusen,2024-01-20,Leverkusen,Jonas Hofmann,90,0.02,0,Right Attacking Midfield
+3895202,RB Leipzig,Leverkusen,2024-01-20,Leverkusen,Patrik Schick,91,0.18,0,Center Forward
+3895202,RB Leipzig,Leverkusen,2024-01-20,Leverkusen,Florian Wirtz,90,0.17,0,Left Attacking Midfield
+3895202,RB Leipzig,Leverkusen,2024-01-20,Leverkusen,Lukáš Hrádecký,90,0.0,0,Goalkeeper
+3895202,RB Leipzig,Leverkusen,2024-01-20,Leverkusen,Piero Martín Hincapié Reyna,90,0.33,1,Left Center Back
+3895202,RB Leipzig,Leverkusen,2024-01-20,Leverkusen,Alejandro Grimaldo García,90,0.07,0,Left Wing Back
+3895202,RB Leipzig,Leverkusen,2024-01-20,Leverkusen,Nathan Tella,60,0.79,1,Right Wing Back
+3895202,RB Leipzig,Leverkusen,2024-01-20,RB Leipzig,Benjamin Henrichs,16,0.19,0,Right Back
+3895202,RB Leipzig,Leverkusen,2024-01-20,RB Leipzig,Yussuf Yurary Poulsen,17,0.0,0,Right Center Forward
+3895202,RB Leipzig,Leverkusen,2024-01-20,RB Leipzig,Kevin Kampl,16,0.0,0,Right Defensive Midfield
+3895202,RB Leipzig,Leverkusen,2024-01-20,RB Leipzig,Christoph Baumgartner,16,0.0,0,Left Attacking Midfield
+3895202,RB Leipzig,Leverkusen,2024-01-20,RB Leipzig,Eljif Elmas,7,0.0,0,Left Attacking Midfield
+3895202,RB Leipzig,Leverkusen,2024-01-20,Leverkusen,Robert Andrich,3,0.0,0,Left Defensive Midfield
+3895194,Augsburg,Leverkusen,2024-01-13,Augsburg,Ruben Vargas,61,0.03,0,Center Attacking Midfield
+3895194,Augsburg,Leverkusen,2024-01-13,Augsburg,Niklas Dorsch,90,0.0,0,Center Defensive Midfield
+3895194,Augsburg,Leverkusen,2024-01-13,Augsburg,Felix Uduokhai,90,0.0,0,Left Center Back
+3895194,Augsburg,Leverkusen,2024-01-13,Augsburg,Iago Amaral Borduchi,90,0.0,0,Left Back
+3895194,Augsburg,Leverkusen,2024-01-13,Leverkusen,Jonas Hofmann,90,0.16,0,Right Attacking Midfield
+3895194,Augsburg,Leverkusen,2024-01-13,Augsburg,Kevin Mbabu,90,0.0,0,Right Back
+3895194,Augsburg,Leverkusen,2024-01-13,Augsburg,Jeffrey Gouweleeuw,90,0.0,0,Right Center Back
+3895194,Augsburg,Leverkusen,2024-01-13,Leverkusen,Jeremie Frimpong,90,0.09,0,Right Wing Back
+3895194,Augsburg,Leverkusen,2024-01-13,Leverkusen,Granit Xhaka,90,0.11,0,Right Defensive Midfield
+3895194,Augsburg,Leverkusen,2024-01-13,Leverkusen,Josip Stanišić,90,0.0,0,Right Center Back
+3895194,Augsburg,Leverkusen,2024-01-13,Leverkusen,Lukáš Hrádecký,90,0.0,0,Goalkeeper
+3895194,Augsburg,Leverkusen,2024-01-13,Leverkusen,Piero Martín Hincapié Reyna,90,0.11,0,Left Center Back
+3895194,Augsburg,Leverkusen,2024-01-13,Leverkusen,Alejandro Grimaldo García,90,0.13,0,Left Wing Back
+3895194,Augsburg,Leverkusen,2024-01-13,Augsburg,Elvis Rexhbeçaj,87,0.0,0,Left Center Midfield
+3895194,Augsburg,Leverkusen,2024-01-13,Augsburg,Fredrik Jensen,79,0.0,0,Right Center Midfield
+3895194,Augsburg,Leverkusen,2024-01-13,Leverkusen,Exequiel Alejandro Palacios,90,0.17,1,Left Defensive Midfield
+3895194,Augsburg,Leverkusen,2024-01-13,Leverkusen,Robert Andrich,90,0.13,0,Center Back
+3895194,Augsburg,Leverkusen,2024-01-13,Augsburg,Ermedin Demirović,79,0.16,0,Left Center Forward
+3895194,Augsburg,Leverkusen,2024-01-13,Augsburg,Phillip Tietz,79,0.12,0,Right Center Forward
+3895194,Augsburg,Leverkusen,2024-01-13,Leverkusen,Adam Hložek,61,0.09,0,Left Attacking Midfield
+3895194,Augsburg,Leverkusen,2024-01-13,Leverkusen,Patrik Schick,90,0.45,0,Center Forward
+3895194,Augsburg,Leverkusen,2024-01-13,Augsburg,Finn Dahmen,90,0.0,0,Goalkeeper
+3895194,Augsburg,Leverkusen,2024-01-13,Leverkusen,Florian Wirtz,29,0.14,0,Left Attacking Midfield
+3895194,Augsburg,Leverkusen,2024-01-13,Augsburg,Arne Maier,29,0.0,0,Center Attacking Midfield
+3895194,Augsburg,Leverkusen,2024-01-13,Augsburg,Arne Engels,11,0.0,0,Right Center Midfield
+3895194,Augsburg,Leverkusen,2024-01-13,Augsburg,Sven Michel,11,0.0,0,Right Center Forward
+3895194,Augsburg,Leverkusen,2024-01-13,Augsburg,Dion Drena Beljo,11,0.0,0,Left Center Forward
+3895194,Augsburg,Leverkusen,2024-01-13,Augsburg,Robert Gumny,3,0.0,0,Left Center Midfield
+3895182,Leverkusen,Bochum,2023-12-20,Bochum,Anthony Losilla,86,0.04,0,Right Center Midfield
+3895182,Leverkusen,Bochum,2023-12-20,Bochum,Manuel Riemann,92,0.0,0,Goalkeeper
+3895182,Leverkusen,Bochum,2023-12-20,Leverkusen,Josip Stanišić,92,0.0,0,Right Center Back
+3895182,Leverkusen,Bochum,2023-12-20,Leverkusen,Jeremie Frimpong,92,0.21,0,Right Wing Back
+3895182,Leverkusen,Bochum,2023-12-20,Bochum,Christopher Antwi-Adjej,62,0.06,0,Left Wing
+3895182,Leverkusen,Bochum,2023-12-20,Bochum,Keven Schlotterbeck,92,0.0,0,Left Center Back
+3895182,Leverkusen,Bochum,2023-12-20,Bochum,Patrick Osterhage,92,0.06,0,Center Defensive Midfield
+3895182,Leverkusen,Bochum,2023-12-20,Leverkusen,Lukáš Hrádecký,92,0.0,0,Goalkeeper
+3895182,Leverkusen,Bochum,2023-12-20,Bochum,Cristian Gamboa Luna,92,0.0,0,Right Back
+3895182,Leverkusen,Bochum,2023-12-20,Leverkusen,Granit Xhaka,92,0.0,0,Right Defensive Midfield
+3895182,Leverkusen,Bochum,2023-12-20,Leverkusen,Patrik Schick,66,1.37,3,Center Forward
+3895182,Leverkusen,Bochum,2023-12-20,Bochum,Bernardo Fernandes da Silva Junior,92,0.05,0,Left Back
+3895182,Leverkusen,Bochum,2023-12-20,Bochum,Matúš Bero,92,0.03,0,Left Center Midfield
+3895182,Leverkusen,Bochum,2023-12-20,Leverkusen,Piero Martín Hincapié Reyna,72,0.15,0,Left Center Back
+3895182,Leverkusen,Bochum,2023-12-20,Leverkusen,Alejandro Grimaldo García,92,0.46,0,Left Wing Back
+3895182,Leverkusen,Bochum,2023-12-20,Leverkusen,Florian Wirtz,86,0.11,0,Left Attacking Midfield
+3895182,Leverkusen,Bochum,2023-12-20,Leverkusen,Robert Andrich,92,0.0,0,Left Defensive Midfield
+3895182,Leverkusen,Bochum,2023-12-20,Leverkusen,Jonathan Tah,66,0.0,0,Center Back
+3895182,Leverkusen,Bochum,2023-12-20,Leverkusen,Jonas Hofmann,72,0.13,0,Right Attacking Midfield
+3895182,Leverkusen,Bochum,2023-12-20,Bochum,Erhan Mašović,68,0.0,0,Right Center Back
+3895182,Leverkusen,Bochum,2023-12-20,Bochum,Gonçalo Mendes Paciencia,62,0.05,0,Center Forward
+3895182,Leverkusen,Bochum,2023-12-20,Bochum,Takuma Asano,45,0.0,0,Right Wing
+3895182,Leverkusen,Bochum,2023-12-20,Bochum,Danilo Teodoro Soares,47,0.0,0,Left Wing Back
+3895182,Leverkusen,Bochum,2023-12-20,Bochum,Moritz Broschinski,30,0.0,0,Left Wing
+3895182,Leverkusen,Bochum,2023-12-20,Bochum,Philipp Förster,30,0.0,0,Center Forward
+3895182,Leverkusen,Bochum,2023-12-20,Leverkusen,Edmond Fayçal Tapsoba,26,0.13,0,Center Back
+3895182,Leverkusen,Bochum,2023-12-20,Bochum,Noah Loosli,24,0.0,0,Right Center Back
+3895182,Leverkusen,Bochum,2023-12-20,Leverkusen,Adam Hložek,20,0.45,0,Right Attacking Midfield
+3895182,Leverkusen,Bochum,2023-12-20,Leverkusen,Gustavo Adolfo Puerta Molano,20,0.05,0,Left Center Back
+3895182,Leverkusen,Bochum,2023-12-20,Leverkusen,Victor Okoh Boniface,26,0.34,1,Center Forward
+3895182,Leverkusen,Bochum,2023-12-20,Leverkusen,Nadiem Amiri,6,0.0,0,Right Attacking Midfield
+3895182,Leverkusen,Bochum,2023-12-20,Bochum,Tim Oermann,6,0.0,0,Center Defensive Midfield
+3895167,Stuttgart,Leverkusen,2023-12-10,Stuttgart,Deniz Undav,84,0.55,0,Right Attacking Midfield
+3895167,Stuttgart,Leverkusen,2023-12-10,Stuttgart,Dan-Axel Zagadou,90,0.08,0,Center Back
+3895167,Stuttgart,Leverkusen,2023-12-10,Stuttgart,Serhou Guirassy,90,0.44,0,Center Forward
+3895167,Stuttgart,Leverkusen,2023-12-10,Stuttgart,Enzo Millot,65,0.0,0,Left Attacking Midfield
+3895167,Stuttgart,Leverkusen,2023-12-10,Stuttgart,Chris Führich,76,0.94,1,Left Wing Back
+3895167,Stuttgart,Leverkusen,2023-12-10,Stuttgart,Maximilian Mittelstädt,75,0.02,0,Left Center Back
+3895167,Stuttgart,Leverkusen,2023-12-10,Leverkusen,Jeremie Frimpong,90,0.07,0,Right Wing Back
+3895167,Stuttgart,Leverkusen,2023-12-10,Leverkusen,Lukáš Hrádecký,90,0.0,0,Goalkeeper
+3895167,Stuttgart,Leverkusen,2023-12-10,Stuttgart,Alexander Nübel,90,0.0,0,Goalkeeper
+3895167,Stuttgart,Leverkusen,2023-12-10,Stuttgart,Waldemar Anton,90,0.02,0,Right Center Back
+3895167,Stuttgart,Leverkusen,2023-12-10,Stuttgart,Josha Mamadou Karaboue Vagnoman,84,0.26,0,Right Wing Back
+3895167,Stuttgart,Leverkusen,2023-12-10,Leverkusen,Alejandro Grimaldo García,90,0.14,0,Left Wing Back
+3895167,Stuttgart,Leverkusen,2023-12-10,Leverkusen,Edmond Fayçal Tapsoba,90,0.0,0,Left Center Back
+3895167,Stuttgart,Leverkusen,2023-12-10,Leverkusen,Jonathan Tah,90,0.16,0,Center Back
+3895167,Stuttgart,Leverkusen,2023-12-10,Leverkusen,Exequiel Alejandro Palacios,83,0.0,0,Left Defensive Midfield
+3895167,Stuttgart,Leverkusen,2023-12-10,Leverkusen,Granit Xhaka,90,0.05,0,Right Defensive Midfield
+3895167,Stuttgart,Leverkusen,2023-12-10,Leverkusen,Odilon Kossonou,90,0.0,0,Right Center Back
+3895167,Stuttgart,Leverkusen,2023-12-10,Leverkusen,Florian Wirtz,90,0.57,1,Right Wing
+3895167,Stuttgart,Leverkusen,2023-12-10,Leverkusen,Amine Adli,65,0.13,0,Left Wing
+3895167,Stuttgart,Leverkusen,2023-12-10,Stuttgart,Atakan Karazor,90,0.03,0,Right Defensive Midfield
+3895167,Stuttgart,Leverkusen,2023-12-10,Stuttgart,Angelo Stiller,90,0.04,0,Left Defensive Midfield
+3895167,Stuttgart,Leverkusen,2023-12-10,Leverkusen,Victor Okoh Boniface,72,0.36,0,Center Forward
+3895167,Stuttgart,Leverkusen,2023-12-10,Stuttgart,Silas Katompa Mvumpa,25,0.03,0,Right Midfield
+3895167,Stuttgart,Leverkusen,2023-12-10,Leverkusen,Jonas Hofmann,25,0.02,0,Left Wing
+3895167,Stuttgart,Leverkusen,2023-12-10,Stuttgart,Jamie Leweling,14,0.0,0,Left Midfield
+3895167,Stuttgart,Leverkusen,2023-12-10,Stuttgart,Leonidas Stergiou,15,0.0,0,Left Back
+3895167,Stuttgart,Leverkusen,2023-12-10,Leverkusen,Patrik Schick,18,0.04,0,Center Forward
+3895167,Stuttgart,Leverkusen,2023-12-10,Stuttgart,Anthony Rouault,6,0.0,0,Left Back
+3895167,Stuttgart,Leverkusen,2023-12-10,Leverkusen,Piero Martín Hincapié Reyna,7,0.0,0,Left Defensive Midfield
+3895167,Stuttgart,Leverkusen,2023-12-10,Stuttgart,Woo-Yeong Jeong,6,0.0,0,Right Center Forward
+3895158,Leverkusen,Dortmund,2023-12-03,Dortmund,Marcel Sabitzer,90,0.0,0,Left Defensive Midfield
+3895158,Leverkusen,Dortmund,2023-12-03,Dortmund,Nico Schlotterbeck,63,0.0,0,Left Center Back
+3895158,Leverkusen,Dortmund,2023-12-03,Leverkusen,Granit Xhaka,90,0.23,0,Right Defensive Midfield
+3895158,Leverkusen,Dortmund,2023-12-03,Dortmund,Marius Wolf,90,0.0,0,Right Back
+3895158,Leverkusen,Dortmund,2023-12-03,Dortmund,Marco Reus,83,0.0,0,Right Wing
+3895158,Leverkusen,Dortmund,2023-12-03,Dortmund,Emre Can,90,0.0,0,Right Defensive Midfield
+3895158,Leverkusen,Dortmund,2023-12-03,Leverkusen,Jeremie Frimpong,90,0.08,0,Right Wing Back
+3895158,Leverkusen,Dortmund,2023-12-03,Leverkusen,Victor Okoh Boniface,90,1.08,1,Center Forward
+3895158,Leverkusen,Dortmund,2023-12-03,Leverkusen,Edmond Fayçal Tapsoba,90,0.0,0,Left Center Back
+3895158,Leverkusen,Dortmund,2023-12-03,Leverkusen,Exequiel Alejandro Palacios,78,0.2,0,Left Defensive Midfield
+3895158,Leverkusen,Dortmund,2023-12-03,Leverkusen,Florian Wirtz,90,0.07,0,Left Attacking Midfield
+3895158,Leverkusen,Dortmund,2023-12-03,Leverkusen,Alejandro Grimaldo García,90,0.12,0,Left Wing Back
+3895158,Leverkusen,Dortmund,2023-12-03,Leverkusen,Odilon Kossonou,90,0.1,0,Right Center Back
+3895158,Leverkusen,Dortmund,2023-12-03,Dortmund,Gregor Kobel,90,0.0,0,Goalkeeper
+3895158,Leverkusen,Dortmund,2023-12-03,Leverkusen,Jonathan Tah,90,0.12,0,Center Back
+3895158,Leverkusen,Dortmund,2023-12-03,Leverkusen,Lukáš Hrádecký,90,0.0,0,Goalkeeper
+3895158,Leverkusen,Dortmund,2023-12-03,Dortmund,Mats Hummels,90,0.0,0,Right Center Back
+3895158,Leverkusen,Dortmund,2023-12-03,Dortmund,Julian Brandt,90,0.06,0,Center Attacking Midfield
+3895158,Leverkusen,Dortmund,2023-12-03,Dortmund,Niclas Füllkrug,90,0.3,0,Center Forward
+3895158,Leverkusen,Dortmund,2023-12-03,Dortmund,Jamie Jermaine Bynoe-Gittens,64,0.07,0,Left Wing
+3895158,Leverkusen,Dortmund,2023-12-03,Dortmund,Julian Ryerson,90,0.38,1,Left Back
+3895158,Leverkusen,Dortmund,2023-12-03,Leverkusen,Jonas Hofmann,63,0.07,0,Right Attacking Midfield
+3895158,Leverkusen,Dortmund,2023-12-03,Leverkusen,Amine Adli,27,0.0,0,Right Attacking Midfield
+3895158,Leverkusen,Dortmund,2023-12-03,Dortmund,Karim-David Adeyemi,26,0.0,0,Left Wing
+3895158,Leverkusen,Dortmund,2023-12-03,Dortmund,Antonios Papadopoulos,27,0.0,0,Left Center Back
+3895158,Leverkusen,Dortmund,2023-12-03,Leverkusen,Patrik Schick,12,0.07,0,Left Defensive Midfield
+3895158,Leverkusen,Dortmund,2023-12-03,Dortmund,Thomas Meunier,7,0.0,0,Right Wing Back
+3895153,Werder Bremen,Leverkusen,2023-11-25,Werder Bremen,Jens Stage,90,0.0,0,Center Defensive Midfield
+3895153,Werder Bremen,Leverkusen,2023-11-25,Werder Bremen,Anthony Jung,82,0.0,0,Left Center Back
+3895153,Werder Bremen,Leverkusen,2023-11-25,Leverkusen,Piero Martín Hincapié Reyna,90,0.08,0,Left Center Back
+3895153,Werder Bremen,Leverkusen,2023-11-25,Leverkusen,Exequiel Alejandro Palacios,90,0.0,0,Left Defensive Midfield
+3895153,Werder Bremen,Leverkusen,2023-11-25,Werder Bremen,Olivier Deman,55,0.0,0,Left Wing Back
+3895153,Werder Bremen,Leverkusen,2023-11-25,Werder Bremen,Romano Schmid,82,0.0,0,Left Center Midfield
+3895153,Werder Bremen,Leverkusen,2023-11-25,Werder Bremen,Michael Zetterer,90,0.0,0,Goalkeeper
+3895153,Werder Bremen,Leverkusen,2023-11-25,Werder Bremen,Mitchell Weiser,90,0.0,0,Right Wing Back
+3895153,Werder Bremen,Leverkusen,2023-11-25,Werder Bremen,Leonardo Bittencourt,71,0.0,0,Right Center Midfield
+3895153,Werder Bremen,Leverkusen,2023-11-25,Leverkusen,Victor Okoh Boniface,70,0.44,0,Center Forward
+3895153,Werder Bremen,Leverkusen,2023-11-25,Leverkusen,Florian Wirtz,80,0.0,0,Left Attacking Midfield
+3895153,Werder Bremen,Leverkusen,2023-11-25,Leverkusen,Lukáš Hrádecký,90,0.0,0,Goalkeeper
+3895153,Werder Bremen,Leverkusen,2023-11-25,Leverkusen,Odilon Kossonou,90,0.0,0,Right Center Back
+3895153,Werder Bremen,Leverkusen,2023-11-25,Leverkusen,Robert Andrich,90,0.0,0,Center Back
+3895153,Werder Bremen,Leverkusen,2023-11-25,Leverkusen,Granit Xhaka,88,0.07,0,Right Defensive Midfield
+3895153,Werder Bremen,Leverkusen,2023-11-25,Werder Bremen,Marco Friedl,90,0.0,0,Center Back
+3895153,Werder Bremen,Leverkusen,2023-11-25,Werder Bremen,Milos Veljkovic,90,0.0,0,Right Center Back
+3895153,Werder Bremen,Leverkusen,2023-11-25,Leverkusen,Jonas Hofmann,88,0.1,0,Right Attacking Midfield
+3895153,Werder Bremen,Leverkusen,2023-11-25,Leverkusen,Jeremie Frimpong,80,0.2,1,Right Wing Back
+3895153,Werder Bremen,Leverkusen,2023-11-25,Werder Bremen,Marvin Ducksch,90,0.0,0,Left Center Forward
+3895153,Werder Bremen,Leverkusen,2023-11-25,Leverkusen,Alejandro Grimaldo García,90,0.09,1,Left Wing Back
+3895153,Werder Bremen,Leverkusen,2023-11-25,Werder Bremen,Rafael Santos Borré Amaury,71,0.06,0,Right Center Forward
+3895153,Werder Bremen,Leverkusen,2023-11-25,Werder Bremen,Felix Agu,35,0.0,0,Left Wing Back
+3895153,Werder Bremen,Leverkusen,2023-11-25,Leverkusen,Amine Adli,20,0.0,0,Center Forward
+3895153,Werder Bremen,Leverkusen,2023-11-25,Werder Bremen,Nick Woltemade,19,0.0,0,Right Center Forward
+3895153,Werder Bremen,Leverkusen,2023-11-25,Leverkusen,Adam Hložek,10,0.03,0,Right Attacking Midfield
+3895153,Werder Bremen,Leverkusen,2023-11-25,Leverkusen,Nathan Tella,10,0.0,0,Right Wing Back
+3895153,Werder Bremen,Leverkusen,2023-11-25,Werder Bremen,Justin Gideon Njinmah,19,0.13,0,Right Center Midfield
+3895153,Werder Bremen,Leverkusen,2023-11-25,Werder Bremen,Senne Lynen,8,0.0,0,Right Defensive Midfield
+3895153,Werder Bremen,Leverkusen,2023-11-25,Werder Bremen,Niklas Stark,8,0.0,0,Left Center Back
+3895153,Werder Bremen,Leverkusen,2023-11-25,Leverkusen,Gustavo Adolfo Puerta Molano,2,0.0,0,Left Defensive Midfield
+3895153,Werder Bremen,Leverkusen,2023-11-25,Leverkusen,Nadiem Amiri,2,0.08,0,Left Attacking Midfield
+3895113,Wolfsburg,Leverkusen,2023-10-21,Leverkusen,Exequiel Alejandro Palacios,90,0.0,0,Right Defensive Midfield
+3895113,Wolfsburg,Leverkusen,2023-10-21,Leverkusen,Josip Stanišić,87,0.0,0,Right Center Back
+3895113,Wolfsburg,Leverkusen,2023-10-21,Leverkusen,Jonathan Tah,90,0.03,0,Center Back
+3895113,Wolfsburg,Leverkusen,2023-10-21,Leverkusen,Edmond Fayçal Tapsoba,90,0.03,0,Left Center Back
+3895113,Wolfsburg,Leverkusen,2023-10-21,Leverkusen,Alejandro Grimaldo García,90,0.12,1,Left Wing Back
+3895113,Wolfsburg,Leverkusen,2023-10-21,Leverkusen,Granit Xhaka,90,0.0,0,Left Defensive Midfield
+3895113,Wolfsburg,Leverkusen,2023-10-21,Leverkusen,Amine Adli,59,0.04,0,Left Attacking Midfield
+3895113,Wolfsburg,Leverkusen,2023-10-21,Leverkusen,Lukáš Hrádecký,90,0.0,0,Goalkeeper
+3895113,Wolfsburg,Leverkusen,2023-10-21,Leverkusen,Jeremie Frimpong,87,0.93,1,Right Wing Back
+3895113,Wolfsburg,Leverkusen,2023-10-21,Leverkusen,Jonas Hofmann,87,0.0,0,Right Attacking Midfield
+3895113,Wolfsburg,Leverkusen,2023-10-21,Leverkusen,Victor Okoh Boniface,90,0.7,0,Center Forward
+3895113,Wolfsburg,Leverkusen,2023-10-21,Wolfsburg,Sebastiaan Bornauw,77,0.0,0,Right Center Back
+3895113,Wolfsburg,Leverkusen,2023-10-21,Wolfsburg,Pavao Pervan,90,0.0,0,Goalkeeper
+3895113,Wolfsburg,Leverkusen,2023-10-21,Wolfsburg,Maxence Lacroix,90,0.25,1,Left Center Back
+3895113,Wolfsburg,Leverkusen,2023-10-21,Wolfsburg,Tiago Barreiros de Melo Tomás,45,0.21,0,Left Center Forward
+3895113,Wolfsburg,Leverkusen,2023-10-21,Wolfsburg,Joakim Mæhle,90,0.0,0,Left Wing Back
+3895113,Wolfsburg,Leverkusen,2023-10-21,Wolfsburg,Maximilian Arnold,90,0.01,0,Center Defensive Midfield
+3895113,Wolfsburg,Leverkusen,2023-10-21,Wolfsburg,Mattias Svanberg,70,0.1,0,Left Center Midfield
+3895113,Wolfsburg,Leverkusen,2023-10-21,Wolfsburg,Moritz Jenz,90,0.0,0,Center Back
+3895113,Wolfsburg,Leverkusen,2023-10-21,Wolfsburg,Ridle Bote Baku,90,0.03,0,Right Wing Back
+3895113,Wolfsburg,Leverkusen,2023-10-21,Wolfsburg,Jonas Older Wind,90,0.4,0,Right Center Forward
+3895113,Wolfsburg,Leverkusen,2023-10-21,Wolfsburg,Yannick Gerhardt,77,0.08,0,Right Center Midfield
+3895113,Wolfsburg,Leverkusen,2023-10-21,Wolfsburg,Amin Sarr,45,0.0,0,Left Center Forward
+3895113,Wolfsburg,Leverkusen,2023-10-21,Leverkusen,Florian Wirtz,31,0.1,0,Left Attacking Midfield
+3895113,Wolfsburg,Leverkusen,2023-10-21,Wolfsburg,Lovro Majer,20,0.03,0,Left Center Midfield
+3895113,Wolfsburg,Leverkusen,2023-10-21,Wolfsburg,Kevin Paredes,13,0.09,0,Right Center Midfield
+3895113,Wolfsburg,Leverkusen,2023-10-21,Leverkusen,Nathan Tella,3,0.0,0,Right Wing Back
+3895113,Wolfsburg,Leverkusen,2023-10-21,Leverkusen,Nadiem Amiri,3,0.0,0,Right Attacking Midfield
+3895113,Wolfsburg,Leverkusen,2023-10-21,Wolfsburg,Jakub Kamiński,13,0.0,0,Right Center Back
+3895113,Wolfsburg,Leverkusen,2023-10-21,Leverkusen,Odilon Kossonou,3,0.0,0,Right Center Back
+3895095,FSV Mainz 05,Leverkusen,2023-09-30,Leverkusen,Exequiel Alejandro Palacios,91,0.0,0,Right Defensive Midfield
+3895095,FSV Mainz 05,Leverkusen,2023-09-30,Leverkusen,Odilon Kossonou,91,0.0,0,Right Center Back
+3895095,FSV Mainz 05,Leverkusen,2023-09-30,Leverkusen,Edmond Fayçal Tapsoba,91,0.0,0,Left Center Back
+3895095,FSV Mainz 05,Leverkusen,2023-09-30,Leverkusen,Jeremie Frimpong,85,0.0,0,Right Wing Back
+3895095,FSV Mainz 05,Leverkusen,2023-09-30,Leverkusen,Alejandro Grimaldo García,91,0.13,1,Left Wing Back
+3895095,FSV Mainz 05,Leverkusen,2023-09-30,Leverkusen,Jonathan Tah,91,0.0,0,Center Back
+3895095,FSV Mainz 05,Leverkusen,2023-09-30,Leverkusen,Jonas Hofmann,85,0.14,1,Left Attacking Midfield
+3895095,FSV Mainz 05,Leverkusen,2023-09-30,Leverkusen,Granit Xhaka,78,0.0,0,Left Defensive Midfield
+3895095,FSV Mainz 05,Leverkusen,2023-09-30,FSV Mainz 05,Robin Zentner,91,0.0,0,Goalkeeper
+3895095,FSV Mainz 05,Leverkusen,2023-09-30,FSV Mainz 05,Anthony Caci,91,0.0,0,Left Wing Back
+3895095,FSV Mainz 05,Leverkusen,2023-09-30,FSV Mainz 05,Edimilson Fernandes,91,0.01,0,Left Center Back
+3895095,FSV Mainz 05,Leverkusen,2023-09-30,FSV Mainz 05,Brajan Gruda,74,0.03,0,Right Wing
+3895095,FSV Mainz 05,Leverkusen,2023-09-30,Leverkusen,Lukáš Hrádecký,91,0.0,0,Goalkeeper
+3895095,FSV Mainz 05,Leverkusen,2023-09-30,FSV Mainz 05,Stefan Bell,91,0.05,0,Center Back
+3895095,FSV Mainz 05,Leverkusen,2023-09-30,FSV Mainz 05,Karim Onisiwo,83,0.16,0,Center Forward
+3895095,FSV Mainz 05,Leverkusen,2023-09-30,FSV Mainz 05,Jae-Sung Lee,68,0.0,0,Left Wing
+3895095,FSV Mainz 05,Leverkusen,2023-09-30,FSV Mainz 05,Leandro Barreiro Martins,91,0.0,0,Right Defensive Midfield
+3895095,FSV Mainz 05,Leverkusen,2023-09-30,Leverkusen,Florian Wirtz,62,0.0,0,Right Attacking Midfield
+3895095,FSV Mainz 05,Leverkusen,2023-09-30,FSV Mainz 05,Danny Vieira da Costa,68,0.0,0,Right Wing Back
+3895095,FSV Mainz 05,Leverkusen,2023-09-30,FSV Mainz 05,Sepp van den Berg,91,0.0,0,Right Center Back
+3895095,FSV Mainz 05,Leverkusen,2023-09-30,FSV Mainz 05,Dominik Kohr,69,0.04,0,Left Defensive Midfield
+3895095,FSV Mainz 05,Leverkusen,2023-09-30,Leverkusen,Victor Okoh Boniface,78,0.49,0,Center Forward
+3895095,FSV Mainz 05,Leverkusen,2023-09-30,Leverkusen,Amine Adli,29,0.04,0,Right Attacking Midfield
+3895095,FSV Mainz 05,Leverkusen,2023-09-30,FSV Mainz 05,Tom Krauß,22,0.05,0,Left Defensive Midfield
+3895095,FSV Mainz 05,Leverkusen,2023-09-30,FSV Mainz 05,Anwar El Ghazi,23,0.04,0,Right Wing Back
+3895095,FSV Mainz 05,Leverkusen,2023-09-30,FSV Mainz 05,Aymen Barkok,23,0.05,0,Left Wing
+3895095,FSV Mainz 05,Leverkusen,2023-09-30,FSV Mainz 05,Ludovic Ajorque,17,0.0,0,Right Wing
+3895095,FSV Mainz 05,Leverkusen,2023-09-30,Leverkusen,Adam Hložek,13,0.0,0,Center Forward
+3895095,FSV Mainz 05,Leverkusen,2023-09-30,Leverkusen,Robert Andrich,13,0.0,0,Left Defensive Midfield
+3895095,FSV Mainz 05,Leverkusen,2023-09-30,FSV Mainz 05,Marco Richter,8,0.0,0,Left Center Forward
+3895095,FSV Mainz 05,Leverkusen,2023-09-30,Leverkusen,Josip Stanišić,6,0.0,0,Right Wing Back
+3895095,FSV Mainz 05,Leverkusen,2023-09-30,Leverkusen,Nadiem Amiri,6,0.0,0,Right Attacking Midfield
+3895067,Leverkusen,Darmstadt 98,2023-09-02,Darmstadt 98,Marvin Mehlem,68,0.0,0,Right Center Midfield
+3895067,Leverkusen,Darmstadt 98,2023-09-02,Darmstadt 98,Christoph Zimmermann,68,0.0,0,Center Back
+3895067,Leverkusen,Darmstadt 98,2023-09-02,Darmstadt 98,Christoph Klarer,90,0.0,0,Right Center Back
+3895067,Leverkusen,Darmstadt 98,2023-09-02,Darmstadt 98,Oscar Vilhelmsson,58,0.54,1,Left Center Forward
+3895067,Leverkusen,Darmstadt 98,2023-09-02,Leverkusen,Granit Xhaka,79,0.04,0,Left Defensive Midfield
+3895067,Leverkusen,Darmstadt 98,2023-09-02,Leverkusen,Jonathan Tah,71,0.0,0,Center Back
+3895067,Leverkusen,Darmstadt 98,2023-09-02,Leverkusen,Exequiel Alejandro Palacios,65,0.07,1,Right Defensive Midfield
+3895067,Leverkusen,Darmstadt 98,2023-09-02,Leverkusen,Alejandro Grimaldo García,90,0.3,0,Left Wing Back
+3895067,Leverkusen,Darmstadt 98,2023-09-02,Leverkusen,Edmond Fayçal Tapsoba,90,0.07,0,Left Center Back
+3895067,Leverkusen,Darmstadt 98,2023-09-02,Leverkusen,Odilon Kossonou,90,0.0,0,Right Center Back
+3895067,Leverkusen,Darmstadt 98,2023-09-02,Leverkusen,Florian Wirtz,79,0.09,0,Left Wing
+3895067,Leverkusen,Darmstadt 98,2023-09-02,Leverkusen,Jonas Hofmann,90,0.57,1,Right Wing
+3895067,Leverkusen,Darmstadt 98,2023-09-02,Darmstadt 98,Fabian Nürnberger,25,0.0,0,Left Wing Back
+3895067,Leverkusen,Darmstadt 98,2023-09-02,Leverkusen,Victor Okoh Boniface,90,1.09,2,Center Forward
+3895067,Leverkusen,Darmstadt 98,2023-09-02,Leverkusen,Jeremie Frimpong,70,0.17,0,Right Wing Back
+3895067,Leverkusen,Darmstadt 98,2023-09-02,Leverkusen,Lukáš Hrádecký,90,0.0,0,Goalkeeper
+3895067,Leverkusen,Darmstadt 98,2023-09-02,Darmstadt 98,Bartol Franjić,90,0.0,0,Center Defensive Midfield
+3895067,Leverkusen,Darmstadt 98,2023-09-02,Darmstadt 98,Matthias Bader,90,0.0,0,Right Wing Back
+3895067,Leverkusen,Darmstadt 98,2023-09-02,Darmstadt 98,Marcel Schuhen,90,0.0,0,Goalkeeper
+3895067,Leverkusen,Darmstadt 98,2023-09-02,Darmstadt 98,Thomas Poppler Isherwood,58,0.0,0,Left Center Back
+3895067,Leverkusen,Darmstadt 98,2023-09-02,Darmstadt 98,Luca Pfeiffer,90,0.0,0,Right Center Forward
+3895067,Leverkusen,Darmstadt 98,2023-09-02,Darmstadt 98,Fabian Holland,90,0.0,0,Left Center Midfield
+3895067,Leverkusen,Darmstadt 98,2023-09-02,Darmstadt 98,Emir Karic,65,0.0,0,Left Wing Back
+3895067,Leverkusen,Darmstadt 98,2023-09-02,Darmstadt 98,Tim Skarke,32,0.04,0,Left Center Forward
+3895067,Leverkusen,Darmstadt 98,2023-09-02,Darmstadt 98,Filip Stojilković,32,0.0,0,Left Center Back
+3895067,Leverkusen,Darmstadt 98,2023-09-02,Leverkusen,Robert Andrich,25,0.0,0,Left Defensive Midfield
+3895067,Leverkusen,Darmstadt 98,2023-09-02,Darmstadt 98,Tobias Kempe,22,0.0,0,Right Midfield
+3895067,Leverkusen,Darmstadt 98,2023-09-02,Leverkusen,Nathan Tella,20,0.26,0,Right Wing Back
+3895067,Leverkusen,Darmstadt 98,2023-09-02,Leverkusen,Josip Stanišić,19,0.0,0,Center Back
+3895067,Leverkusen,Darmstadt 98,2023-09-02,Darmstadt 98,Matej Maglica,22,0.0,0,Left Center Back
+3895067,Leverkusen,Darmstadt 98,2023-09-02,Leverkusen,Noah Mbamba,11,0.05,0,Left Wing
+3895067,Leverkusen,Darmstadt 98,2023-09-02,Leverkusen,Adam Hložek,11,0.59,1,Right Defensive Midfield
+3895060,M'gladbach,Leverkusen,2023-08-26,M'gladbach,Alassane Pléa,90,0.02,0,Left Wing
+3895060,M'gladbach,Leverkusen,2023-08-26,M'gladbach,Ko Itakura,87,0.09,0,Center Back
+3895060,M'gladbach,Leverkusen,2023-08-26,Leverkusen,Granit Xhaka,90,0.04,0,Left Defensive Midfield
+3895060,M'gladbach,Leverkusen,2023-08-26,Leverkusen,Edmond Fayçal Tapsoba,90,0.0,0,Left Center Back
+3895060,M'gladbach,Leverkusen,2023-08-26,Leverkusen,Exequiel Alejandro Palacios,69,0.04,0,Right Defensive Midfield
+3895060,M'gladbach,Leverkusen,2023-08-26,Leverkusen,Alejandro Grimaldo García,90,0.1,0,Left Wing Back
+3895060,M'gladbach,Leverkusen,2023-08-26,Leverkusen,Victor Okoh Boniface,88,1.4,2,Center Forward
+3895060,M'gladbach,Leverkusen,2023-08-26,Leverkusen,Florian Wirtz,90,0.03,0,Left Wing
+3895060,M'gladbach,Leverkusen,2023-08-26,M'gladbach,Maximilian Wöber,90,0.0,0,Left Center Back
+3895060,M'gladbach,Leverkusen,2023-08-26,Leverkusen,Jonathan Tah,90,0.17,1,Center Back
+3895060,M'gladbach,Leverkusen,2023-08-26,Leverkusen,Odilon Kossonou,80,0.0,0,Right Center Back
+3895060,M'gladbach,Leverkusen,2023-08-26,M'gladbach,Jonas Omlin,90,0.0,0,Goalkeeper
+3895060,M'gladbach,Leverkusen,2023-08-26,Leverkusen,Jonas Hofmann,80,0.58,0,Right Wing
+3895060,M'gladbach,Leverkusen,2023-08-26,M'gladbach,Tomáš Čvančara,78,0.37,0,Center Forward
+3895060,M'gladbach,Leverkusen,2023-08-26,M'gladbach,Marvin Friedrich,90,0.2,0,Right Center Back
+3895060,M'gladbach,Leverkusen,2023-08-26,M'gladbach,Nathan Ngoumou Minpole,66,0.0,0,Right Wing
+3895060,M'gladbach,Leverkusen,2023-08-26,M'gladbach,Joseph Scally,90,0.01,0,Left Wing Back
+3895060,M'gladbach,Leverkusen,2023-08-26,Leverkusen,Jeremie Frimpong,68,0.04,0,Right Wing Back
+3895060,M'gladbach,Leverkusen,2023-08-26,M'gladbach,Franck Honorat,78,0.07,0,Right Wing Back
+3895060,M'gladbach,Leverkusen,2023-08-26,M'gladbach,Julian Weigl,90,0.0,0,Right Defensive Midfield
+3895060,M'gladbach,Leverkusen,2023-08-26,Leverkusen,Lukáš Hrádecký,90,0.0,0,Goalkeeper
+3895060,M'gladbach,Leverkusen,2023-08-26,M'gladbach,Florian Neuhaus,66,0.0,0,Left Defensive Midfield
+3895060,M'gladbach,Leverkusen,2023-08-26,Leverkusen,Robert Andrich,21,0.0,0,Right Defensive Midfield
+3895060,M'gladbach,Leverkusen,2023-08-26,M'gladbach,Rocco Reitz,24,0.0,0,Left Defensive Midfield
+3895060,M'gladbach,Leverkusen,2023-08-26,M'gladbach,Robin Hack,24,0.0,0,Left Wing
+3895060,M'gladbach,Leverkusen,2023-08-26,Leverkusen,Arthur Augusto de Matos Soares,22,0.0,0,Right Wing Back
+3895060,M'gladbach,Leverkusen,2023-08-26,M'gladbach,Yvandro Borges Sanches,12,0.0,0,Right Wing
+3895060,M'gladbach,Leverkusen,2023-08-26,Leverkusen,Josip Stanišić,10,0.0,0,Right Center Back
+3895060,M'gladbach,Leverkusen,2023-08-26,M'gladbach,Grant-Leon Ranos,12,0.03,0,Center Forward
+3895060,M'gladbach,Leverkusen,2023-08-26,Leverkusen,Adam Hložek,10,0.32,0,Right Wing
+3895060,M'gladbach,Leverkusen,2023-08-26,Leverkusen,Gustavo Adolfo Puerta Molano,2,0.0,0,Center Forward
+3895060,M'gladbach,Leverkusen,2023-08-26,M'gladbach,Lukas Ullrich,3,0.0,0,Right Center Back
+3895052,Leverkusen,RB Leipzig,2023-08-19,RB Leipzig,Ikoma Loïs Openda,74,1.08,1,Right Center Forward
+3895052,Leverkusen,RB Leipzig,2023-08-19,RB Leipzig,Daniel Olmo Carvajal,95,0.09,1,Left Center Forward
+3895052,Leverkusen,RB Leipzig,2023-08-19,RB Leipzig,Benjamin Henrichs,95,0.17,0,Right Back
+3895052,Leverkusen,RB Leipzig,2023-08-19,RB Leipzig,Mohamed Simakan,95,0.0,0,Right Center Back
+3895052,Leverkusen,RB Leipzig,2023-08-19,RB Leipzig,Willi Orban,95,0.0,0,Left Center Back
+3895052,Leverkusen,RB Leipzig,2023-08-19,Leverkusen,Odilon Kossonou,95,0.0,0,Right Center Back
+3895052,Leverkusen,RB Leipzig,2023-08-19,RB Leipzig,David Raum,95,0.0,0,Left Back
+3895052,Leverkusen,RB Leipzig,2023-08-19,RB Leipzig,Timo Werner,61,0.04,0,Left Midfield
+3895052,Leverkusen,RB Leipzig,2023-08-19,RB Leipzig,Xavi Simons,61,0.0,0,Right Midfield
+3895052,Leverkusen,RB Leipzig,2023-08-19,RB Leipzig,Janis Blaswich,95,0.0,0,Goalkeeper
+3895052,Leverkusen,RB Leipzig,2023-08-19,RB Leipzig,Nicolas Seiwald,61,0.0,0,Right Defensive Midfield
+3895052,Leverkusen,RB Leipzig,2023-08-19,RB Leipzig,Xaver Schlager,83,0.02,0,Left Defensive Midfield
+3895052,Leverkusen,RB Leipzig,2023-08-19,Leverkusen,Exequiel Alejandro Palacios,95,0.0,0,Right Defensive Midfield
+3895052,Leverkusen,RB Leipzig,2023-08-19,Leverkusen,Florian Wirtz,74,0.45,1,Left Wing
+3895052,Leverkusen,RB Leipzig,2023-08-19,Leverkusen,Granit Xhaka,95,0.02,0,Left Defensive Midfield
+3895052,Leverkusen,RB Leipzig,2023-08-19,Leverkusen,Jonas Hofmann,88,0.04,0,Right Wing
+3895052,Leverkusen,RB Leipzig,2023-08-19,Leverkusen,Jeremie Frimpong,77,0.49,1,Right Wing Back
+3895052,Leverkusen,RB Leipzig,2023-08-19,Leverkusen,Edmond Fayçal Tapsoba,95,0.0,0,Left Center Back
+3895052,Leverkusen,RB Leipzig,2023-08-19,Leverkusen,Alejandro Grimaldo García,95,0.13,0,Left Wing Back
+3895052,Leverkusen,RB Leipzig,2023-08-19,Leverkusen,Jonathan Tah,95,0.16,1,Center Back
+3895052,Leverkusen,RB Leipzig,2023-08-19,Leverkusen,Lukáš Hrádecký,95,0.0,0,Goalkeeper
+3895052,Leverkusen,RB Leipzig,2023-08-19,Leverkusen,Victor Okoh Boniface,88,0.21,0,Center Forward
+3895052,Leverkusen,RB Leipzig,2023-08-19,RB Leipzig,Junior Castello Lukeba,34,0.0,0,Right Defensive Midfield
+3895052,Leverkusen,RB Leipzig,2023-08-19,RB Leipzig,Kevin Kampl,34,0.0,0,Right Midfield
+3895052,Leverkusen,RB Leipzig,2023-08-19,RB Leipzig,Yussuf Yurary Poulsen,34,0.31,0,Left Midfield
+3895052,Leverkusen,RB Leipzig,2023-08-19,RB Leipzig,Emil Peter Forsberg,21,0.0,0,Right Attacking Midfield
+3895052,Leverkusen,RB Leipzig,2023-08-19,Leverkusen,Robert Andrich,21,0.0,0,Left Wing
+3895052,Leverkusen,RB Leipzig,2023-08-19,Leverkusen,Arthur Augusto de Matos Soares,18,0.02,0,Right Wing Back
+3895052,Leverkusen,RB Leipzig,2023-08-19,RB Leipzig,Fabio Carvalho,12,0.0,0,Left Defensive Midfield
+3895052,Leverkusen,RB Leipzig,2023-08-19,Leverkusen,Adam Hložek,7,0.0,0,Right Center Forward
+3895052,Leverkusen,RB Leipzig,2023-08-19,Leverkusen,Nadiem Amiri,7,0.0,0,Left Center Forward
