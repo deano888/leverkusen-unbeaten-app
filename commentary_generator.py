@@ -12,7 +12,19 @@ Usage:
     py commentary_generator.py --preview         # show briefs only, no API calls
 """
 
-import os, sys, json, time, argparse
+import os, sys, json, time, argparse, re
+try:
+    from player_nationalities import get_goal_cry, LEVERKUSEN_PHRASES
+except ImportError:
+    def get_goal_cry(name): return "GOAAAAAL!", "English", "🌍"
+    LEVERKUSEN_PHRASES = {}
+
+try:
+    from context_enricher import enrich_shot_context, build_context_flags, get_match_id_for_teams
+except ImportError:
+    def enrich_shot_context(*a, **k): return None
+    def build_context_flags(ctx): return ""
+    def get_match_id_for_teams(*a): return None
 import pandas as pd
 import requests
 
@@ -313,57 +325,56 @@ def call_claude(prompt, max_tokens=120):
     return data["content"][0]["text"].strip()
 
 
+def ordinal(n):
+    """Convert integer minute to ordinal string: 1 -> 1st, 2 -> 2nd, etc."""
+    n = int(n)
+    if 11 <= (n % 100) <= 13:
+        return f"{n}th"
+    return f"{n}{['th','st','nd','rd','th','th','th','th','th','th'][n%10]}"
+
 def generate_intro(match_brief, mb_str):
     mb = match_brief
     opp = mb["opponent"]
     lev_g, opp_g = mb["lev_goals"], mb["opp_goals"]
-    result_str = f"Leverkusen {lev_g}-{opp_g} {opp}"
-    if mb["lev_won"]:    result_context = "a win"
-    elif mb["lev_drew"]: result_context = "a draw"
-    else:                result_context = "a defeat"
 
-    # Build narrative hooks in plain English
-    hooks = []
-    if mb["ran_riot"]:        hooks.append(f"Leverkusen ran riot, winning {lev_g}-{opp_g}")
-    elif mb["easy_win"]:      hooks.append(f"a commanding {lev_g}-{opp_g} victory")
-    elif mb["tight_game"]:    hooks.append(f"a tight {lev_g}-{opp_g} win that required real resilience")
-    elif mb["ent_draw"]:      hooks.append(f"a {lev_g}-{opp_g} draw that had everything")
-    elif mb["lev_drew"]:      hooks.append(f"a {lev_g}-{opp_g} stalemate")
-
-    if mb["unbeaten_run"]:    hooks.append("completing an entire Bundesliga season unbeaten — a historic first")
-    if mb["title_clincher"]:  hooks.append("clinching the Bundesliga title in style")
-    if mb["late_drama"]:      hooks.append("drama in the dying minutes")
-    if mb["has_red_card"]:    hooks.append(f"{mb['red_card_team']} reduced to ten men in the {mb['red_minute']}th minute")
-    if mb["brace_scorer"]:    hooks.append(f"{mb['brace_scorer'][0]} bagged a brace")
-    if mb["hattrick"]:        hooks.append(f"{mb['hattrick'][0]} completed a hat-trick")
-    if mb["dominant_xg"]:     hooks.append(f"Leverkusen dominated the chances throughout")
-    if mb["few_chances"]:     hooks.append(f"Leverkusen rode their luck — they created very little")
-
+    hooks_list = []
+    if mb.get("unbeaten_run"):  hooks_list.append("This completes an entire Bundesliga season unbeaten — a historic first in German football")
+    if mb.get("title_clincher"):hooks_list.append("This match clinches the Bundesliga title")
+    if mb.get("ran_riot"):      hooks_list.append(f"Leverkusen ran riot, winning {lev_g}-{opp_g}")
+    elif mb.get("tight_game"): hooks_list.append(f"A tight {lev_g}-{opp_g} win — Leverkusen had to dig deep")
+    if mb.get("has_red_card"): hooks_list.append(f"{mb.get('red_card_team','a team')} reduced to ten men")
+    if mb.get("hattrick"):     hooks_list.append(f"{mb['hattrick'][0]} completed a hat-trick")
+    if mb.get("brace_scorer") and not mb.get("hattrick"):
+        hooks_list.append(f"{mb['brace_scorer'][0]} bagged a brace")
     scorers = mb.get("lev_scorers", [])
     if scorers:
-        scorer_names = ", ".join(s.split()[-1] for s in scorers[:3])
-        hooks.append(f"goals from {scorer_names}")
+        hooks_list.append("goals from " + ", ".join(s.split()[-1] for s in scorers[:3]))
+    hooks_str = "; ".join(hooks_list[:4]) if hooks_list else f"Leverkusen {lev_g}-{opp_g} {opp}"
 
-    hooks_str = "; ".join(hooks[:4]) if hooks else result_str
+    prompt = f"""You are directing a Bundesliga commentator using ElevenLabs Eleven v3 audio tags.
+Write a match INTRODUCTION — 2 sentences — using these emotion direction tags:
 
-    prompt = f"""You are a Bundesliga match commentator. Write a 2-sentence match introduction.
+Available tags: [calm, building] [quietly] [warmly] [EXCITED] [reverently] [pause]
 
-STRICT FACTS (do not change these):
-- Final score: {result_str}
-- Round: {mb["round"]}
-- Opponent: {opp}
-- Match storylines: {hooks_str}
+STRICT FACTS:
+- Result: Leverkusen {lev_g}-{opp_g} {opp}, Round {mb["round"]}
+- Storylines: {hooks_str}
+- Team nickname: Die Werkself
+- Stadium: the BayArena
 
-Sentence 1: State the result clearly and its significance to the season.
-Sentence 2: Pick ONE specific storyline from the match and describe it vividly.
+Sentence 1: Set the scene with calm authority — use [calm, building] or [quietly].
+Sentence 2: One specific storyline — build emotion — end with [warmly] or [reverently] if historic.
 
 Rules:
-- Never invent facts not in the storylines above.
-- Never say "xG".
-- Mix of authoritative broadcast and pub pundit energy.
-- Max 55 words total.
-Return only the two sentences, nothing else."""
-    return call_claude(prompt, max_tokens=130)
+- Never say "xG"
+- Never invent facts not in the storylines
+- If unbeaten season: the ending MUST carry weight — use [reverently] or [pause]
+- Max 50 words total including tags
+- Tags count toward the word limit — use 2-3 maximum
+
+Return ONLY the tagged commentary text. Nothing else."""
+    return call_claude(prompt, max_tokens=150)
+
 
 
 def generate_highlight(highlight_brief, match_brief, hb_str):
@@ -377,28 +388,34 @@ def generate_highlight(highlight_brief, match_brief, hb_str):
         hb  = highlight_brief
         who = "Leverkusen" if not hb["is_opponent_red"] else opp_name
         impact = "leaving Leverkusen a man down" if not hb["is_opponent_red"] else f"leaving {opp_name} with ten men"
-        timing = "early in the game — it changed everything" if hb["early_red"] else "a moment that shifted the match"
-        prompt = f"""Bundesliga commentator. ONE sentence (max 20 words) about this red card.
-FACTS: {hb['player']} ({who}) dismissed in minute {hb['minute']}. Score at the time: {hb['score_at']}. {impact}. {timing}.
-Style: dramatic and direct. Return only the sentence."""
+        prompt = f"""Bundesliga commentator using ElevenLabs Eleven v3 audio tags.
+ONE sentence (max 20 words) about this red card.
+
+Available tags: [calm] [SHOCKED] [gasps] [quietly] [dramatically]
+
+FACTS: {hb["player"]} ({who}) dismissed in minute {hb["minute"]}. Score: {hb["score_at"]}. {impact}.
+
+Use [gasps] or [SHOCKED] at the moment. End with weight — [quietly] or [dramatically].
+Return only the tagged sentence."""
+        return call_claude(prompt, max_tokens=80)
 
     else:
         hb       = highlight_brief
         is_goal  = hb["is_goal"]
         player   = hb["player"]
         minute   = hb["minute"]
+        minute_str = ordinal(minute)
         score    = hb["score_after"]
         xg       = hb["xg"]
         team     = hb["team"]
-        action   = "goal" if is_goal else "shot"
 
-        # Parse score to understand narrative
+        # Parse score
         parts     = score.split("-") if "-" in score else ["0","0"]
         h_s, a_s  = int(parts[0]), int(parts[1])
         lev_score = h_s if mb["lev_home"] else a_s
         opp_score = a_s if mb["lev_home"] else h_s
 
-        # Score BEFORE this goal
+        # Score before this goal
         if is_goal:
             if team == "Leverkusen":
                 score_before = f"{lev_score-1}-{opp_score}" if mb["lev_home"] else f"{opp_score}-{lev_score-1}"
@@ -407,77 +424,128 @@ Style: dramatic and direct. Return only the sentence."""
         else:
             score_before = score
 
-        # Narrative context — CRITICAL: tell AI exactly what this moment means
+        # Narrative context
         if is_goal and team == "Leverkusen":
             if lev_score == 1 and opp_score == 0:
                 moment = "opening goal — Leverkusen take the lead"
             elif lev_score > opp_score + 1:
-                moment = f"making it {score} — Leverkusen comfortable"
+                moment = f"making it {score} — Leverkusen in command"
             elif lev_score == opp_score + 1:
                 moment = f"the winner — final score will be {lev_g}-{opp_g}"
             else:
                 moment = f"goal for Leverkusen, score now {score}"
         elif is_goal and team != "Leverkusen":
             if opp_score > lev_score:
-                moment = f"{opp_name} take the lead at {score} — but Leverkusen will recover to win {lev_g}-{opp_g}"
+                moment = f"{opp_name} take the lead — but Leverkusen recover to win {lev_g}-{opp_g}"
             elif opp_score == lev_score:
-                moment = f"{opp_name} equalise at {score} — but Leverkusen already lead {lev_g}-{opp_g} at full time"
+                moment = f"{opp_name} equalise — but Leverkusen already lead {lev_g}-{opp_g} at full time"
             else:
-                moment = f"consolation goal for {opp_name}, making it {score} — Leverkusen win {lev_g}-{opp_g}"
+                moment = f"consolation for {opp_name}, making it {score} — Leverkusen win {lev_g}-{opp_g}"
         else:
             moment = f"chance for {team}, score {score}"
 
-        # xG + position translation (x coord: 84=pen box edge, 94=inside box, 102=six-yard)
-        shot_x = float(hb.get("x") or 90)   # StatsBomb x: 120=goal line
-        in_box       = shot_x > 84
-        six_yard     = shot_x > 102
-        outside_box  = shot_x <= 84
-
-        if xg > 0.60:
-            xg_desc = "clinical from close range" if six_yard else "in a commanding position"
-        elif xg > 0.30:
-            xg_desc = "a good chance inside the penalty area"
-        elif xg > 0.10:
-            if outside_box: xg_desc = "a decent effort from range"
-            else:           xg_desc = "a difficult chance from a tight angle"
-        elif xg > 0.05:
-            if outside_box: xg_desc = "a speculative effort from well outside the box"
-            else:           xg_desc = "a difficult chance — low probability from that position"
-        else:
-            if outside_box: xg_desc = "an audacious strike from distance — had no right to score that"
-            else:           xg_desc = "an improbable finish from a near-impossible angle"
+        # xG position description
+        shot_x   = float(hb.get("x") or 90)
+        in_box   = shot_x > 84
+        outside  = shot_x <= 84
+        if xg > 0.60:    xg_desc = "clinical from close range — in a dominant position"
+        elif xg > 0.30:  xg_desc = "a good chance in the penalty area"
+        elif xg > 0.10:  xg_desc = "a difficult chance" if in_box else "a decent effort from range"
+        elif xg > 0.05:  xg_desc = "a difficult angle inside the box" if in_box else "a speculative effort from distance"
+        else:            xg_desc = "an improbable finish from a near-impossible angle" if in_box else "an audacious strike from well outside the box"
 
         # Player context
         ps = fd_to_sb(player)
+        sb_ctx = hb.get("statsbomb_context", "")
         if ps:
             p_ctx = (f"{player}: {ps['note']}. "
                      f"IMPORTANT: {ps['g']} goals was their FINAL season total — "
-                     f"do NOT say they have scored {ps['g']} so far. "
-                     f"Say: 'one of his {ps['g']} for the campaign' or 'would end with {ps['g']} this season' "
-                     f"or simply describe their quality without a number.")
+                     f"use retrospective language: 'one of his {ps["g"]} for the campaign'.")
         else:
             p_ctx = f"{player}."
 
-        prompt = f"""You are a Bundesliga commentator covering Leverkusen's historic unbeaten 2023/24 season.
-Write ONE sentence (max 25 words) for this {action}.
+        # Milestone flags
+        milestone = ""
+        if hb.get("hattrick_complete"): milestone = "HAT-TRICK COMPLETE — this is the primary story, lead with it"
+        elif hb.get("brace"):           milestone = "player's second goal of the night — mention brace"
+        elif hb.get("hattrick_extend"): milestone = "fourth or fifth goal — extraordinary night"
 
-STRICT FACTS (never contradict these):
+        # ── MULTILINGUAL GOAL CRY ──────────────────────────────────────────
+        goal_cry, goal_lang, goal_flag = get_goal_cry(player)
+
+        # Build the language instruction
+        if goal_lang == "German":
+            lang_instruction = f'After the English goal call, use the German: "{goal_cry}" — this is the Bundesliga home language'
+            lang_instruction = f"After the English call, add \"{goal_cry}\" — the language of this player's footballing soul"
+            lang_instruction = f"After the English call, add \"{goal_cry}\" — celebrating in the player's Nigerian heritage"
+        elif goal_lang == "French":
+            lang_instruction = f'After the English call, add "{goal_cry}" — French flair for a French player'
+        elif goal_lang == "Dutch":
+            lang_instruction = f'After the English call, add "{goal_cry}" — Dutch football culture'
+        elif goal_lang == "Czech":
+            lang_instruction = f'After the English call, add "{goal_cry}" — celebrating in Czech'
+        elif goal_lang == "Croatian":
+            lang_instruction = f'After the English call, add "{goal_cry}" — Croatian passion'
+        else:
+            lang_instruction = f'After the English call, add "{goal_cry}"'
+
+        # ── HISTORIC SEASON ENDING ─────────────────────────────────────────
+        is_last_match = mb.get("unbeaten_run", False)
+        if is_last_match and mb.get("round") == 34:
+            ending_instruction = ('IMPORTANT: This is the final matchday of the unbeaten season. '
+                                  'End with [reverently] and a single phrase about history. '
+                                  'Example: [reverently] Ungeschlagen. Unbeaten. Forever.')
+        else:
+            ending_instruction = 'End with [warmly] and a brief reflection connecting to the season story.'
+
+        prompt = f"""You are directing a Bundesliga commentator performance using ElevenLabs Eleven v3 audio tags.
+Write ONE commentary sequence (max 35 words) for this {"GOAL" if is_goal else "shot"}.
+
+AVAILABLE AUDIO TAGS:
+- [calm, building] — pre-goal tension, quiet anticipation
+- [EXCITED] — accelerating toward the moment
+- [SHOUTING] — the goal cry itself (loudest point)
+- [crowd cheering] — place ONCE after the goal cry
+- [pause] — a beat of silence (use ... or [pause])
+- [warmly] — joy and celebration
+- [reverently] — historic weight, quiet significance
+- [gasps] — near miss or shock
+
+STRUCTURE for a goal:
+1. [calm, building] — one phrase of anticipation (optional but powerful)
+2. [EXCITED] — the approach
+3. [SHOUTING] GOAAAAAL! {goal_cry} [crowd cheering]
+4. [pause]
+5. [warmly] or [reverently] — the reflection
+
+STRICT FACTS:
 - Player: {player} ({team})
-- Minute: {minute}
-- Score before: {score_before} → Score after: {score}
-- Final score of match: Leverkusen {lev_g}-{opp_g} {opp_name}
+- Minute: the {minute_str}
+- Score: {score_before} → {score}
+- Final score: Leverkusen {lev_g}-{opp_g} {opp_name}
 - This moment: {moment}
 - Shot quality: {xg_desc}
 - {p_ctx}
+{f"- Milestone: {milestone}" if milestone else ""}
+{f"- Shot context: {sb_ctx}" if sb_ctx else ""}
 
-Tone: {"celebrate with energy" if (is_goal and team=="Leverkusen") else "dramatic but factually grounded" if is_goal else "describe the danger and quality"}.
-Rules: Never say "xG". Never invent facts. Use the moment description to frame the commentary.
-Return only the sentence."""
+MULTILINGUAL INSTRUCTION:
+{lang_instruction}
 
-    return call_claude(prompt, max_tokens=80)
+{ending_instruction}
 
+STYLE RULES:
+- Never say "xG"
+- Never invent facts
+- The goal cry must be the loudest, most extended moment
+- After the goal cry, always drop in energy — warmth or reverence
+- Peter Drury style: lyrical, specific, not generic
+- {"This is an OPPONENT goal — be accurate about who scored and what it means" if team != "Leverkusen" else ""}
 
-# ── Main ─────────────────────────────────────────────────────────────────────
+Return ONLY the tagged commentary text. No preamble."""
+
+        return call_claude(prompt, max_tokens=120)
+
 
 def main():
     parser = argparse.ArgumentParser()
@@ -606,6 +674,9 @@ def main():
         shot_items = [{**s,"type":"shot"} for s in shot_seq]
         combined   = sorted(shot_items + rc_items, key=lambda x: x["minute"])
 
+        # Look up match_id for context enrichment
+        _mid = get_match_id_for_teams(home, away)
+
         # Track per-player goal count for this match (for brace/hattrick milestone logic)
         player_goal_counts = {}
         highlight_briefs = []
@@ -616,7 +687,20 @@ def main():
                 num = player_goal_counts[p]
             else:
                 num = 1
-            highlight_briefs.append(build_highlight_brief(h, match_brief, player_goal_num=num))
+            hb = build_highlight_brief(h, match_brief, player_goal_num=num)
+            # Enrich with StatsBomb event context (set piece, technique, assist)
+            if _mid and h.get("type") == "shot":
+                ctx = enrich_shot_context(_mid, h.get("player",""), h.get("minute", 0))
+                hb["statsbomb_context"] = build_context_flags(ctx)
+                if ctx:
+                    hb["technique"]    = ctx.get("technique","")
+                    hb["assist_player"]= ctx.get("assist_player","")
+                    hb["cross_assist"] = ctx.get("cross_assist", False)
+                    hb["shot_type"]    = ctx.get("shot_type","Open Play")
+                    hb["play_pattern"] = ctx.get("play_pattern","")
+            else:
+                hb["statsbomb_context"] = ""
+            highlight_briefs.append(hb)
 
         # Display brief for review
         format_brief_for_display(match_brief, highlight_briefs)

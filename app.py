@@ -11,6 +11,7 @@ from badges import badge_svg
 from xg_loader import build_xg_lookup, get_match_xg, get_players, get_key_events
 from shot_loader import get_shot_sequence, get_all_shots_for_commentary as get_all_shots
 from voice_loader import play_audio, has_audio, get_audio_duration
+import json
 
 st.set_page_config(
     page_title="Bundesliga 2023/24",
@@ -199,6 +200,111 @@ div[data-testid="stProgressBar"] > div > div {
     background: linear-gradient(90deg, #d20515, #ff6020) !important;
 }
 hr { border-color: #181830 !important; }
+/* ── View tabs ──────────────────────────────────────────────────────────── */
+.view-tabs { display:flex; gap:6px; margin:14px auto 10px; width:62%; }
+.vtab {
+    flex:1; text-align:center; padding:7px 0;
+    border-radius:8px; cursor:pointer;
+    font-size:.72rem; font-weight:700; letter-spacing:.8px;
+    text-transform:uppercase;
+    background:#0e0e1c; border:1px solid #1a1a32; color:#555570;
+    transition: all .2s;
+}
+.vtab.active {
+    background:#d20515; border-color:#d20515; color:#fff;
+    box-shadow: 0 0 10px rgba(210,5,21,.3);
+}
+
+/* ── League Table ──────────────────────────────────────────────────────── */
+.league-table { width:100%; border-collapse:collapse; margin-top:8px; }
+.league-table th {
+    font-size:.6rem; color:#555570; text-transform:uppercase;
+    letter-spacing:.8px; padding:5px 8px; border-bottom:1px solid #1a1a32;
+    text-align:center;
+}
+.league-table th:first-child { text-align:left; padding-left:10px; }
+.league-table td {
+    font-size:.8rem; color:#c8c8e0; padding:6px 8px;
+    border-bottom:1px solid #0e0e1c; text-align:center;
+}
+.league-table td:first-child { text-align:left; padding-left:10px; }
+.league-table tr:hover td { background:#0e0e1c; }
+.lev-row td { color:#fff !important; font-weight:700; }
+.lev-row td:nth-child(2) { color:#ffc800 !important; }
+.pos-num { color:#555570; font-size:.72rem; margin-right:6px; }
+.pts-cell { color:#d20515 !important; font-weight:800; font-size:.88rem; }
+.gd-pos { color:#60c878; }
+.gd-neg { color:#e05050; }
+
+/* ── Top Scorers ────────────────────────────────────────────────────────── */
+.scorer-table { width:100%; border-collapse:collapse; margin-top:8px; }
+.scorer-table th {
+    font-size:.6rem; color:#555570; text-transform:uppercase;
+    letter-spacing:.8px; padding:5px 8px; border-bottom:1px solid #1a1a32;
+}
+.scorer-table th:first-child { text-align:center; width:40px; }
+.scorer-table th:nth-child(2) { text-align:left; }
+.scorer-table td {
+    font-size:.8rem; color:#c8c8e0; padding:6px 8px;
+    border-bottom:1px solid #0e0e1c;
+}
+.scorer-table td:first-child { text-align:center; color:#555570; font-size:.72rem; }
+.scorer-goals { color:#d20515; font-weight:800; font-size:.95rem; text-align:right; }
+.scorer-lev td:nth-child(2) { color:#fff; font-weight:700; }
+.scorer-lev .scorer-goals { color:#ffc800; }
+
+/* ── Chatbot ─────────────────────────────────────────────────────────────── */
+.chat-wrap { margin-top: 18px; border-top: 1px solid #1a1a32; padding-top: 14px; }
+.chat-label { font-size:.6rem; color:#9090b8; text-transform:uppercase;
+              letter-spacing:1px; margin-bottom:8px; }
+.chat-bubble-user { background:#1a1a32; border-radius:10px 10px 2px 10px;
+    padding:8px 12px; margin:6px 0; font-size:.82rem; color:#c8c8e0;
+    max-width:85%; margin-left:auto; text-align:right; }
+.chat-bubble-bot { background:#0e0e1c; border:1px solid #1a1a32;
+    border-radius:10px 10px 10px 2px; padding:8px 12px; margin:6px 0;
+    font-size:.82rem; color:#e0e0f0; max-width:92%; }
+.chat-tier { font-size:.6rem; color:#555570; margin-top:3px; }
+.suggest-btn { display:inline-block; margin:3px; padding:3px 9px;
+    background:#0e0e1c; border:1px solid #2a2a4a; border-radius:12px;
+    font-size:.68rem; color:#9090b8; cursor:pointer; }
+
+/* ── MOBILE RESPONSIVE ─────────────────────────────────────────────── */
+@media (max-width: 768px) {
+
+    /* Header */
+    .dash-header h1 { font-size: 1.1rem !important; }
+
+    /* Match rows — stack better on small screens */
+    .mteam { font-size: .75rem !important; }
+    .mscore { font-size: 1.1rem !important; padding: 4px 10px !important; }
+
+    /* Dialog — full width on mobile */
+    div[data-testid="stModal"] > div {
+        width: 100% !important;
+        max-width: 100% !important;
+        margin: 0 !important;
+        border-radius: 0 !important;
+    }
+
+    /* Shot map SVG — scale down */
+    svg { max-width: 100% !important; height: auto !important; }
+
+    /* About page grid — single column */
+    .ab-grid {
+        grid-template-columns: 1fr !important;
+    }
+
+    /* Stats grid — 3 columns instead of 5 */
+    .ab-stats { flex-wrap: wrap !important; }
+    .ab-stat { min-width: 30% !important; }
+
+    /* Shot card — constrain width */
+    div[style*="width:560px"] {
+        width: 100% !important;
+        max-width: 560px !important;
+    }
+}
+
 
 /* Crush column gaps inside dialog */
 div[data-testid="stModal"] div[data-testid="stHorizontalBlock"] {
@@ -392,7 +498,7 @@ def show_about():
   <div class="ab-sec ab-sec-gold">
     <div class="ab-label">The Builder</div>
         <p class="ab-p">I'm an experienced <strong>data analyst</strong> with a passion for bringing data to life — by making it useful and beautiful.</p>
-    <p class="ab-p">This project combines many of my interests — sports analytics, AI integration, and building tools that make complex data accessible and exciting — to relive this unique Leverkusen achievement.</p>
+    <p class="ab-p">This project combines many of my interests — sports analytics, AI integration, and building tools that make complex data accessible and exciting. And it's great fun to relive this unique Leverkusen achievement.</p>
     <p class="ab-p" style="margin:0;">If you're interested in data analytics, sports data,
     or just want to talk football — I'd love to hear from you.</p>
     <div style="margin-top:16px;">
@@ -894,11 +1000,29 @@ def show_match_dialog(row):
         hl_wait = get_audio_duration(home, away, "highlight", i, fallback=5.0) + 0.3
         time.sleep(hl_wait)
 
+    # Chatbot removed — use tabs for stats instead
+
     # ── PHASE 3: static summary — all at once ─────────────────────────────────
     main_ph.markdown(static_summary_html(), unsafe_allow_html=True)
 
 
 # ── Data ─────────────────────────────────────────────────────────────────────
+@st.cache_data
+def load_league_tables():
+    try:
+        with open("statsbomb_cache/league_tables.json") as f:
+            return json.load(f)
+    except Exception:
+        return {}
+
+@st.cache_data
+def load_top_scorers():
+    try:
+        with open("statsbomb_cache/top_scorers.json") as f:
+            return json.load(f)
+    except Exception:
+        return {}
+
 @st.cache_data(ttl=3600)
 def cached_load():
     return load_data()
@@ -960,11 +1084,28 @@ def main():
         btn_label = "← Back" if is_about else "About"
         if st.button(btn_label, key="nav_btn"):
             st.session_state.page = "about" if not is_about else "matches"
+            st.session_state["stop_audio"] = True
             st.rerun()
+
+    if st.session_state.get("stop_audio"):
+        import streamlit.components.v1 as _stc
+        _stc.html("""<script>
+        var audios = window.parent.document.querySelectorAll("audio");
+        for(var i=0;i<audios.length;i++){
+            audios[i].pause();
+            audios[i].currentTime=0;
+            audios[i].src="";
+        }
+        </script>""", height=0)
+        st.session_state["stop_audio"] = False
 
     if st.session_state.page == "about":
         show_about()
         return
+
+    # Load pre-calculated tables
+    all_league_tables = load_league_tables()
+    all_top_scorers   = load_top_scorers()
 
     with st.spinner(""):
         try:
@@ -978,17 +1119,65 @@ def main():
 
     xg_lookup = _cached_xg()
 
+    # ── View selector tabs ────────────────────────────────────────────────────
+    if "view_tab" not in st.session_state:
+        st.session_state.view_tab = "results"
+
+    st.markdown("""<style>
+    div[data-testid="stHorizontalBlock"] div[data-testid="stButton"] button {
+        background: #080810 !important; border: 1.5px solid #ffc800 !important;
+        color: #ffc800 !important; font-size: .62rem !important;
+        font-weight: 700 !important; letter-spacing: .8px !important;
+        padding: 4px 8px !important; border-radius: 20px !important;
+        height: auto !important; min-height: 0 !important;
+    }
+    div[data-testid="stHorizontalBlock"] div[data-testid="stButton"] button[kind="primary"] {
+        background: #d20515 !important; border-color: #d20515 !important;
+        color: #fff !important; box-shadow: 0 0 10px rgba(210,5,21,.3) !important;
+    }
+    </style>""", unsafe_allow_html=True)
+
+    _, col_r, col_l, col_s, _ = st.columns([1.5, 2, 2, 2, 1.5])
+    with col_r:
+        if st.button("📅  Results", key="tab_results",
+                     type="primary" if st.session_state.view_tab=="results" else "secondary",
+                     use_container_width=True):
+            st.session_state.view_tab = "results"
+            st.session_state["stop_audio"] = True; st.rerun()
+    with col_l:
+        if st.button("🏆  League Table", key="tab_league",
+                     type="primary" if st.session_state.view_tab=="league" else "secondary",
+                     use_container_width=True):
+            st.session_state.view_tab = "league"
+            st.session_state["stop_audio"] = True; st.rerun()
+    with col_s:
+        if st.button("⚽  Top Scorers", key="tab_scorers",
+                     type="primary" if st.session_state.view_tab=="scorers" else "secondary",
+                     use_container_width=True):
+            st.session_state.view_tab = "scorers"
+            st.session_state["stop_audio"] = True; st.rerun()
+
     _l, sel_col, badge_col, _r = st.columns([3, 3, 1, 3])
 
     with sel_col:
         rounds_desc = sorted(rounds, reverse=True)  # 34,33,32...
+        # Preserve selected matchday across tab switches
+        if "selected_md" not in st.session_state:
+            st.session_state.selected_md = rounds_desc[0]
+        if st.session_state.selected_md not in rounds_desc:
+            st.session_state.selected_md = rounds_desc[0]
         selected = st.selectbox(
             "Matchday",
             options=rounds_desc,
-            index=0,  # MD34 first
+            index=rounds_desc.index(st.session_state.selected_md),
             format_func=lambda r: f"Matchday {r}",
             label_visibility="collapsed",
+            key="md_selector",
         )
+        if st.session_state.get("_prev_md") != selected:
+            st.session_state["stop_audio"] = True
+        st.session_state["_prev_md"] = selected
+        st.session_state.selected_md = selected
 
     with badge_col:
         st.markdown(f"""
@@ -1000,6 +1189,65 @@ def main():
 
     LEV_STATS_FROM_ROUND = 25   # Stats+ (xG + players) only from this round onwards
     round_df = df.filter(pl.col("Round") == selected)
+
+    # ── LEAGUE TABLE VIEW ─────────────────────────────────────────────────────
+    if st.session_state.view_tab == "league":
+        md_key = str(selected)
+        table_rows = all_league_tables.get(md_key, [])
+        st.markdown(f'<p style="color:#555570;font-size:.75rem;text-align:center;margin-bottom:8px;">'  
+                    f'Bundesliga table after Matchday {selected}</p>', unsafe_allow_html=True)
+        if not table_rows:
+            st.info("Run build_tables.py to generate league tables.")
+        else:
+            html = '<table class="league-table" style="width:75%;margin:0 auto;"><thead><tr>'
+            html += '<th style="width:28px"></th><th style="text-align:left">Club</th>'
+            html += '<th>P</th><th>W</th><th>D</th><th>L</th>'
+            html += '<th>GF</th><th>GA</th><th>GD</th><th>Pts</th></tr></thead><tbody>'
+            for i, r in enumerate(table_rows, 1):
+                is_lev = "Leverkusen" in r["team"]
+                row_cls = "lev-row" if is_lev else ""
+                gd = r["gd"]
+                gd_cls = "gd-pos" if gd > 0 else "gd-neg" if gd < 0 else ""
+                gd_str = f"+{gd}" if gd > 0 else str(gd)
+                badge = badge_svg(r["team"], 18)
+                html += f'<tr class="{row_cls}">'
+                html += f'<td class="pos-num">{i}</td>'
+                html += f'<td>{badge} {r["team"]}</td>'
+                html += f'<td>{r["played"]}</td>'
+                html += f'<td>{r["won"]}</td><td>{r["drawn"]}</td><td>{r["lost"]}</td>'
+                html += f'<td>{r["gf"]}</td><td>{r["ga"]}</td>'
+                html += f'<td class="{gd_cls}">{gd_str}</td>'
+                html += f'<td class="pts-cell">{r["pts"]}</td></tr>'
+            html += '</tbody></table>'
+            st.markdown(html, unsafe_allow_html=True)
+        return
+
+    # ── TOP SCORERS VIEW ──────────────────────────────────────────────────────
+    if st.session_state.view_tab == "scorers":
+        md_key = str(selected)
+        scorer_rows = all_top_scorers.get(md_key, [])
+        st.markdown(f'<p style="color:#555570;font-size:.75rem;text-align:center;margin-bottom:8px;">'
+                    f'Top scorers after Matchday {selected}</p>', unsafe_allow_html=True)
+        if not scorer_rows:
+            st.info("Run build_tables.py to generate top scorer tables.")
+        else:
+            html = '<table class="scorer-table" style="width:55%;margin:0 auto;"><thead><tr>'
+            html += '<th>#</th><th style="text-align:left">Player</th>'
+            html += '<th style="text-align:left">Club</th>'
+            html += '<th style="text-align:right;padding-right:12px">Goals</th></tr></thead><tbody>'
+            for s in scorer_rows:
+                is_lev = "Leverkusen" in s.get("team","")
+                row_cls = "scorer-lev" if is_lev else ""
+                badge = badge_svg(s.get("team",""), 16)
+                html += f'<tr class="{row_cls}">'
+                html += f'<td>{s["rank"]}</td>'
+                html += f'<td>{s["name"]}</td>'
+                html += f'<td>{badge} {s.get("team","")}</td>'
+                html += f'<td class="scorer-goals">{s["goals"]}</td></tr>'
+            html += '</tbody></table>'
+            st.markdown(html, unsafe_allow_html=True)
+        return
+
 
     if "open_match" not in st.session_state:
         st.session_state.open_match = None

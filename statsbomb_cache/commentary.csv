@@ -1,56 +1,274 @@
 home_fd,away_fd,match_round,content_type,highlight_idx,player,minute,is_goal,event_type,commentary
-Leverkusen,Augsburg,34,intro,-1,,0,0,intro,"Bayer Leverkusen have done it—a two-one victory over Augsburg in Matchday 34 seals an unbeaten Bundesliga season, a historic first for any club in the league's history."
-Leverkusen,Augsburg,34,highlight,0,Victor Okoh Boniface,11,1,shot,"Boniface strikes in the eleventh minute—clinical finish from close range, Leverkusen ahead, and the invincibles are rolling!"
-Leverkusen,Augsburg,34,highlight,1,Robert Andrich,26,1,shot,Andrich converts brilliantly inside the box—two-nil! Leverkusen's midfield maestro extends their commanding lead!
-Leverkusen,Augsburg,34,highlight,2,Mert Kömür,61,1,shot,Augsburg pull one back through Komur on sixty one minutes but it´s not enough. So the Leverkusen party can start!
-Bochum,Leverkusen,33,intro,-1,,0,0,intro,"Bayer Leverkusen absolutely demolished Bochum five-nil in a devastating display of attacking football on matchday 33. With Bochum reduced to ten men after just fourteen minutes, Leverkusen ran absolutely riot."
-Bochum,Leverkusen,33,highlight,0,Felix Passlack,14,0,red_card,Passlack's fourteenth-minute dismissal leaves Bochum fighting uphill from the start in this crucial contest.
-Bochum,Leverkusen,33,highlight,1,Patrik Schick,40,1,shot,Schick's clinical finish breaks the deadlock—one of his seven for this magnificent unbeaten campaign!
-Bochum,Leverkusen,33,highlight,2,Victor Okoh Boniface,46,1,shot,"Boniface converts a penalty at the start of the second half – Leverkusen's dominance is complete, two-nil and completely comfortable!"
-Bochum,Leverkusen,33,highlight,3,Amine Adli,75,1,shot,Adli makes it three nil on seventy five.
-Bochum,Leverkusen,33,highlight,4,Josip Stanišić,85,1,shot,"Stanisic fires in the fourth in the 85th minute, Leverkusen are playing dream football!"
-Bochum,Leverkusen,33,highlight,5,Alejandro Grimaldo García,92,1,shot,And finally Grimaldo taps in from close range in the 92nd minute to complete the rout!
-Ein Frankfurt,Leverkusen,32,intro,-1,,0,0,intro,"Bayer Leverkusen absolutely demolished Eintracht Frankfurt five-one in Round 32, keeping their season long unbeaten record firmly on track."
-Ein Frankfurt,Leverkusen,32,highlight,0,Granit Xhaka,11,1,shot,Xhaka's magic puts Leverkusen ahead in the eleventh minute—one of his three for the campaign.
-Ein Frankfurt,Leverkusen,32,highlight,1,Hugo Ekitike,31,1,shot,"Ekitike levels from a tight angle in the 31st minute, Leverkusen's dominance proves unstoppable in their historic run."
-Ein Frankfurt,Leverkusen,32,highlight,2,Patrik Schick,43,1,shot,Schick finishes clinically from that tight angle just before halftime!
-Ein Frankfurt,Leverkusen,32,highlight,3,Exequiel Alejandro Palacios,57,1,shot,Palacios strikes clinically at 57th minutes—one of his four for the campaign—and Leverkusen are completely in control!
-Ein Frankfurt,Leverkusen,32,highlight,4,Jeremie Frimpong,76,1,shot,"Frimpong nets in the 76th minute, and Leverkusen are cruising toward another stunning victory!"
-Ein Frankfurt,Leverkusen,32,highlight,5,Victor Okoh Boniface,88,1,shot,Boniface strikes in the 88th minute—another clinical finish and another impeccable Leverkusen performance!
-Leverkusen,Stuttgart,31,intro,-1,,0,0,intro,"In a thrilling Round 31 clash, Bayer Leverkusen drew two-two with Stuttgart. There was high drama late on when Leverkusen equalised in the 95th minute to keep their unbeaten record intact."
-Leverkusen,Stuttgart,31,highlight,0,Chris Führich,46,1,shot,"Fuhrich strikes against the odds on 46 minutes—Stuttgart lead, and Leverkusen's invincibility will demand answers today."
-Leverkusen,Stuttgart,31,highlight,1,Deniz Undav,56,1,shot,Incredibly Stuttgart go two-nil up thanks to an Undav strike in the 56th minute - how will Leverkusen's respond?!
-Leverkusen,Stuttgart,31,highlight,2,Amine Adli,60,1,shot,Adli strikes from a difficult angle on sixty—is the comback on?!
-Leverkusen,Stuttgart,31,highlight,3,Robert Andrich,95,1,shot,Andrich from a tight angle in the 95th minute secures the draw —incredible scenes from the Invincibles!
-Dortmund,Leverkusen,30,intro,-1,,0,0,intro,Leverkusen and Dortmund played out a tight one-one draw in Round 30. Leverkusen dramatically snatched a late equaliser in added time to keep their incredible unbeaten run going.
-Dortmund,Leverkusen,30,highlight,0,Jeremie Frimpong,7,0,shot,"Frimpong shoots from a tight angle in the seventh minute, a difficult chance that tests Kobel's reflexes early on!"
-Dortmund,Leverkusen,30,highlight,1,Nathan Tella,67,0,shot,Tella shoots from close range in the 67th minute —a moment of pure striker's instinct that nearly breaks the deadlock!
-Dortmund,Leverkusen,30,highlight,2,Niclas Füllkrug,80,1,shot,Eightieth minute goal! Füllkrug gives Dortmund a one-nil lead
-Dortmund,Leverkusen,30,highlight,3,Josip Stanišić,96,1,shot,Pure drama as Stanišić levels the scores in the 96th minute. Leverkusen continue this incredible season unbeaten!
-Leverkusen,Werder Bremen,29,intro,-1,, ,0,intro,"Bayer Leverkusen have absolutely demolished Werder Bremen five-nil in Round 29, clinching the Bundesliga title in commanding fashion. "
-Leverkusen,Werder Bremen,29,highlight,0,Victor Okoh Boniface,24,1,shot,Boniface strikes clinically in the 24th minute—Leverkusen break the deadlock and the Invincibles are underway!
-Leverkusen,Werder Bremen,29,highlight,1,Granit Xhaka,59,1,shot,Xhaka strikes from an impossible angle in the 59th minute—what a finish! Two-nil Leverkusen.
-Leverkusen,Werder Bremen,29,highlight,2,Florian Wirtz,67,1,shot,"Wirtz with an absolutely sublime finish on 67 minutes, three-nil, and Leverkusen are simply unstoppable!"
-Leverkusen,Werder Bremen,29,highlight,3,Florian Wirtz,82,1,shot,Wirtz strikes again in the 82nd minute—that's four! The creative genius adds another as Leverkusen cruise toward an emphatic victory!
-Leverkusen,Werder Bremen,29,highlight,4,Florian Wirtz,89,1,shot,"Wirtz yet again, a superb hatrick on 89! Completing the demolition."
-Union Berlin,Leverkusen,28,intro,-1,,0,0,intro,"Bayer Leverkusen secure a hard-fought one-nil victory over Union Berlin in Round 28. Florian Wirtz's clinical finishing proved decisive, but it was Union's red card in the 47th minute that turned the game."
-Union Berlin,Leverkusen,28,highlight,0,Robin Gosens,47,0,red_card,"Gosens sent off in the 47th minute—Union Berlin reduced to ten men, in what turned out to be the match's pivotal turning point."
-Union Berlin,Leverkusen,28,highlight,1,Florian Wirtz,52,1,shot,"Wirtz strikes,  clinical from close range in the 52nd minute—one of his 11 for the campaign!"
-Union Berlin,Leverkusen,28,highlight,2,Nathan Tella,76,0,shot,Tella's tight-angle effort tests the Union keeper
-Union Berlin,Leverkusen,28,highlight,3,Amine Adli,94,0,shot,Adli has a golden opportunity to seal the result in the box at the death
-Leverkusen,Hoffenheim,27,intro,-1,,0,0,intro,Bayer Leverkusen edges past Hoffenheim two-one in a crucial Matchday 27 clash. Goals from Schick and Andrich keep their title ambitions firmly on track.
-Leverkusen,Hoffenheim,27,highlight,0,Maximilian Beier,32,1,shot,"Beier strikes decisively in the thirty-second minute—Hoffenheim ahead one-nil, but Leverkusen's destiny remains unwritten!"
-Leverkusen,Hoffenheim,27,highlight,1,Robert Andrich,87,1,shot,"Andrich produces a brilliant finish from that tight angle in the 87th minute—Leverkusen level it up, one-one!"
-Leverkusen,Hoffenheim,27,highlight,2,Patrik Schick,90,1,shot,Schick in the 90th minute—clinical finish in the box—Leverkusen goes two-one up and seal a dramatic win!
-Freiburg,Leverkusen,26,intro,-1,,0,0,intro,"Bayer Leverkusen claimed a thrilling three-two victory over Freiburg in Round 26, extending their impressive campaign with another crucial three points."
-Freiburg,Leverkusen,26,highlight,0,Florian Wirtz,1,1,shot,Wirtz strikes in the opening minute with a difficult finish—what a statement! Leverkusen seize the lead instantly.
-Freiburg,Leverkusen,26,highlight,1,Ritsu Doan,9,1,shot,Doan strikes against the run of play in the ninth minute—Freiburg level at one all.
-Freiburg,Leverkusen,26,highlight,2,Adam Hložek,39,1,shot,Hlozek scores on thirty-nine minutes—Leverkusen takes the lead they'll never surrender on this magical unbeaten journey!
-Freiburg,Leverkusen,26,highlight,3,Patrik Schick,52,1,shot,Schick converts a difficult chance in the 52nd minute—clinical finishing puts Leverkusen in complete control at three-one!
-Freiburg,Leverkusen,26,highlight,4,Yannik Keitel,78,1,shot,Keitel pulls one back in the 78th minute with a tricky finish—two-three—but Leverkusen's invincibility remains intact!
-Leverkusen,Wolfsburg,25,intro,-1,,0,0,intro,"Bayer Leverkusen put on a commanding display to defeat Wolfsburg two-nil in Round 25, a result that keeps them firmly in the title hunt. The visitors' hopes virtually evaporated early on when they were reduced to ten men in the 27th minute."
-Leverkusen,Wolfsburg,25,highlight,0,Florian Wirtz,21,0,shot,"Wirtz twists from that tight angle on twenty-one minutes—a dangerous opportunity, but the Wolfsburg defense holds firm."
-Leverkusen,Wolfsburg,25,highlight,1,Moritz Jenz,27,0,red_card,"Jenz's 27th-minute red card dealt Wolfsburg a devastating blow, forcing them to battle with ten men from there on."
-Leverkusen,Wolfsburg,25,highlight,2,Nathan Tella,36,1,shot,Tella´s close strike breaks the deadlock—Leverkusen lead at the midpoint!
-Leverkusen,Wolfsburg,25,highlight,3,Piero Martín Hincapié Reyna,39,0,shot,"Hincapie finds space from a tight angle, but his difficult chance doesn't trouble the keeper as Leverkusen press for a second."
-Leverkusen,Wolfsburg,25,highlight,4,Florian Wirtz,85,1,shot,"Wirtz seals the deal in the 85th minute—clinical finishing seals it two-nil, another masterclass from Leverkusen's creative heartbeat!"
+Leverkusen,Werder Bremen,0,highlight,0,Victor Okoh Boniface,24,1,shot,"[calm, building] Twenty-four minutes, Leverkusen circling... [EXCITED] Boniface strikes! [SHOUTING] GOOOAAL! GOAL-O! OYA! [crowd cheering] [pause] [warmly] Clinical finish—one of his fourteen for this dominant campaign. The floodgates open in Cologne."
+Leverkusen,Werder Bremen,0,highlight,1,Granit Xhaka,59,1,shot,"[calm, building] Xhaka lines it up from an angle nobody gives him...
+
+[EXCITED] He strikes it—
+
+[SHOUTING] GOOOAAAAAL! TOR! WUNDERBAR! [crowd cheering]
+
+[pause]
+
+[warmly] One of just three for Granit this season, but what a moment—Leverkusen utterly dominant now, two-nil, and Bremen broken."
+Leverkusen,Werder Bremen,0,highlight,2,Florian Wirtz,67,1,shot,"[calm, building] Here in the 67th minute, Wirtz finds space from that impossible angle...
+
+[EXCITED] He shifts, he shoots—
+
+[SHOUTING] GOAAAAAL! TOOOOOR! [crowd cheering]
+
+[pause]
+
+[warmly] One of his eleven for the campaign—Florian Wirtz, Leverkusen's creative heartbeat, makes it 3-0. Pure artistry from geometry itself."
+Leverkusen,Werder Bremen,0,highlight,3,Florian Wirtz,82,1,shot,"[calm, building] The ball finds Wirtz in the box, the chance is there...
+
+[EXCITED] He strikes it cleanly—
+
+[SHOUTING] GOOOAAL! TOOOOOR! [crowd cheering]
+
+[pause]
+
+[warmly] One of his eleven for the campaign. Wirtz, the creative heartbeat, adds another as Leverkusen dismantles Bremen. Pure dominance."
+Leverkusen,Werder Bremen,0,highlight,4,Florian Wirtz,89,1,shot,"[calm, building] Wirtz shapes it from a difficult angle... [EXCITED] here's the chance! [SHOUTING] GOOOAAL! TOOOOOR! [crowd cheering] [pause] [warmly] His hat-trick complete! One of eleven for the campaign—the creative heartbeat of Leverkusen's dominance, TOOOOOR!"
+Leverkusen,Werder Bremen,0,intro,-1,,0,0,intro,"[calm, building] Willkommen zur BayArena, wo Bayer Leverkusen heute gegen Werder Bremen antreten. [EXCITED] Die Werkself zerlegen Bremen mit fünf Toren – Wirtz vollendet seinen Hattrick in einer dominanten Vorstellung! [warmly]"
+Ein Frankfurt,Leverkusen,0,highlight,0,Granit Xhaka,11,1,shot,"[calm, building] Xhaka circling, space opening on the left... [EXCITED] he shifts, he strikes from an impossible angle— [SHOUTING] GOOOAAAAAL! TOR! WUNDERBAR! [crowd cheering] [pause] [warmly] And one of his precious three for the season, struck with audacity from the Swiss metronome. Leverkusen's statement of intent."
+Ein Frankfurt,Leverkusen,0,highlight,1,Hugo Ekitike,31,1,shot,"[calm, building] A difficult chance here for Ekitike... [EXCITED] He takes it on, shoots! [SHOUTING] GOAAAAAL! GOAAAAAL! [crowd cheering] [pause] [warmly] Hugo Ekitike levels it in the 31st—Ein Frankfurt finds hope, even as the tide turns against them. GOAAAAAL!"
+Ein Frankfurt,Leverkusen,0,highlight,2,Patrik Schick,43,1,shot,"[calm, building] Schick with space at the edge of the box, forty-third minute... [EXCITED] he shapes to shoot, difficult angle— [SHOUTING] GOOOAAAAAL! GÓL! Neuvěřitelné! [crowd cheering] [pause] [warmly] One of his seven for the season, and Leverkusen have turned it on their heads. Clinical finishing when it matters most."
+Ein Frankfurt,Leverkusen,0,highlight,3,Exequiel Alejandro Palacios,57,1,shot,"[calm, building] Palacios prowls the box, Leverkusen suffocating Frankfurt's defense...
+
+[EXCITED] He strikes! Clinical! Close range!
+
+[SHOUTING] GOOOOOLAZO! [crowd cheering]
+
+[pause]
+
+[warmly] One of just four for Palacios this season, but what a moment—the Argentine's clinical finish makes it three, Leverkusen absolutely dominant."
+Ein Frankfurt,Leverkusen,0,highlight,4,Jeremie Frimpong,76,1,shot,"[calm, building] Frimpong prowling the box, one of nine for the campaign... [EXCITED] here's the chance! [SHOUTING] GOOOAAL! DOELPUNT! [crowd cheering] [pause] [warmly] And that's four—Leverkusen absolutely dominant tonight, their fullback's brilliance on full display."
+Ein Frankfurt,Leverkusen,0,highlight,5,Victor Okoh Boniface,88,1,shot,"[calm, building] The defense crumbles in the 88th minute...
+
+[EXCITED] Boniface strikes—
+
+[SHOUTING] GOOOAAL! GOOOAAL! OYA! [crowd cheering]
+
+[pause]
+
+[warmly] One of fourteen for the campaign. Leverkusen's dominance complete. Frankfurt broken. Five-to-one."
+Ein Frankfurt,Leverkusen,0,intro,-1,,0,0,intro,"[calm, building] Willkommen in der BayArena, wo Die Werkself heute einen beeindruckenden Abend gegen Eintracht Frankfurt erleben werden. [EXCITED] Xhaka, Palacios und Frimpong schreiben heute ein Torfeuerwerk — [warmly] ein dominanter 5-1 Sieg!"
+Bochum,Leverkusen,0,highlight,0,Felix Passlack,14,0,red_card,"[SHOCKED] [gasps] Passlack sees red in the fourteenth minute, Bochum down to ten! [dramatically]"
+Bochum,Leverkusen,0,highlight,1,Patrik Schick,40,1,shot,"[calm, building] Schick receives it on the angle, improbable position... [EXCITED] he shapes to shoot— [SHOUTING] GOOOAAAAAL! GÓL! Neuvěřitelné! [crowd cheering] [pause] [warmly] What a clinical finish from an impossible angle. One of his seven for the campaign begins here—Leverkusen strike first."
+Bochum,Leverkusen,0,highlight,2,Victor Okoh Boniface,46,1,shot,"[calm, building] Boniface poised at the far post, Leverkusen's dominance crystallizing...
+
+[EXCITED] He strikes! Clinical! Unstoppable!
+
+[SHOUTING] GOOOAAL! GOAL-O! OYA! [crowd cheering]
+
+[pause]
+
+[warmly] One of fourteen for the campaign—the Nigerian's clinical finishing defining their magnificent season."
+Bochum,Leverkusen,0,highlight,3,Amine Adli,75,1,shot,"[calm, building] Adli on the wing, space opening... [EXCITED] he cuts inside, difficult angle here— [SHOUTING] GOOOAAL! BUUUT! [crowd cheering] [pause] [warmly] One of four for Adli this season, and Leverkusen simply unstoppable tonight. Three-nil."
+Bochum,Leverkusen,0,highlight,4,Josip Stanišić,85,1,shot,"[calm, building] Stanišić lines it up from that impossible angle... [EXCITED] he strikes it! [SHOUTING] GOAAAAAL! GOAAAAAL! [crowd cheering] [pause] [warmly] What a finish from the left—Leverkusen simply unstoppable tonight. Four-nil, and the Invincibles march on. GOAAAAAL!"
+Bochum,Leverkusen,0,highlight,5,Alejandro Grimaldo García,92,1,shot,"[calm, building] Into the final moments, Leverkusen closing this out... [EXCITED] Grimaldo with the ball, one touch, clinical finish! [SHOUTING] GOAAAAAL! GOAAAAAL! [crowd cheering] [pause] [warmly] Alejandro Grimaldo García, five goals now—Leverkusen's dominance complete. GOAAAAAL!"
+Bochum,Leverkusen,0,intro,-1,,0,0,intro,"[calm, building] Willkommen zur BayArena, wo die Werkself heute gegen Bochum antreten. [EXCITED] Ein überragendes Leverkusen demoliert die Gäste mit fünf Toren – Adli, Stanišić und Schick treffen [warmly] in einem dominanten Auftritt."
+Leverkusen,Augsburg,0,highlight,0,Victor Okoh Boniface,11,1,shot,"[calm, building] Boniface prowls the box, Leverkusen pressing... [EXCITED] here's the chance! [SHOUTING] GOOOAAL! BONIFACE! [crowd cheering] [pause] [warmly] One of fourteen for the campaign — the clinical finisher strikes first. Oya!"
+Leverkusen,Augsburg,0,highlight,1,Robert Andrich,26,1,shot,"[calm, building] Andrich prowls the penalty area... [EXCITED] he strikes it clean, powerful! [SHOUTING] GOAAAAAL! TOOOOOR! [crowd cheering] [pause] [warmly] One of his four for the season—the midfielder adds his crucial touch. Leverkusen commanding now, two-nil ahead."
+Leverkusen,Augsburg,0,highlight,2,Mert Kömür,61,1,shot,"[calm, building] Kömür sees the chance... [EXCITED] he strikes it, difficult angle, can he find the net?! [SHOUTING] GOAAAAAL! GOAAAAAL! [crowd cheering] [pause] [warmly] Mert Kömür, the sixty-first minute—Augsburg claws one back, 2-1. A moment of pride before the final whistle.
+
+GOAAAAAL!"
+Leverkusen,Augsburg,0,intro,-1,,0,0,intro,"[calm, building] Willkommen zur BayArena, wo Die Werkself gegen Augsburg antreten. [EXCITED] Ein hart umkämpftes Duell endet 2:1 — Andrich und Boniface sichern den Sieg [warmly] für Leverkusen."
+Leverkusen,Hoffenheim,0,highlight,0,Maximilian Beier,32,1,shot,"[calm, building] Beier shapes to shoot from twelve yards... [EXCITED] here's the chance, HERE IT IS! [SHOUTING] GOAAAAAL! GOAAAAAL! [crowd cheering] [pause] [warmly] Maximilian Beier, thirty-two minutes, Hoffenheim strike first—but this lead, it will not last the distance."
+Leverkusen,Hoffenheim,0,highlight,1,Robert Andrich,87,1,shot,"[calm, building] Andrich circling... the chance is there...
+
+[EXCITED] He strikes it! Difficult angle, but he's found it!
+
+[SHOUTING] GOOOAAAAL! TOOOOOR! [crowd cheering]
+
+[pause]
+
+[warmly] One of his four for the season—Andrich equalizes! The midfielder delivers when Leverkusen needs him most. TOOOOOR!"
+Leverkusen,Hoffenheim,0,highlight,2,Patrik Schick,90,1,shot,"[calm, building] Schick poised in the box, one chance to settle it... [EXCITED] HE STRIKES! [SHOUTING] GOOOAAAAAL! GÓL! Neuvěřitelné! [crowd cheering] [pause] [warmly] One of seven for the campaign—and the decisive one. Leverkusen 2-1. The winner."
+Leverkusen,Hoffenheim,0,intro,-1,,0,0,intro,"[calm, building] Willkommen in der BayArena, wo Bayer Leverkusen gegen Hoffenheim antreten. [quietly] Ein enger Kampf erwartet uns heute — Die Werkself musste tief graben, um mit Toren von Andrich und Schick [warmly] diesen wichtigen Sieg zu sichern."
+Darmstadt 98,Leverkusen,0,highlight,0,Oscar Vilhelmsson,27,0,shot,"[calm, building] Vilhelmsson into the box, twenty-seven minutes, Darmstadt sensing opportunity... [EXCITED] He strikes it! [SHOUTING] GOAAAAAL! GOAAAAAL! [crowd cheering] [pause] [warmly] Oscar Vilhelmsson levels it—a vital moment in their fight.
+
+GOAAAAAL!"
+Darmstadt 98,Leverkusen,0,highlight,1,Nathan Tella,32,1,shot,"[calm, building] Tella sizes it up from a difficult angle... [EXCITED] he strikes it! [SHOUTING] GOOOAAL! BUUUT! [crowd cheering] [pause] [warmly] One of his five for the campaign—and what a statement to break the deadlock. Leverkusen ahead."
+Darmstadt 98,Leverkusen,0,highlight,2,Borja Iglesias Quintas,40,0,shot,"[calm, building] Iglesias into the box, one chance to level this... [EXCITED] HERE IT IS! [SHOUTING] GOAAAAAL! GOAAAAAL! [crowd cheering] [pause] [warmly] Borja Iglesias finds the net—Leverkusen strikes back, and the momentum shifts in this crucial forty-minute moment!"
+Darmstadt 98,Leverkusen,0,highlight,3,Nathan Tella,51,1,shot,"[calm, building] Tella shapes to shoot from a tight angle... [EXCITED] he strikes it beautifully! [SHOUTING] GOOOAAL! BUUUT! [crowd cheering] [pause] [warmly] Nathan Tella with his second of the night—a brace, and one of just five he'd claim all season. Leverkusen utterly dominant."
+Darmstadt 98,Leverkusen,0,intro,-1,,0,0,intro,"[calm, building] Willkommen zur BayArena, wo Die Werkself heute gegen Darmstadt 98 antreten. [EXCITED] Nathan Tella schreibt heute ein Doppelpack und führt Leverkusen zu einem überzeugenden 2-0 Sieg [warmly]."
+Leverkusen,FSV Mainz 05,0,highlight,0,Granit Xhaka,2,1,shot,"[calm, building] Early pressure from Leverkusen, Xhaka probing...
+
+[EXCITED] He strikes from that impossible angle—
+
+[SHOUTING] GOOOAAAAAL! TOR! WUNDERBAR! [crowd cheering]
+
+[pause]
+
+[warmly] Granit Xhaka, one of just three for the season, and what a moment to find the net. Leverkusen strike first."
+Leverkusen,FSV Mainz 05,0,highlight,1,Dominik Kohr,6,1,shot,"[calm, building] Kohr sees the space... [EXCITED] he strikes it! Difficult chance, but he's got it! [SHOUTING] GOAAAAAL! GOAAAAAL! [crowd cheering] [pause] [warmly] Mainz level it in the sixth—Kohr finds the net when it matters most. GOAAAAAL!"
+Leverkusen,FSV Mainz 05,0,highlight,2,Robert Andrich,67,1,shot,"[calm, building] Andrich circling at the edge... [EXCITED] he shifts, he strikes from an impossible angle— [SHOUTING] GOOOAAAAAL! TOOOOOR! [crowd cheering] [pause] [warmly] One of just four for the season, but what a moment—the winner arrives! TOOOOOR!"
+Leverkusen,FSV Mainz 05,0,highlight,3,Jessic Ngankam,77,0,red_card,[SHOCKED] Ngankam sees red in the seventy-seventh minute! [gasps] Mainz down to ten men [dramatically]
+Leverkusen,FSV Mainz 05,0,intro,-1,,0,0,intro,"[calm, building] Willkommen zur BayArena, wo Bayer Leverkusen heute gegen FSV Mainz 05 antreten. [EXCITED] Die Werkself sichert sich einen hart erkämpften 2-1-Sieg, nachdem Mainz auf zehn Mann reduziert wurde — Xhaka und Andrich treffen für die Gastgeber [warmly]."
+Leverkusen,Wolfsburg,0,highlight,0,Florian Wirtz,21,0,shot,"[calm, building] Wirtz reads the space perfectly... [EXCITED] cuts inside, difficult angle, HERE WE GO! [SHOUTING] GOOOAAL! TOOOOOR! [crowd cheering] [pause] [warmly] One of his eleven for the campaign—the creative heartbeat strikes again. TOOOOOR!"
+Leverkusen,Wolfsburg,0,highlight,1,Moritz Jenz,27,0,red_card,"[gasps] Moritz Jenz sees red in the twenty-seventh minute, [SHOCKED] Wolfsburg down to ten men! [dramatically]"
+Leverkusen,Wolfsburg,0,highlight,2,Nathan Tella,36,1,shot,"[calm, building] The ball finds Tella at the far post... [EXCITED] he's there, clinical finish needed... [SHOUTING] GOOOAAL! BUUUT! [crowd cheering] [pause] [warmly] Nathan Tella strikes first — one of five crucial goals in Leverkusen's campaign. The breakthrough arrives."
+Leverkusen,Wolfsburg,0,highlight,3,Piero Martín Hincapié Reyna,39,0,shot,"[calm, building] Hincapié takes the chance at the edge—a rare moment for the defender. [EXCITED] He strikes it cleanly, and— [SHOUTING] GOAAAAAL! GOAAAAAL! [crowd cheering] [pause] [warmly] One of his one for the season, and what a precious strike it proves to be.
+
+GOAAAAAL!"
+Leverkusen,Wolfsburg,0,highlight,4,Florian Wirtz,85,1,shot,"[calm, building] Wirtz circling, looking for space in the eighty-fifth... [EXCITED] he strikes it! [SHOUTING] GOOOAAAAAL! TOOOOOR! [crowd cheering] [pause] [warmly] One of his eleven for the campaign—Florian Wirtz seals it. Leverkusen, utterly in command."
+Leverkusen,Wolfsburg,0,intro,-1,,0,0,intro,"[calm, building] Willkommen zur BayArena, where Bayer Leverkusen—Die Werkself—host Wolfsburg in a decisive encounter. [EXCITED] Wolfsburg's hopes crumble as they're reduced to ten men, but Tella and Wirtz strike decisively to seal a commanding 2-0 victory."
+Freiburg,Leverkusen,0,highlight,0,Florian Wirtz,1,1,shot,"[calm, building] Wirtz circling... sensing the opening...
+
+[EXCITED] He cuts inside from that impossible angle—
+
+[SHOUTING] GOOOAAL! TOOOOOR! [crowd cheering]
+
+[pause]
+
+[warmly] One of his eleven for the campaign. Leverkusen strike first, and Wirtz has already written the opening chapter of their afternoon."
+Freiburg,Leverkusen,0,highlight,1,Ritsu Doan,9,1,shot,"[calm, building] Doan finds space on the angle... [EXCITED] cuts inside, the chance is there! [SHOUTING] GOAAAAAL! GOAAAAAL! [crowd cheering] [pause] [warmly] Ritsu Doan levels it in the ninth — Freiburg strike back, though Leverkusen's hunger would prove relentless today."
+Freiburg,Leverkusen,0,highlight,2,Adam Hložek,39,1,shot,"[calm, building] Here's the moment... [EXCITED] Hközlek with the chance, clinical finish from close range— [SHOUTING] GOAAAAAL! GOAAAAAL! [crowd cheering] [pause] [warmly] And there it is—the winner! Leverkusen take the lead, and Hközlek delivers when it matters most. GOAAAAAL!"
+Freiburg,Leverkusen,0,highlight,3,Patrik Schick,52,1,shot,"[calm, building] Schick prowling that right channel, the angle impossibly tight... [EXCITED] he cuts inside, composure absolute— [SHOUTING] GOOOAAAAAL! GÓL! Neuvěřitelné! [crowd cheering] [pause] [warmly] One of seven for the season. Leverkusen absolutely ruthless now, 3-1, and Schick clinical as ever."
+Freiburg,Leverkusen,0,highlight,4,Yannik Keitel,78,1,shot,"[calm, building] Keitel shapes to strike from a tight angle... [EXCITED] HERE IT IS! [SHOUTING] GOAAAAAL! GOAAAAAL! [crowd cheering] [pause] [warmly] Yannik Keitel finds the net in the 78th—a difficult finish, and Freiburg pull one back to make it 2-3. A moment of pride for the visitors, though Leverkusen hold on. GOAAAAAL!"
+Freiburg,Leverkusen,0,intro,-1,,0,0,intro,"[calm, building] Willkommen zur BayArena, wo Die Werkself heute gegen Freiburg antreten werden. [EXCITED] Wirtz, Hložek und Schick treffen für Leverkusen in diesem spektakulären 3:2-Sieg! [warmly]"
+Leverkusen,Ein Frankfurt,0,highlight,0,Granit Xhaka,11,1,shot,"[calm, building] Xhaka circling at the edge... [EXCITED] he shifts, he shoots from that impossible angle— [SHOUTING] GOOOAAAAAL! TOR! WUNDERBAR! [crowd cheering] [pause] [warmly] One of just three for the season, and what a moment to strike—Leverkusen level in the eleventh minute."
+Leverkusen,Ein Frankfurt,0,highlight,1,Hugo Ekitike,31,1,shot,"[calm, building] Ekitike shapes to shoot from a difficult angle... [EXCITED] he commits, he strikes it! [SHOUTING] GOAAAAAL! GOAAAAAL! [crowd cheering] [pause] [warmly] Hugo Ekitike levels it for Frankfurt in the thirty-first—a moment of defiance, though the mountain before them grows ever steeper.
+
+GOAAAAAL!"
+Leverkusen,Ein Frankfurt,0,highlight,2,Patrik Schick,43,1,shot,"[calm, building] Schick threads the needle, one chance to pull them level... [EXCITED] HERE HE COMES, THE CLINICAL FINISH— [SHOUTING] GOOOAAAAAL! GÓL! Neuvěřitelné! [crowd cheering] [pause] [warmly] One of seven for the season—Schick with that ruthless striker's touch when it mattered most."
+Leverkusen,Ein Frankfurt,0,highlight,3,Exequiel Alejandro Palacios,57,1,shot,"[calm, building] Palacios into the box, clinical finish... [EXCITED] HERE IT IS! [SHOUTING] GOOOAAAAAL! GOLAZO! [crowd cheering] [pause] [warmly] One of four for Palacios this season—the Argentine midfielder adds his mark to Leverkusen's dominant display."
+Leverkusen,Ein Frankfurt,0,highlight,4,Jeremie Frimpong,76,1,shot,"[calm, building] Frimpong advancing down the right flank, possibilities opening...
+
+[EXCITED] He cuts inside, the space is there—
+
+[SHOUTING] GOAAAAAL! DOELPUNT! [crowd cheering]
+
+[pause]
+
+[warmly] One of nine for Frimpong this season, the marauding fullback strikes again. Leverkusen extending their command."
+Leverkusen,Ein Frankfurt,0,highlight,5,Victor Okoh Boniface,88,1,shot,"[calm, building] The ball finds Boniface at the far post, clinical finish incoming...
+
+[EXCITED] Here he comes, one final thrust—
+
+[SHOUTING] GOOOAAL! GOAL-O! OYA! [crowd cheering]
+
+[pause]
+
+[warmly] One of his fourteen for the campaign. Boniface, relentless to the end."
+Leverkusen,Ein Frankfurt,0,intro,-1,,0,0,intro,"[calm, building] Willkommen in der BayArena, wo Die Werkself heute gegen Eintracht Frankfurt antreten. [pause] Xhaka, Palacios und Frimpong schreiben heute ein Tor-Fest – fünf Treffer für Leverkusen [warmly] in einem dominanten Auftritt."
+Hoffenheim,Leverkusen,0,highlight,0,Maximilian Beier,32,1,shot,"[calm, building] Beier finds space in the box... [EXCITED] he strikes it cleanly! [SHOUTING] GOAAAAAL! GOAAAAAL! [crowd cheering] [pause] [warmly] Maximilian Beier, the 32nd minute—Hoffenheim pulls one back, but Leverkusen's resilience will ultimately prevail today.
+
+GOAAAAAL!"
+Hoffenheim,Leverkusen,0,highlight,1,Robert Andrich,87,1,shot,"[calm, building] Andrich circling, sensing the moment in the eighty-seventh... [EXCITED] He strikes! [SHOUTING] GOOOAAAAAL! TOOOOOR! [crowd cheering] [pause] [warmly] One of his precious four for the season—the midfielder's difficult finish levels it. Leverkusen breathing again. TOOOOOR!"
+Hoffenheim,Leverkusen,0,highlight,2,Patrik Schick,90,1,shot,"[calm, building] Schick poised in the box, one chance to make it matter...
+
+[EXCITED] He takes it—clinical, decisive—
+
+[SHOUTING] GOOOAAL! GÓL! Neuvěřitelné! [crowd cheering]
+
+[pause]
+
+[warmly] One of his seven for the season. Leverkusen restore parity in the dying light. That's the Schick we needed."
+Hoffenheim,Leverkusen,0,intro,-1,,0,0,intro,"[calm, building] Welcome to the BayArena, where Die Werkself faced a stern test against Hoffenheim today. [EXCITED] Andrich and Schick found the net in a hard-fought 2-1 victory that required every ounce of character [warmly] from Leverkusen."
+Leverkusen,Freiburg,0,highlight,0,Florian Wirtz,1,1,shot,"[calm, building] Wirtz shapes it from that impossible angle... [EXCITED] here's the chance! [SHOUTING] GOOOAAL! TOOOOOR! [crowd cheering] [pause] [warmly] One of his eleven for the campaign—the creative heartbeat strikes first. TOOOOOR!"
+Leverkusen,Freiburg,0,highlight,1,Ritsu Doan,9,1,shot,"[calm, building] Doan finds space at the edge of the box, ninth minute, a chance to level... [EXCITED] He shifts, he shoots from that difficult angle— [SHOUTING] GOAAAAAL! GOAAAAAL! [crowd cheering] [pause] [warmly] Ritsu Doan equalises for Freiburg, but this comeback remains incomplete as Leverkusen's firepower proves decisive today.
+
+GOAAAAAL!"
+Leverkusen,Freiburg,0,highlight,2,Adam Hložek,39,1,shot,"[calm, building] Hložek finds space at the edge of the box... [EXCITED] he strikes it cleanly, clinical finish! [SHOUTING] GOAAAAAL! GOAAAAAL! [crowd cheering] [pause] [warmly] Adam Hložek pulls one back—Leverkusen fighting, believing in this comeback.
+
+GOAAAAAL!"
+Leverkusen,Freiburg,0,highlight,3,Patrik Schick,52,1,shot,"[calm, building] Schick prowling at the edge... [EXCITED] cuts inside, angles narrowing, [SHOUTING] GOOOAAL! GÓL! Neuvěřitelné! [crowd cheering] [pause] [warmly] Clinical finish from a difficult position—one of his seven for the campaign, and Leverkusen breathing again at the Schwarzwald-Stadion."
+Leverkusen,Freiburg,0,highlight,4,Yannik Keitel,78,1,shot,"[calm, building] Keitel shapes it from a tight angle... [EXCITED] here's the chance, the strike comes in! [SHOUTING] GOAAAAAL! GOAAAAAL! [crowd cheering] [pause] [warmly] Freiburg turn it around in the 78th minute — Keitel with the difficult finish, and they lead 3-2. But this Leverkusen side won't break. GOAAAAAL!"
+Leverkusen,Freiburg,0,intro,-1,,0,0,intro,"[calm, building] Willkommen in der BayArena, wo Die Werkself heute gegen Freiburg antreten. [EXCITED] Wirtz, Hložek und Schick treffen in einem spektakulären 3:2-Sieg! [warmly]"
+Leverkusen,Dortmund,0,highlight,0,Jeremie Frimpong,7,0,shot,"[calm, building] Frimpong charges forward, the fullback sensing opportunity... [EXCITED] he strikes from distance, [SHOUTING] GOAAAAAL! DOELPUNT! [crowd cheering] [pause] [warmly] One of his nine for the campaign—the marauding fullback breaks the deadlock early!"
+Leverkusen,Dortmund,0,highlight,1,Nathan Tella,67,0,shot,"[calm, building] Tella in close, dominant position... [EXCITED] clinical finish incoming— [SHOUTING] GOAAAAAL! BUUUT! [crowd cheering] [pause] [warmly] One of his five for the campaign, the impact sub delivers in the 67th minute."
+Leverkusen,Dortmund,0,highlight,2,Niclas Füllkrug,80,1,shot,"[calm, building] Füllkrug shapes it... eighty minutes... [EXCITED] difficult chance, he strikes! [SHOUTING] GOAAAAAL! GOAAAAAL! [crowd cheering] [pause] [warmly] Niclas Füllkrug! Dortmund level it in the eightieth—a moment of defiance when they needed it most.
+
+GOAAAAAL!"
+Leverkusen,Dortmund,0,highlight,3,Josip Stanišić,96,1,shot,"[calm, building] Stanišić at the edge... the chance is there... [EXCITED] he strikes it—difficult angle, he MUST find it— [SHOUTING] GOAAAAAL! GOAAAAAL! [crowd cheering] [pause] [warmly] Ninety-six minutes of drama, and Leverkusen refuse to break. GOAAAAAL!"
+Leverkusen,Dortmund,0,intro,-1,,0,0,intro,"[calm, building] Willkommen in der BayArena, wo Die Werkself und Borussia Dortmund sich in diesem entscheidenden Duell gegenüberstehen. [EXCITED] Stanišić prägt dieses Spiel mit seinen Toren und schreibt eine unvergessliche Geschichte [warmly] an diesem denkwürdigen Abend."
+Werder Bremen,Leverkusen,0,highlight,0,Victor Okoh Boniface,24,1,shot,"[calm, building] Boniface prowls at the edge of the box... [EXCITED] here's the chance! [SHOUTING] GOOOAAL! GOAL-O! OYA! [crowd cheering] [pause] [warmly] One of fourteen for the season—clinical finishing from the Leverkusen striker."
+Werder Bremen,Leverkusen,0,highlight,1,Granit Xhaka,59,1,shot,"[calm, building] Xhaka shapes to shoot from an impossible angle... [EXCITED] he winds up, the ball bends impossibly— [SHOUTING] GOOOAAAAAL! TOR! WUNDERBAR! [crowd cheering] [pause] [warmly] And there it is—one of his precious three for the season. Granit Xhaka, the metronome, striking gold. Two-nil."
+Werder Bremen,Leverkusen,0,highlight,2,Florian Wirtz,67,1,shot,"[calm, building] Here from an impossible angle, Wirtz threading the needle... [EXCITED] He finds it! [SHOUTING] GOOOAAL! TOOOOOR! [crowd cheering] [pause] [warmly] One of his eleven for the season—that improbable finish, pure artistry from Leverkusen's creative heartbeat. TOOOOOR!"
+Werder Bremen,Leverkusen,0,highlight,3,Florian Wirtz,82,1,shot,"[calm, building] Wirtz circles into space, the defense fragmented... [EXCITED] Here's the chance! [SHOUTING] GOOOAAL! TOOOOOR! [crowd cheering] [pause] [warmly] One of his eleven for the campaign—Florian finding the net again in this dominant display. Leverkusen simply unstoppable tonight."
+Werder Bremen,Leverkusen,0,highlight,4,Florian Wirtz,89,1,shot,"[calm, building] Wirtz circling, one final chance in the dying light...
+
+[EXCITED] He cuts inside, the difficult angle—
+
+[SHOUTING] GOAAAAAL! TOOOOOR! [crowd cheering]
+
+[pause]
+
+[warmly] And there's his hat-trick! One of eleven goals this remarkable season. Wirtz seals it—5-0. Pure class."
+Werder Bremen,Leverkusen,0,intro,-1,,0,0,intro,"[calm, building] Willkommen zur BayArena, wo Bayer Leverkusen heute gegen Werder Bremen antreten wird. [EXCITED, warmly] Die Werkself haben einen explosiven Abend vor sich — Florian Wirtz schnürt den Hattrick!"
+Wolfsburg,Leverkusen,0,highlight,0,Florian Wirtz,21,0,shot,"[calm, building] Here's Wirtz, difficult angle, twenty-first minute... [EXCITED] he shapes it, curls it toward the far post— [SHOUTING] TOOOOOR! TOOOOOR! [crowd cheering] [pause] [warmly] One of his eleven for the campaign—Leverkusen's creative heartbeat strikes again. TOOOOOR!"
+Wolfsburg,Leverkusen,0,highlight,1,Nathan Tella,36,1,shot,"[calm, building] Tella sensing the opportunity here in the thirty-sixth... [EXCITED] he strikes it clinical, close range! [SHOUTING] GOOOAAAAAL! BUUUT! [crowd cheering] [pause] [warmly] One of five crucial goals for Nathan this campaign — the impact sub delivers when it matters most."
+Wolfsburg,Leverkusen,0,highlight,2,Piero Martín Hincapié Reyna,39,0,shot,"[calm, building] Hincapié sees the space, difficult angle here... [EXCITED] he strikes it! [SHOUTING] GOAAAAAL! GOAAAAAL! [crowd cheering] [pause] [warmly] One of his one for the season—the defender writes himself into the story, Leverkusen in command.
+
+GOAAAAAL!"
+Wolfsburg,Leverkusen,0,highlight,3,Florian Wirtz,85,1,shot,"[calm, building] Wirtz threads the needle in the eighty-fifth... [EXCITED] cuts inside, difficult angle, [SHOUTING] GOOOAAAAAL! TOOOOOR! [crowd cheering] [pause] [warmly] One of his eleven for the campaign — Leverkusen's creative heartbeat seals it. TOOOOOR!"
+Wolfsburg,Leverkusen,0,intro,-1,,0,0,intro,"[calm, building] Willkommen zur BayArena, where Bayer Leverkusen—Die Werkself—face Wolfsburg in a decisive encounter. [EXCITED] Wirtz and Tella find the net as ten-man Wolfsburg crumbles [warmly] in a commanding 2-0 display."
+FSV Mainz 05,Leverkusen,0,highlight,0,Granit Xhaka,2,1,shot,"[calm, building] Xhaka circling... [EXCITED] he shifts left, the angle impossible— [SHOUTING] GOOOAAL! TOR! WUNDERBAR! [crowd cheering] [pause] [warmly] One of just three for the season, and what a moment to strike—Leverkusen ahead!"
+FSV Mainz 05,Leverkusen,0,highlight,1,Dominik Kohr,6,1,shot,"[calm, building] Kohr circling, the chance arrives...
+[EXCITED] He strikes it! Difficult! Curling!
+[SHOUTING] GOAAAAAL! GOAAAAAL! [crowd cheering]
+[pause]
+[warmly] Mainz level it in the sixth—Kohr with the composure to finish. GOAAAAAL! A moment of parity, though the afternoon would tell another story."
+FSV Mainz 05,Leverkusen,0,highlight,2,Robert Andrich,67,1,shot,"[calm, building] Andrich circling, looking for space... [EXCITED] HERE'S THE CHANCE! [SHOUTING] TOOOOOR! TOOOOOR! [crowd cheering] [pause] [warmly] One of four for the campaign—what an improbable finish from that impossible angle! TOOOOOR!"
+FSV Mainz 05,Leverkusen,0,intro,-1,,0,0,intro,"[calm, building] Willkommen zur BayArena, wo Bayer Leverkusen heute gegen FSV Mainz 05 antreten. [EXCITED] Die Werkself sichert sich einen hart erkämpften 2-1-Sieg, nachdem Mainz auf zehn Mann reduziert wurde — Xhaka und Andrich treffen [warmly] in einem Spiel voller Dramatik."
+Leverkusen,Darmstadt 98,0,highlight,0,Oscar Vilhelmsson,27,0,shot,"[calm, building] Twenty-seven minutes, Darmstadt sensing an opening... [EXCITED] Vilhelmsson into the box, the chance is there! [SHOUTING] GOAAAAAL! GOAAAAAL! [crowd cheering] [pause] [warmly] Oscar Vilhelmsson strikes! A lifeline for the visitors in this crucial hour.
+
+GOAAAAAL!"
+Leverkusen,Darmstadt 98,0,highlight,1,Nathan Tella,32,1,shot,"[calm, building] Tella prowls at the edge... a difficult chance materializes... [EXCITED] he strikes! [SHOUTING] GOOOAAL! BUUUT! [crowd cheering] [pause] [warmly] One of his five for the campaign—the impact sub delivers when Leverkusen needs him most."
+Leverkusen,Darmstadt 98,0,highlight,2,Borja Iglesias Quintas,40,0,shot,"[calm, building] Iglesias into the box, space opening... [EXCITED] HERE'S THE CHANCE! [SHOUTING] GOAAAAAL! GOAAAAAL! [crowd cheering] [pause] [warmly] Borja Iglesias, clinical finish—Leverkusen's resilience on full display. GOAAAAAL!"
+Leverkusen,Darmstadt 98,0,highlight,3,Nathan Tella,51,1,shot,"[calm, building] The second half breathes new life into Leverkusen's attack...
+
+[EXCITED] Tella cuts inside, difficult angle, can he find it?
+
+[SHOUTING] GOOOAAL! BUUUT! [crowd cheering]
+
+[pause]
+
+[warmly] A brace for the impact substitute—one of his five crucial goals this campaign. Leverkusen's dominance complete."
+Leverkusen,Darmstadt 98,0,intro,-1,,0,0,intro,"[calm, building] Willkommen zum BayArena, where Die Werkself have just delivered a commanding performance against Darmstadt 98. [EXCITED] Nathan Tella wrote his name into tonight's script with a brilliant brace [warmly] in what proved to be a dominant 2-0 victory."
+M'gladbach,Leverkusen,0,highlight,0,Florian Wirtz,22,0,shot,"[calm, building] Wirtz into the box, twenty-two minutes... [EXCITED] he shapes to shoot! [SHOUTING] TOOOOOR! TOOOOOR! [crowd cheering] [pause] [warmly] One of his eleven for the campaign—the creative heartbeat strikes again. TOOOOOR!"
+M'gladbach,Leverkusen,0,highlight,1,Jeremie Frimpong,56,0,shot,"[calm, building] Frimpong charges forward, this is the moment...
+[EXCITED] He strikes it! [SHOUTING] GOAAAAAL! DOELPUNT! [crowd cheering]
+[pause]
+[warmly] One of his nine for the season—the fullback's brilliance on display."
+M'gladbach,Leverkusen,0,highlight,2,Nathan Tella,91,0,shot,"[calm, building] Tella in the box, ninety-first minute, one last chance...
+[EXCITED] He's got it! He strikes!
+[SHOUTING] GOOOAAL! BUUUT! [crowd cheering]
+[pause]
+[warmly] One of his five for the campaign—the impact sub delivers when it matters most."
+M'gladbach,Leverkusen,0,intro,-1,,0,0,intro,"[calm, building] Willkommen in der BayArena, where Leverkusen's Die Werkself prepare to face Mönchengladbach in this crucial encounter. [EXCITED] Two sides determined to claim the points [warmly] in what promises to be a tightly contested battle."
+Leverkusen,RB Leipzig,0,highlight,0,Xavi Simons,6,1,shot,"[calm, building] Simons circling inside the box, tight angle... [EXCITED] HERE'S THE CHANCE— [SHOUTING] GOAAAAAL! GOAAAAAL! [crowd cheering] [pause] [warmly] What a finish from Xavi Simons! A difficult strike, and Leipzig draw level in the sixth minute. GOAAAAAL!"
+Leverkusen,RB Leipzig,0,highlight,1,Nathan Tella,46,1,shot,"[calm, building] Tella sensing the moment at the stroke of halftime...
+
+[EXCITED] He's in, he's positioned perfectly—
+
+[SHOUTING] GOOOAAAAAL! BUUUT! [crowd cheering]
+
+[pause]
+
+[warmly] One of five crucial goals this season—the impact substitute strikes to level it. Leverkusen breathing again."
+Leverkusen,RB Leipzig,0,highlight,2,Ikoma Loïs Openda,55,1,shot,"[calm, building] Openda circling, looking for redemption here...
+
+[EXCITED] He finds space! The shot comes in—difficult angle—
+
+[SHOUTING] GOAAAAAL! GOAAAAAL! [crowd cheering]
+
+[pause]
+
+[warmly] Ikoma Loïs Openda breathes life back into Leipzig's afternoon. 2-1. A goal of character, though the mountain still stands tall.
+
+GOAAAAAL!"
+Leverkusen,RB Leipzig,0,highlight,3,Jonathan Tah,62,1,shot,"[calm, building] Tah steps up from the back, a rare moment of attacking thrust... [EXCITED] he strikes it clean, difficult chance, here it comes— [SHOUTING] GOOOAAL! TOOOOOR! [crowd cheering] [pause] [warmly] Jonathan Tah! One of his four for the season, and Leverkusen are level at two! TOOOOOR! The centre-back writes another chapter in their remarkable campaign."
+Leverkusen,RB Leipzig,0,highlight,4,Piero Martín Hincapié Reyna,90,1,shot,"[calm, building] Ninety minutes... Hincapié steps forward...
+
+[EXCITED] A defender's moment, a striker's finish—
+
+[SHOUTING] GOAAAAAL! GOAAAAAL! [crowd cheering]
+
+[pause]
+
+[warmly] One precious goal for the season, and it arrives when Leverkusen need it most. Poetry from the back.
+
+GOAAAAAL!"
+Leverkusen,RB Leipzig,0,intro,-1,,0,0,intro,"[calm, building] Willkommen zur BayArena, where Leverkusen and Leipzig meet in a clash of attacking ambition. [EXCITED] Tella, Tah, and Reyna find the net in a thrilling 3-2 victory for Die Werkself [warmly] today."

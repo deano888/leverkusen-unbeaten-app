@@ -39,7 +39,7 @@ COMMENTARY = f"{CACHE_DIR}/commentary.csv"
 #   "Josh"    — energetic, younger pundit feel
 #   "Arnold"  — powerful, dramatic
 VOICE_NAME = "Adam"
-MODEL_ID   = "eleven_monolingual_v1"
+MODEL_ID   = "eleven_v3"  # Most expressive — supports audio tags
 
 def slugify(home, away, content_type, idx):
     """Create a safe filename."""
@@ -103,9 +103,9 @@ def generate_audio(voice_id, text, out_path):
             "text": text,
             "model_id": MODEL_ID,
             "voice_settings": {
-                "stability": 0.4,
+                "stability": 0.35,   # lower = more expressive
                 "similarity_boost": 0.85,
-                "style": 0.3,
+                "style": 0.45,    # higher for commentator energy
                 "use_speaker_boost": True
             }
         }
@@ -148,6 +148,7 @@ def main():
         print("No commentary found.")
         return
 
+    print(f"  Model: {MODEL_ID} — supports [SHOUTING] [EXCITED] [warmly] [crowd cheering] tags")
     total = len(df)
     generated = 0
     skipped   = 0
