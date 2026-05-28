@@ -1143,19 +1143,22 @@ def main():
                      type="primary" if st.session_state.view_tab=="results" else "secondary",
                      use_container_width=True):
             st.session_state.view_tab = "results"
-            st.session_state["stop_audio"] = True; st.rerun()
+            st.session_state["stop_audio"] = True
+            st.session_state["open_match"] = None; st.rerun()
     with col_l:
         if st.button("🏆  League Table", key="tab_league",
                      type="primary" if st.session_state.view_tab=="league" else "secondary",
                      use_container_width=True):
             st.session_state.view_tab = "league"
-            st.session_state["stop_audio"] = True; st.rerun()
+            st.session_state["stop_audio"] = True
+            st.session_state["open_match"] = None; st.rerun()
     with col_s:
         if st.button("⚽  Top Scorers", key="tab_scorers",
                      type="primary" if st.session_state.view_tab=="scorers" else "secondary",
                      use_container_width=True):
             st.session_state.view_tab = "scorers"
-            st.session_state["stop_audio"] = True; st.rerun()
+            st.session_state["stop_audio"] = True
+            st.session_state["open_match"] = None; st.rerun()
 
     _l, sel_col, badge_col, _r = st.columns([3, 3, 1, 3])
 
@@ -1176,6 +1179,7 @@ def main():
         )
         if st.session_state.get("_prev_md") != selected:
             st.session_state["stop_audio"] = True
+            st.session_state["open_match"] = None  # clear any open dialog
         st.session_state["_prev_md"] = selected
         st.session_state.selected_md = selected
 
